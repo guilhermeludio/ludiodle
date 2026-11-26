@@ -9,7 +9,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CFG = json.load(open(os.path.join(ROOT, "pipeline", "modes.json"), encoding="utf-8"))
 MODES = [m for m in CFG["modes"] if m["id"] != "normal" and os.path.exists(os.path.join(ROOT, "data", m["id"], "meta.js"))]
 NAME = {m["id"]: m["name"] for m in CFG["modes"]}
-URL = "file://" + os.path.join(ROOT, "index.html")
+URL = "file://" + os.path.join(ROOT, "index.html") + "#normal"
 NOV25 = datetime.datetime(2026, 11, 25, 12, 0, 0)       # desafio #56 (início em 01/10/2026)
 
 def load(mode):

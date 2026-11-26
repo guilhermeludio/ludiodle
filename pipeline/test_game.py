@@ -16,7 +16,7 @@ def check(name, cond, extra=""):
     print(("PASS " if cond else "FAIL ") + name + (f"  [{extra}]" if extra else ""))
 
 NOV25 = datetime.datetime(2026, 11, 25, 12, 0, 0)
-URL = "file://" + os.path.join(ROOT, "index.html")
+URL = "file://" + os.path.join(ROOT, "index.html") + "#normal"
 
 def new_page(ctx, when=NOV25, url=URL, wait=True):
     p = ctx.new_page()

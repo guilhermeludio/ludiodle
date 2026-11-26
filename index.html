@@ -107,6 +107,7 @@ h2{font-size:.92rem;font-weight:700;color:var(--muted);margin:20px 2px 6px}
 .sw.won{background:var(--c1);border-color:var(--c1)}.sw.play{background:var(--c5);border-color:var(--c5)}.sw.none{background:var(--panel)}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .hidden{display:none!important}
+.nogame #tabPlay,.nogame #tabHist,.nogame #tabMenu{display:none}
 footer{color:var(--muted);font-size:.78rem;text-align:left;margin-top:26px}
 @media (prefers-reduced-motion:reduce){.g.last .bar{animation:none}*{transition:none!important}}
 
@@ -123,7 +124,7 @@ header h1 button:focus-visible{outline:2px solid var(--accent);outline-offset:4p
 @media (prefers-color-scheme:light){.menu-card{background:linear-gradient(160deg,hsl(var(--h) 55% 92%),#fff);border-color:hsl(var(--h) 25% 78%)}.menu-card b{color:hsl(var(--h) 80% 32%)}.menu-card:hover,.menu-card:focus-visible,.menu-card[aria-current=true]{border-color:hsl(var(--h) 80% 38%)}}
 </style>
 </head>
-<body>
+<body class="nogame">
 <div class="wrap">
   <header>
     <h1><button id="logo" type="button" title="Abrir o menu de jogos" aria-label="HIHIHIacerto — abrir o menu de jogos"><span class="mark" aria-hidden="true"></span>HIHIHIacerto</button></h1>
@@ -275,6 +276,7 @@ async function openChallenge(n){
     cur={n,idx,r,pos,rec:rec||newRec(n,idx)};
   }catch(e){setMsg(e.message,"err");return;}
   history.replaceState(null,"","#"+mode+"/"+n);
+  document.body.classList.remove("nogame");
   setMsg("","");
   render(true);
   if(!finished())startTick();
@@ -514,14 +516,21 @@ async function renderMenu(){
       if(r&&(r.solved||r.gaveUp||r.guesses.length)){const att=r.guesses.filter(x=>!x.hint&&!x.reveal).length;
         st=r.solved?"Hoje: acertou em "+att+(att===1?" tentativa":" tentativas"):r.gaveUp?"Hoje: desistiu":"Hoje: em andamento · "+att+(att===1?" tentativa":" tentativas")}
     }catch(e){}
-    html+='<button class="menu-card" data-m="'+m.id+'" style="--h:'+(HUE[m.id]||172)+'"'+(m.id===mode?' aria-current="true"':'')+'><b>'+esc(m.name)+'</b><span>'+esc(m.desc||"")+'</span><em>'+st+'</em></button>';
+    html+='<button class="menu-card" data-m="'+m.id+'" style="--h:'+(HUE[m.id]||172)+'"'+(cur&&m.id===mode?' aria-current="true"':'')+'><b>'+esc(m.name)+'</b><span>'+esc(m.desc||"")+'</span><em>'+st+'</em></button>';
   }
   grid.innerHTML=html;
 }
-async function openMenu(){if(cur&&!finished())stopTick();if(cur){try{await store.put(cur.rec)}catch(e){}}setTab("menu")}
-$("logo").onclick=openMenu;$("tabMenu").onclick=openMenu;
+const rootUrl=()=>location.pathname+location.search;
+async function openMenu(push=true){
+  if(cur&&!finished())stopTick();
+  if(cur){try{await store.put(cur.rec)}catch(e){}}
+  if(push&&location.hash)history.pushState(null,"",rootUrl());   // menu = endereço raiz, sem #
+  setTab("menu");
+}
+$("logo").onclick=()=>openMenu();$("tabMenu").onclick=()=>openMenu();
 $("menuGrid").addEventListener("click",e=>{const b=e.target.closest("button[data-m]");if(!b)return;
-  if(b.dataset.m===mode){if(cur&&!finished())startTick();setTab("play");$("in").focus({preventScroll:true})}else switchMode(b.dataset.m)});
+  history.pushState(null,"","#"+b.dataset.m);
+  if(cur&&b.dataset.m===mode){history.replaceState(null,"","#"+mode+"/"+cur.n);if(!finished())startTick();setTab("play");$("in").focus({preventScroll:true})}else switchMode(b.dataset.m)});
 
 /* ---------- eventos ---------- */
 $("f").addEventListener("submit",e=>{e.preventDefault();submit($("in").value)});
@@ -554,7 +563,16 @@ async function precache(){
   let id="normal",n=Math.max(1,t);
   if(m){if(m[1]&&MODES.some(x=>x.id===m[1]))id=m[1];const h=+m[2];if(h>=1&&h<=t)n=h;}
   renderModes();
-  await switchMode(id,n);
+  const route=async()=>{
+    const q=location.hash.slice(1).match(/^(?:([a-z0-9]+)\/)?(\d+)$/),only=location.hash.slice(1).match(/^([a-z0-9]+)$/);
+    if(q&&q[1]&&MODES.some(x=>x.id===q[1])){
+      const nn=+q[2];if(q[1]!==mode||!cur)await switchMode(q[1],nn>=1&&nn<=t?nn:Math.max(1,t));else if(cur.n!==nn&&nn>=1&&nn<=t)await openChallenge(nn);else setTab("play");
+    }else if(only&&MODES.some(x=>x.id===only[1])){await switchMode(only[1]);}
+    else{document.body.classList.toggle("nogame",!cur);await openMenu(false);}
+  };
+  addEventListener("popstate",route);
+  if(m){if(m[1]&&MODES.some(x=>x.id===m[1])){await route();}else{await switchMode("normal",n);}}   // #57 antigo = Normal
+  else await route();
   precache();
 })();
 })();

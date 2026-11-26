@@ -1,5 +1,5 @@
 /* Service worker: deixa o jogo funcionar offline depois da primeira visita (https/localhost). */
-const CACHE = "hihihiacerto-v10";
+const CACHE = "hihihiacerto-v11";
 const CORE = ["./", "index.html", "data/modes.js"];
 
 self.addEventListener("install", e => {

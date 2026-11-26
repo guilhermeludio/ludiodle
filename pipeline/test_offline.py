@@ -15,7 +15,7 @@ with sync_playwright() as pw:
     br = pw.chromium.launch(); ctx = br.new_context()
     p = ctx.new_page(); p.clock.install(time=datetime.datetime(2026,11,25,12,0,0))
     errs=[]; p.on("pageerror", lambda e: errs.append(str(e)))
-    p.goto(f"http://127.0.0.1:{port}/index.html"); p.wait_for_function("document.getElementById('chNum').textContent.includes('#')")
+    p.goto(f"http://127.0.0.1:{port}/index.html#normal"); p.wait_for_function("document.getElementById('chNum').textContent.includes('#')")
     p.evaluate("navigator.serviceWorker.ready.then(()=>1)")
     p.wait_for_timeout(5000)   # precache dos próximos dias
     w = VOC[ORD[55]]
@@ -29,7 +29,7 @@ with sync_playwright() as pw:
     check("offline: troca para outro modo (dados em cache)", p.inner_text("#chNum")=="Naruto · Desafio #56")
     # dia seguinte precacheado
     p2 = ctx.new_page(); p2.clock.install(time=datetime.datetime(2026,11,27,12,0,0))
-    p2.goto(f"http://127.0.0.1:{port}/index.html"); p2.wait_for_function("document.getElementById('chNum').textContent.includes('#')", timeout=15000)
+    p2.goto(f"http://127.0.0.1:{port}/index.html#normal"); p2.wait_for_function("document.getElementById('chNum').textContent.includes('#')", timeout=15000)
     check("offline: desafios dos próximos dias já estão em cache", p2.inner_text("#chNum")=="Normal · Desafio #58")
     check("sem erros de JS offline", not errs, str(errs[:2]))
     br.close()

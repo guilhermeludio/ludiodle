@@ -109,3 +109,4 @@ python test_game.py && python test_modes.py && python test_offline.py
 - Revisão final de vocabulário: One Piece só até o arco de Wano e sem personagens obscuros; Minecraft só itens, mobs e blocos padrão.
 
 - Recomeço: sementes novas em todos os modos e banco local novo (`hihihiacerto`); os dias começam todos do zero, mesma data inicial (01/10/2026).
+- Página inicial = menu de jogos (endereço raiz, sem #); cada jogo abre em #modo/N; a logo e a aba Menu voltam à raiz.
