@@ -1,0 +1,26 @@
+{
+ "mode": "anime",
+ "mode_name": "Anime",
+ "themes": [
+  "Anime",
+  "Bleach",
+  "Pokémon"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 347,
+ "vocab_sha256": "560257134ab92af5f495b62d87f8863b17aacf58efe6265354bb52f5c8a400fd",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 1002,
+ "vectors_sha256": "2418a16f0e3795e918a381a5a71349bcc7aa8b1c9bf1e369255b35b60adcde01",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 128469991,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 347,
+ "forms_count": 0
+}

@@ -1,0 +1,24 @@
+{
+ "mode": "fa",
+ "mode_name": "Futebol Americano",
+ "themes": [
+  "Futebol Americano"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 269,
+ "vocab_sha256": "6f3dc34fa93a049fb912cbc1a0f862ed3319e7ff82205c88a40248a77fe728c1",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 518,
+ "vectors_sha256": "47c0bc521a67c680d1ce99ef5d4a912635063341ecdc0152bc53d21643eb1cf7",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 458273128,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 269,
+ "forms_count": 0
+}

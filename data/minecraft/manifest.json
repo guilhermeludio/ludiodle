@@ -1,0 +1,24 @@
+{
+ "mode": "minecraft",
+ "mode_name": "Minecraft",
+ "themes": [
+  "Minecraft"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 184,
+ "vocab_sha256": "4a8eee0fbc6b57c1546e3b771a98a72d6eeb2cb02d5d0389dfbeb5f84e13ae60",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 458,
+ "vectors_sha256": "929417bcf1cb8b5a27545a3c46fd04456907e19775a256b23a71b697c6d9b717",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 367918094,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 184,
+ "forms_count": 17
+}

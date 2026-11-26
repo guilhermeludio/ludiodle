@@ -1,0 +1,184 @@
+# One Piece: palavra | características (bando, papel, fruta, estilo de luta, arco, relações)
+Luffy | chapeu-de-palha*4, tripulacao*1, capitao*2.5, protagonista*2.5, gomu-gomu*3, fruta-do-diabo*2, borracha*2, pirata*2, sonho-rei-dos-piratas*2, ace*3, sabo*2.5, hancock*1.5, shanks*1.5, haki*1.5, gear*2, nika*2, carne*1.5, zoro*2.5, nami*2, sanji*2, usopp*2, chopper*2, robin*2, franky*1.5, brook*1.5, jinbe*1.5, law*1.5, =monkey, =mugiwara
+Zoro | chapeu-de-palha*4, tripulacao*1, espadachim*3, tres-espadas*2.5, imediato*2, sabre*2, cabelo-verde, sanji*2.5, mihawk*2, haki*1.5, wado*1.5, direcao-ruim*2, bebida*1, =roronoa
+Nami | chapeu-de-palha*4, tripulacao*1, luffy*1.5, zoro*1, navegadora*3, ladra*2, mapas*2, clima-tact*2.5, laranja, dinheiro*2, arlong*1, bellemere*1, cabelo-laranja
+Usopp | chapeu-de-palha*4, tripulacao*1, atirador*3, mentiroso*2.5, estilingue*2.5, sniper-king*2, nariz-grande, covarde*1.5, kaya*1, luffy*1
+Sanji | chapeu-de-palha*4, tripulacao*1, cozinheiro*3, chute*2.5, perna-negra*2.5, mulheres*2, baratie*2, fumante, zoro*2.5, vinsmoke*1.5, loiro, diable-jambe*1.5, =vinsmoke
+Chopper | chapeu-de-palha*4, tripulacao*1, medico*3, rena*2.5, fruta-do-diabo*2, fofo*2, hito-hito*2, doctor*1.5, algodao-doce*1, drum*1.5, =tonytonychopper
+Robin | chapeu-de-palha*4, tripulacao*1, arqueologa*3, poneglyph*2.5, hana-hana*2.5, fruta-do-diabo*2, ohara*2.5, crocodile*1.5, historia*2, morena, luffy*1
+Franky | chapeu-de-palha*4, tripulacao*1, carpinteiro*3, ciborgue*3, cola*1.5, thousand-sunny*2.5, galley-la*2, super*1.5, cabelo-azul, sunny*1.5
+Brook | chapeu-de-palha*4, tripulacao*1, musico*3, esqueleto*3, yomi-yomi*2.5, fruta-do-diabo*2, espadachim*1.5, afro*2, binks*2, laboon*2, panty*1
+Jinbe | chapeu-de-palha*4, tripulacao*1, timoneiro*2, peixe-homem*3, karate*2.5, shichibukai*2, tubarao-baleia*2, azul, sol*1.5, =jimbei, =jinbei
+Vivi | alabasta*3, princesa*2.5, baroque-works*1.5, chapeu-de-palha*1.5, azul, pato*1.5
+Ace | luffy*4.5, irmao*2.5, mera-mera*3, fogo*2.5, barba-branca*2.5, fruta-do-diabo*2, piratas-barba-branca*2, marineford*2, roger*1.5, sabo*2, punho-de-fogo*2, =portgas, =fireacefist
+Sabo | luffy*3.5, ace*2, irmao*2, exercito-revolucionario*3, dragon*2, fruta-do-diabo*1.5, mera-mera*2, cartola, ceu*1
+Shanks | yonkou*3, ruivo*3, cabelo-vermelho*2.5, luffy*2.5, chapeu-de-palha*1.5, pirata*2, haki*2, braco-perdido*2, roger*1.5, mihawk*1.5, vilarejo-fuusha*1.5, capitao*2
+Mihawk | shichibukai*3, espadachim*3, zoro*2.5, melhor-espadachim*3, olhos-de-falcao*2, shanks*2, castelo*1.5, yoru*2
+Buggy | pirata*2.5, palhaco*3, fruta-do-diabo*2, bara-bara*2.5, shichibukai*2, yonkou*2, shanks*2, luffy*1.5, nariz-vermelho, comico*2
+Crocodile | shichibukai*3, vilao*2.5, areia*3, suna-suna*2.5, fruta-do-diabo*2, baroque-works*3, alabasta*2.5, gancho*2, robin*1.5, luffy*1.5, =sircrocodile
+Doflamingo | shichibukai*3, vilao*2.5, dressrosa*3, fios*3, ito-ito*2.5, fruta-do-diabo*2, donquixote*3, rosinante*2, law*2.5, celestial*1.5, penas*1.5, oculos, =doffy, =donquixotedoflamingo
+Law | shichibukai*3, cirurgiao*2.5, heart*3, ope-ope*3, fruta-do-diabo*2, room*2.5, doflamingo*2.5, luffy*3, corazon*2, submarino*2, medico*1.5, capitao*2, =trafalgar, =trafalgarlaw
+Kid | supernova*3, pirata*2, magneto*2.5, jiki-jiki*2, fruta-do-diabo*2, kid-pirates*2.5, ruivo, luffy*1.5, capitao*2, law*1.5, =eustass, =eustasskid
+Teach | yonkou*3, barba-negra*3, vilao*2.5, yami-yami*3, gura-gura*2.5, fruta-do-diabo*2, ace*2, barba-branca*2, piratas-barba-negra*3, dentes-faltando*1, escuridao*2, =barbanegra, =marshalldteach
+Newgate | yonkou*3, barba-branca*3, terremoto*3, gura-gura*2, fruta-do-diabo*2, ace*2.5, marineford*2.5, marco*2, bigode*2, pirata*2, familia*2, naginata*1.5, =barbabranca, =edwardnewgate
+Marco | piratas-barba-branca*3, fenix*3, tori-tori*2.5, fruta-do-diabo*2, comandante*2, barba-branca*2, ace*1.5, azul*2
+Kaido | yonkou*3, vilao*2.5, wano*3, dragao*3, hyou-hyou*2, fruta-do-diabo*2, bebida*2, piratas-das-feras*3, luffy*2, oden*2, forca*2, kaido-cem-feras*1.5
+Katakuri | big-mom*3, vilao*2.5, mochi*3, mochi-mochi*2.5, fruta-do-diabo*2, luffy*2, totto-land*2.5, doce*2, cachecol, comandante*2, =charlottekatakuri
+Linlin | yonkou*3, big-mom*3, vilao*2.5, totto-land*3, soru-soru*3, doce*2.5, fruta-do-diabo*2, almas*2, mae*1.5, gigante*1.5, katakuri*2, =bigmom, =charlottelinlin
+Roger | rei-dos-piratas*3, gol-d-roger*3, lendario*3, one-piece*3, pirata*2, tesouro*2.5, raftel*2.5, shanks*2, ace*2, barba-branca*2, execucao*2, loguetown*2, =goldroger, =gol
+Rayleigh | roger*3, imediato*2.5, rei-sombrio*3, lendario*2, luffy*2, sabaody*2.5, haki*2.5, bando-do-roger*2.5, oculos, idoso, =reiley
+Garp | marinha*3, heroi-da-marinha*3, vice-almirante*2, luffy*3.5, avo*2.5, ace*3, dragon*3, punho-do-amor*2, roger*3, cachorro*1, biscoito*1, =monkeydgarp, koby*2.5, sengoku*2, luffy*1
+Sengoku | marinha*3, almirante-da-frota*2.5, buda*2.5, fruta-do-diabo*2, garp*2, marineford*2, cabra*1.5
+Akainu | marinha*3, almirante*3, magma*3, magu-magu*2.5, fruta-do-diabo*2, ace*2.5, barba-branca*2, justica-absoluta*3, vilao*2, marineford*2, aokiji*1.5, =sakazuki
+Aokiji | marinha*3, almirante*3, gelo*3, hie-hie*2.5, fruta-do-diabo*2, robin*2, kuzan*2.5, venda-nos-olhos, preguica*2, ohara*2, akainu*1.5, =kuzan
+Kizaru | marinha*3, almirante*3, luz*3, pika-pika*2.5, fruta-do-diabo*2, lento*1.5, chute*2, sabaody*1.5, akainu*1.5, =borsalino
+Fujitora | marinha*3, almirante*3, gravidade*3, zushi-zushi*2.5, fruta-do-diabo*2, cego*2, dressrosa*2, akainu*1, =issho
+Smoker | marinha*3, vice-almirante*2.5, fumaca*3, moku-moku*2.5, fruta-do-diabo*2, luffy*2.5, loguetown*2, charuto*2, tashigi*1.5, jitte*1.5
+Koby | marinha*3, luffy*2.5, garp*2, haki*1.5, rosa, alvida*1.5, heroi-da-marinha*1
+Tashigi | marinha*3, espadas*2, smoker*2.5, zoro*1.5, oculos*2, loguetown*1.5
+Arlong | piratas-arlong*3, peixe-homem*3, serra*2.5, nami*2.5, vilao*2, tubarao*2.5, cocoyasi*2.5, east-blue*2, chapeu-de-palha*1.5
+Kuro | vilao*2, gato*1, kaya*2, usopp*1.5, east-blue*2, garras*2, siam*1.5
+Krieg | vilao*2, piratas-krieg*3, baratie*2, armadura*2.5, zeff*1.5, east-blue*2, mihawk*2, sanji*1.5
+Zeff | baratie*3, cozinheiro*3, sanji*2.5, perna-de-pau*2.5, restaurante*2, east-blue*2, krieg*1.5
+Bellemere | nami*3, nojiko*2.5, mae*2.5, arlong*1.5, tangerinas*2, cocoyasi*2, marinha*1
+Dragon | exercito-revolucionario*3, revolucionario*3, luffy*2.5, pai*2.5, sabo*2.5, garp*2, procurado*2, tatuagem, tempestade*1.5, =monkeydragon
+Oden | wano*3, samurai*2.5, kaido*2.5, kozuki*3, barba-branca*2, roger*2, duas-espadas*2.5, ferver*1.5, momonosuke*2, tragico
+Momonosuke | wano*3, kozuki*3, oden*2.5, dragao*2, kaido*1.5, filho*1.5, shogun*2
+Yamato | wano*3, kaido*3, oni*2.5, filha*2, inu-inu*2, fruta-do-diabo*2, luffy*2, oden*2, cabelo-branco, clube
+Hancock | shichibukai*3, amazon-lily*3, luffy*3.5, mulher*2, meromero*2.5, fruta-do-diabo*2, imperatriz*2, kuja*3, cobra*1.5, bonita, =boahancock
+Ivankov | exercito-revolucionario*3, okama*3, impel-down*2.5, hormonios*2, afro*1.5, luffy*1.5
+Rebecca | dressrosa*3, gladiador*2.5, coliseu*2.5, kyros*2, luffy*1.5
+Bonney | supernova*3, pirata*2, fruta-do-diabo*2, toshi-toshi*2, glutona*2, piratas-bonney*2.5, comida*2, kuma*1.5
+Kuma | shichibukai*3, urso*2.5, nikyu-nikyu*3, fruta-do-diabo*2, bonney*2.5, revolucionario*2, sabaody*2, patas*2.5, pacifista*2.5, tragico*1.5, luffy*1.5, =bartholomewkuma
+Moria | shichibukai*3, vilao*2, sombras*3, kage-kage*2.5, fruta-do-diabo*2, thriller-bark*3, zumbis*3, brook*2.5, gigante*1.5, =gecko
+Enel | skypiea*3, vilao*2, deus*2.5, raio*3, goro-goro*2.5, fruta-do-diabo*2, luffy*1, borracha-imune*2, lua*1.5, tambores*2
+Lucci | cp9*3, cp0*2.5, governo*3, robin*2.5, enies-lobby*3, leopardo*2.5, neko-neko*2, fruta-do-diabo*2, luffy*2, rokushiki*3, pombo*2
+Gomu Gomu | luffy*3, fruta-do-diabo*3, borracha*3, gear*2, nika*1.5, ataque*2, punho*2, =gomu
+Haki | haki*3, poder*3, tecnica*2.5, luffy*1.5, rayleigh*1.5, shanks*1.5, kaido*1.5, observacao*2, armamento*2, rei*2
+Wano | pais*3, samurai*2.5, kaido*2.5, oden*2, luffy*1.5, ilha*2, orochi*2, momonosuke*2, yamato*2
+Alabasta | pais*3, deserto*3, vivi*2.5, crocodile*2.5, baroque-works*2, luffy*1.5, areia*2
+Marineford | ilha*3, guerra*3, ace*2.5, barba-branca*2.5, marinha*2.5, luffy*2, akainu*2, topo-da-guerra*2.5
+Dressrosa | ilha*3, doflamingo*3, law*2, luffy*2, brinquedos*2.5, coliseu*2.5, rebecca*2, flores*1.5
+Skypiea | ilha*3, ceu*3, enel*3, luffy*1.5, anjos*2, nuvens*3, ouro*2, dials*1
+Raftel | ilha*3, one-piece*3, tesouro*3, roger*2.5, final*2.5, grand-line*2, laugh-tale*2.5, destino*2
+Grand Line | mar*3, perigoso*2, luffy*1.5, piratas*2, log-pose*2, paraiso*1.5
+Merry | navio*3, chapeu-de-palha*1.2, usopp*1.5, kaya*2, carneiro*2.5, going-merry*3, adeus*2
+Marinha | organizacao*3, governo*2.5, almirante*2.5, garp*2, smoker*2, akainu*2, justica*3, =marines, =navy
+Shichibukai | titulo*3, pirata*2, governo*2.5, mihawk*2, doflamingo*2, crocodile*2, law*1.5, hancock*2, moria*1.5, =shichibukais
+Yonkou | titulo*3, imperador*3, pirata*2, shanks*2.5, barba-branca*2.5, kaido*2.5, big-mom*2.5, teach*2.5, luffy*1.5, mar*1.5, =yonko, =imperadores
+Pacifista | robo*3, kuma*2, marinha*2, governo*2, laser*2
+Poneglyph | pedra*3, historia*2.5, robin*3, ohara*2.5, raftel*2.5, roger*1.5, vazio*2
+Bartolomeo | supernova*2.5, fa-luffy*3, barreira*2.5, bari-bari*2.5, fruta-do-diabo*2, dressrosa*2.5, pirata*2, luffy*2
+Cavendish | supernova*2.5, principe*2.5, hakuba*2, dressrosa*2.5, espadachim*2, pirata*2, dupla-personalidade*2
+Perona | thriller-bark*3, fantasma*3, moria*2.5, horo-horo*2.5, fruta-do-diabo*2, gotica*2, zoro*1.5, rosa
+Cobra | alabasta*3, rei*3, vivi*3, pai*1.5
+Sunny | navio*3, chapeu-de-palha*1.2, franky*2.5, leao*2.5, thousand-sunny*3
+Pudding | totto-land*3, big-mom*2.5, sanji*2.5, casamento*2.5, olho-extra*2.5, noiva*2
+Kinemon | wano*3, samurai*3, kozuki*2.5, raposa*1, momonosuke*2, folhas*2, luffy*1.5
+Nojiko | nami*3, irma*2.5, cocoyasi*2, arlong*1.5, tatuagem*1
+Kaya | usopp*3, syrup*2, kuro*2, rica*2, doente*1.5
+Hawkins | supernova*3, pirata*2, fruta-do-diabo*2, mago*2, palha*2, cartas*2, onze-supernovas*1.5
+Drake | supernova*3, marinha*2, espiao*2, dinossauro*2.5, fruta-do-diabo*2, drake-pirates*2
+Apoo | supernova*3, musico*2, pirata*2, fruta-do-diabo*1.5, onze-supernovas*1.5, scratchmen*2
+Bege | supernova*3, gangster*3, fortaleza*2.5, capone*2, fruta-do-diabo*2, big-mom*2, casamento*1.5
+Urouge | supernova*3, monge*3, fruta-do-diabo*2, onze-supernovas*1.5, forca*2
+Foxy | pirata*2.5, davy-back-fight*3, jogos*2.5, east-blue*1.5, fox-pirates*2.5, luffy*1.5, longarina*1
+Wapol | drum*3, rei*2, vilao*2, fruta-do-diabo*2, chopper*2.5, comer*1.5, baku-baku*2
+Hiluluk | drum*3, medico*3, chopper*3, cerejeira*3, kureha*2, pai-de-chopper*2.5
+Kureha | drum*3, medica*3, chopper*3, hiluluk*2.5, doutora*2, idosa*2
+Pedro | zou*3, minks*3, guardiao*2.5, leopardo*2.5, sacrificio*2, luffy*1.5
+Carrot | zou*3, minks*3, coelha*3, sulong*2.5, luffy*2, fofa*2
+Nekomamushi | zou*3, minks*3, gato*3, wano*2, kozuki*2.5, inuarashi*3
+Inuarashi | zou*3, minks*3, cachorro*3, wano*2, kozuki*2.5, nekomamushi*3
+Jack | piratas-das-feras*3, vilao*2, zou*3, kaido*2.5, mamute*3, fruta-do-diabo*2
+Queen | piratas-das-feras*3, vilao*2, kaido*2.5, ciborgue*3, fruta-do-diabo*2, calamidade*3, danca*2
+King | piratas-das-feras*3, vilao*2, kaido*2.5, lunaria*3, fruta-do-diabo*2, calamidade*3, fogo*2
+Ulti | piratas-das-feras*3, vilao*2, kaido*2, page-one*2.5, cabeçada*2, fruta-do-diabo*1.5
+Maria | piratas-das-feras*3, vilao*2, calamidade*2.5, aranha*3, kaido*1.5, fruta-do-diabo*2
+Orochi | wano*3, vilao*2.5, shogun*2.5, kaido*2.5, hydra*2.5, oden*2, fruta-do-diabo*2
+Pica | doflamingo*3, familia-donquixote*3, pedra*2.5, voz*3, vilao*2.5, dressrosa*3, fruta-do-diabo*2
+Diamante | doflamingo*3, familia-donquixote*3, vilao*2.5, dressrosa*3, folha*2.5
+Trebol | doflamingo*3, familia-donquixote*3, vilao*2.5, dressrosa*3, gosma*3, fruta-do-diabo*2
+Sugar | doflamingo*3, familia-donquixote*3, dressrosa*3, brinquedos*3, fruta-do-diabo*2, crianca*2.5
+Bellamy | pirata*2.5, doflamingo*2.5, hiena*2.5, jaya*2, luffy*2, fruta-do-diabo*2, mola*2
+Alvida | pirata*2.5, east-blue*3, luffy*2.5, koby*2.5, fruta-do-diabo*2, primeira-vilao*2
+Morgan | marinha*3, east-blue*3, machado*3, luffy*2, zoro*2, tirano*2.5, koby*1.5
+Iceburg | water-seven*3, galley-la*3, franky*2.5, prefeito*3, mestre*2, navio*2, galley-la-company*3
+Paulie | water-seven*3, galley-la*3, franky*1.5, corda*2.5, funcionario*1
+Kaku | cp9*3, governo*3, enies-lobby*3, lucci*2.5, girafa*2.5, fruta-do-diabo*2, espadachim*2.5, assassino*2
+Kalifa | cp9*3, governo*3, enies-lobby*3, lucci*2.5, secretaria*3, fruta-do-diabo*2, sabao*2.5
+Blueno | cp9*3, governo*3, enies-lobby*3, lucci*2.5, porta*3, fruta-do-diabo*2
+Spandam | cp9*3, governo*3, enies-lobby*3, robin*2.5, vilao*2.5, comandante*2.5, covarde*2
+Magellan | impel-down*3, veneno*3, carcereiro*3, luffy*2, dokudoku*2, fruta-do-diabo*2, diretor*2
+Hina | marinha*3, capitã*2, jaula*3, smoker*2.5, ori-ori*2, fruta-do-diabo*2, moça*1.5
+Tsuru | marinha*3, vice-almirante*3, garp*2, sengoku*2, idosa*2.5, lavagem*2, fruta-do-diabo*2
+Burgess | barba-negra*3, pirata*2.5, teach*3, tripulante*2, fruta-do-diabo*2, gordo*1.5
+Wyper | skypiea*3, shandia*3, guerreiro*3, enel*2.5, bazuca*2.5, floresta*2
+Laboon | baleia*3, brook*3, grand-line*2, gigante*3, red-line*2, binks*2.5, musica*2
+Zeus | big-mom*3, totto-land*3, nuvem*3, trovão*3, linlin*3, homies*3, raiva*2
+Helmeppo | marinha*3, east-blue*3, koby*2, morgan*3, zoro*2, filho-do-capitao*2.5, covarde*2
+Hody | peixe-homem*3, vilao*2.5, ilha-gyojin*3, tubarao*2.5, steroids*2, luffy*2, jinbe*1.5
+Koala | exercito-revolucionario*3, sabo*3, karate-gyojin*3, dragon*1.5, fisherman*2, ex-escrava*2, luffy*1
+Jabra | cp9*3, governo*3, enies-lobby*3, lucci*3, lobo*3, fruta-do-diabo*2, assassino*2
+Kumadori | cp9*3, governo*3, enies-lobby*3, lucci*3, kabuki*2.5, assassino*2
+Fukuro | cp9*3, governo*3, enies-lobby*3, lucci*3, zipper*3, assassino*2
+Shiryu | impel-down*3, chuva*3, barba-negra*3, vilao*2.5, fruta-do-diabo*2, magellan*2.5, espadachim*2
+Saul | ohara*3, robin*3, gigante*3, arqueologo*2.5, amigo*2, aokiji*2, barco*1.5
+Clover | ohara*3, robin*2.5, arqueologo*3, professor*2.5, poneglyph*2.5
+Bepo | piratas-heart*3, law*3, urso*3, mink*3, navegador*2.5, branco*2, fofo*2
+Corazon | marinha*2, doflamingo*3, law*3, irmao*3, rosinante*3, silencio*3, heroi*2, fruta-do-diabo*2, nadanada*2
+Rosinante | marinha*2, doflamingo*3, law*3, irmao*3, corazon*3, silencio*3, heroi*2, fruta-do-diabo*2
+Toki | wano*3, kozuki*3, oden*3, esposa*2.5, viajante-do-tempo*3, momonosuke*2.5, hiyori*2.5, fruta-do-diabo*2
+Hiyori | wano*3, kozuki*3, oden*3, filha*2.5, momonosuke*2.5, toki*2.5, orochi*2
+Kikunojo | wano*3, akazaya*3, samurai*2.5, kozuki*2, mulher*2, oden*2.5, yamato*1
+Kawamatsu | wano*3, akazaya*3, samurai*2.5, kappa*3, oden*2.5, kozuki*2
+Denjiro | wano*3, akazaya*3, samurai*2.5, kyoshiro*3, oden*2.5, kozuki*2, orochi*2
+Raizo | wano*3, akazaya*3, ninja*3, kozuki*2, luffy*2, fumaça*2
+Kanjuro | wano*3, akazaya*3, samurai*2.5, desenhos*3, kozuki*2.5, orochi*2.5, traidor*2
+Smoothie | big-mom*3, totto-land*3, vilao*2.5, katakuri*2.5, espremer*3, doce*2, filha*2
+Cracker | big-mom*3, totto-land*3, vilao*2.5, katakuri*2.5, biscoito*3, doce*2, filho*2, luffy*2.5
+Perospero | big-mom*3, totto-land*3, vilao*2.5, katakuri*2.5, pirulito*3, doce*2, filho*2
+Oven | big-mom*3, totto-land*3, vilao*2.5, katakuri*2.5, forno*3, doce*2, filho*2
+Daifuku | big-mom*3, totto-land*3, vilao*2, katakuri*2.5, doce*2, filho*2
+Ryuma | thriller-bark*3, samurai*3, zumbi*3, zoro*2.5, espadachim*2.5, wano*2, shusui*3
+Shirahoshi | ilha-gyojin*3, princesa*3, sereia*3, gigante*2.5, poseidon*3, luffy*2, neptune*2.5, fofa*2
+Neptune | ilha-gyojin*3, rei*3, shirahoshi*3, sereia*2, tritao*2, filho*1.5
+Fukaboshi | ilha-gyojin*3, principe*3, shirahoshi*3, neptune*2.5, irmao*2
+Sabaody | ilha*3, arquipelago*2.5, mangue*2.5, supernova*3, shichibukai*1.5, celestiais*3, leilao*3
+Impeldown | prisao*3, submarino*2, mar*2, magellan*3, luffy*2, ace*2.5, fuga*3, nivel*2
+Loguetown | cidade*3, east-blue*3, roger*3, execucao*3, smoker*2.5, luffy*2.5, inicio*2.5, tempestade*2
+Enies Lobby | ilha*3, robin*3, cp9*3, governo*3, luffy*2.5, justica*2, nave*1.5
+Thrillerbark | ilha*3, navio*3, moria*3, zumbis*3, brook*3, fantasma*2.5, halloween*2
+Baratie | restaurante*3, navio*3, sanji*3, zeff*3, east-blue*3, krieg*2, cozinheiro*2
+Zou | ilha*3, mink*3, elefante*3, gigante*2.5, wano*2, carrot*2.5, pedro*2.5, nekomamushi*2.5
+Log Pose | objeto*3, navegacao*3, grand-line*3, bussola*3, nami*2.5, ilha*2, ima*2
+Gyojin | raca*3, peixe-homem*3, ilha-gyojin*3, tubarao*2, arlong*2.5, jinbe*2.5, hody*2
+Mink | raca*3, zou*3, animais*3, carrot*2.5, bepo*2.5, sulong*2.5, pedro*2
+Samurai | classe*3, wano*3, espada*2.5, oden*2.5, zoro*2.5, kinemon*3, ryuma*2.5, kozuki*2
+Jozu | piratas-barba-branca*3, comandante*3, newgate*3, diamante*3, marco*2.5, gigante*2, ace*2
+Vista | piratas-barba-branca*3, comandante*3, newgate*3, espadas*3, flores*3, marco*2.5, ace*2
+Thatch | piratas-barba-branca*3, comandante*3, newgate*3, cozinheiro*3, ace*3, teach*3, traicao*2.5, yami-yami*2
+Izou | piratas-barba-branca*3, comandante*3, newgate*3, wano*2, kozuki*1.5, pistolas*2.5, ace*1.5
+Crocus | roger*3, medico*3, baleia*3, laboon*3, farol*3, bando-do-roger*3, rayleigh*2
+Ryokugyu | marinha*3, almirante*3, planta*3, aramaki*4, mori-mori*3, fruta-do-diabo*2, floresta*3, =aramaki
+Kong | marinha*3, almirante-da-frota*3, sengoku*3, governo*2.5, mariejois*2, rei*2
+Karoo | alabasta*3, pato*3, vivi*3, montaria*3, laranja, fofo*2
+Camie | sabaody*3, sereia*3, leilao*3, luffy*2, chopper*1.5, pappag*3, fofa*2
+
+Fruta do Diabo | fruta-do-diabo*4, poderes*3, luffy*2, logia*2, paramecia*2, zoan*2, gomu-gomu*2, mar*2, akuma-no-mi*2
+Chapéu de Palha | chapeu-de-palha*4, tripulacao*3, luffy*3, jolly-roger*2, bandeira*1.5, zoro*1.5, nami*1.5, usopp*1.5, sanji*1.5, robin*1.5, chopper*1.5, franky*1.5, brook*1.5
+One Piece | one-piece*4, tesouro*3, raftel*3, roger*3, rei-dos-piratas*3, luffy*2.5, grand-line*2, sonho*2
+Rei dos Piratas | rei-dos-piratas*4, roger*3, luffy*3, sonho*2.5, one-piece*3, titulo*2, pirata*2, raftel*1.5
+East Blue | east-blue*4, mar*3, luffy*2.5, inicio*2, loguetown*2.5, alvida*1.5, buggy*1.5, arlong*1.5, nami*1, zoro*1, usopp*1, sanji*1, koby*1, morgan*1.5, baratie*1.5
+# ---- personagens adicionados (conferidos com a lista de personagens) ----
+Caesar | cientista*3, gas*3, punk-hazard*3, vilao*2, doflamingo*2, law*2.5, nuvem*2, luffy*1.5, shinokuni*2, fruta-do-diabo*2
+Judge | vinsmoke*4, germa*3, pai*2.5, vilao*2, cientista*2.5, sanji*3, reino*1.5, rei*2
+Reiju | vinsmoke*4, germa*3, irma*2.5, sanji*3, veneno*2, rosa*1.5
+Ichiji | vinsmoke*4, germa*3, irmao*2.5, sanji*3, eletrico*2, lutador*1.5
+Niji | vinsmoke*4, germa*3, irmao*2.5, sanji*3, laser*2, lutador*1.5
+Yonji | vinsmoke*4, germa*3, irmao*2.5, sanji*3, invisivel*2, lutador*1.5
+Makino | vila-fuchsia*3, east-blue*2, taverna*3, luffy*2, shanks*2, dono*1.5, bar*2
+Dadan | vila-fuchsia*2, bandidos*3, luffy*2.5, ace*2.5, sabo*2.5, montanha-corvo*3, mulher*1.5
+Kuina | zoro*3.5, espadachim*3, infancia*3, dojo*2.5, rival*2, east-blue*2, promessa*2.5, morta*1.5
+Olvia | arqueologa*3, robin*3.5, ohara*3, saul*2, clover*2, mae*2.5, poneglyph*2.5, aokiji*1
+Bon Clay | baroque-works*3, okama*3, crocodile*2, luffy*2, amigo*2, vivi*1.5, mane-mane*3, dança*2.5, fruta-do-diabo*2

@@ -1,0 +1,24 @@
+{
+ "mode": "onepiece",
+ "mode_name": "One Piece",
+ "themes": [
+  "One Piece"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 181,
+ "vocab_sha256": "7e3595dd11b21511dface3c5df09fcb5f5f1329dfccb36158bf7edeadef70144",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 611,
+ "vectors_sha256": "6277597ddde414d7e2e35ddf62695ca8038232c5ba91d4497fa2afe556b402a6",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 123883630,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 181,
+ "forms_count": 42
+}

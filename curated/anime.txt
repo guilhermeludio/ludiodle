@@ -1,0 +1,352 @@
+# Anime: palavra | características (obra, papel, poder, relações)
+Goku | dragon-ball*3, saiyajin*3, protagonista*2.5, kamehameha*3, super-saiyajin*2.5, vegeta*2.5, gohan*2, lutador*2, nuvem-voadora*1.5, esferas-do-dragao*2, bonzinho*1, shonen*1.5
+Vegeta | dragon-ball*3, saiyajin*3, principe*3, goku*3, rival*2.5, orgulho*2, bulma*1.5, final-flash*2, super-saiyajin*2, shonen*1.5
+Gohan | dragon-ball*3, saiyajin*2.5, goku*3, filho*2, cell*2, estudante*1.5, shonen*1.5
+Piccolo | dragon-ball*3, namekuseijin*3, gohan*2.5, goku*2, verde, mentor*2, shonen*1.5
+Freeza | dragon-ball*3, vilao*3, imperador*2.5, goku*2.5, namekusei*2, espaco*2, morte*1.5, shonen*1.5
+Cell | dragon-ball*3, vilao*3, androide*2.5, gohan*2, bio*2, shonen*1.5
+Bulma | dragon-ball*3, cientista*2.5, vegeta*2, goku*2, capsula*2, cabelo-azul, shonen*1.5
+Naruto | naruto*3, ninja*3, protagonista*2.5, konoha*2.5, kurama*2, rasengan*2, loiro, sasuke*2.5, hokage*2, shonen*1.5
+Sasuke | naruto*3, ninja*3, uchiha*3, sharingan*2.5, rival*2, naruto-personagem*2, vingança*2, chidori*2, shonen*1.5
+Kakashi | naruto*3, ninja*3, sensei*2.5, sharingan*2.5, mascara*2, copy-ninja*2, shonen*1.5
+Itachi | naruto*3, ninja*3, uchiha*3, sharingan*2.5, akatsuki*2.5, sasuke*2, shonen*1.5
+Luffy | one-piece*3, pirata*3, protagonista*2.5, chapeu-de-palha*3, borracha*3, capitao*2, gomu-gomu*2.5, shonen*1.5
+Zoro | one-piece*3, pirata*3, espadachim*3, chapeu-de-palha*3, tres-espadas*2.5, cabelo-verde, shonen*1.5
+Sanji | one-piece*3, pirata*3, cozinheiro*3, chapeu-de-palha*3, chute*2.5, shonen*1.5
+Nami | one-piece*3, pirata*3, navegadora*3, chapeu-de-palha*3, shonen*1.5
+Ichigo | bleach*3, shinigami*3, protagonista*2.5, espada*2.5, hollow*2.5, getsuga*3, cabelo-laranja, rukia*2.5, shonen*1.5
+Rukia | bleach*3, shinigami*3, ichigo*3, espada*1.5, gelo*2, kuchiki*2.5, shonen*1.5
+Aizen | bleach*3, shinigami*3, vilao*3, espada*1.5, manipulador*2.5, oculos, traicao*2.5, kyoka-suigetsu*2.5, shonen*1.5
+Byakuya | bleach*3, shinigami*3, kuchiki*3, capitao*2.5, rukia*2.5, senbonzakura*3, nobre*2, shonen*1.5
+Kenpachi | bleach*3, shinigami*3, capitao*2.5, forca*3, luta*2.5, sede-de-batalha*2.5, ichigo*2, shonen*1.5
+Tanjiro | demon-slayer*3, kimetsu*3, protagonista*2.5, cacador-de-demonios*3, nezuko*3, respiracao*2.5, espada*2, agua*2, cicatriz*1.5, shonen*1.5
+Nezuko | demon-slayer*3, kimetsu*3, demonio*2.5, tanjiro*3, irma*2.5, bambu*2.5, shonen*1.5
+Zenitsu | demon-slayer*3, kimetsu*3, cacador-de-demonios*3, raio*3, covarde*2, tanjiro*2, loiro, shonen*1.5
+Inosuke | demon-slayer*3, kimetsu*3, cacador-de-demonios*3, javali*3, mascara*2, tanjiro*2, shonen*1.5
+Muzan | demon-slayer*3, kimetsu*3, vilao*3, demonio*3, rei-demonio*2.5, tanjiro*2, shonen*1.5
+Rengoku | demon-slayer*3, kimetsu*3, pilar*3, fogo*3, cacador-de-demonios*2.5, trem*2, shonen*1.5
+Eren | shingeki*3, titas*3, protagonista*2.5, mikasa*3, armin*3, titan-atacante*2.5, liberdade*2, vingança*2
+Mikasa | shingeki*3, titas*3, eren*3, armin*2, cachecol*2.5, habilidosa*2, soldado*2
+Levi | shingeki*3, titas*3, soldado*3, capitao*2.5, forca*2, limpeza*2.5, baixo, mikasa*1.5
+Armin | shingeki*3, titas*3, eren*3, mikasa*2.5, estrategista*2.5, titan-colossal*2.5
+Light | death-note*3, caderno*3, vilao-heroi*2.5, kira*3, genio*2.5, l*3, ryuk*2.5, justica*2, misterio*2.5, sombrio*1.5
+Ryuk | death-note*3, shinigami*3, maca*3, light*3, caderno*2.5, misterio*2.5, sombrio*1.5
+Edward | fullmetal*3, alquimia*3, protagonista*2.5, alphonse*3, automail*2.5, irmao*2, loiro, baixo*1.5, shonen*1.5, magia*1.5
+Alphonse | fullmetal*3, alquimia*3, armadura*3, edward*3, irmao*2, shonen*1.5, magia*1.5
+Gon | hunter-x-hunter*3, hunter*3, protagonista*2.5, killua*3, pesca*1.5, nen*2.5, shonen*1.5
+Killua | hunter-x-hunter*3, hunter*3, assassino*2.5, gon*3, raio*2, cabelo-branco, zoldyck*2.5, skate*1, shonen*1.5
+Kurapika | hunter-x-hunter*3, hunter*3, kurta*3, vingança*2.5, correntes*3, gon*1.5, shonen*1.5
+Deku | my-hero-academia*3, heroi*3, protagonista*2.5, all-might*3, one-for-all*3, bakugo*2.5, estudante*2, shonen*1.5
+Bakugo | my-hero-academia*3, heroi*3, explosao*3, deku*3, rival*2.5, temperamental*2, shonen*1.5
+Todoroki | my-hero-academia*3, heroi*3, fogo*2, gelo*2, endeavor*2.5, deku*1.5, meio-meio*2, shonen*1.5
+Gojo | jujutsu-kaisen*3, jujutsu*3, feiticeiro*3, mais-forte*3, venda*2.5, infinito*2.5, sensei*2.5, olhos-azuis*2, yuji*2, shonen*1.5, sombrio*1.5
+Yuji | jujutsu-kaisen*3, jujutsu*3, protagonista*2.5, sukuna*3, estudante*2, forca*2, shonen*1.5, sombrio*1.5
+Sukuna | jujutsu-kaisen*3, jujutsu*3, vilao*3, rei-das-maldicoes*3, yuji*3, dedos*2.5, quatro-bracos*2, shonen*1.5, sombrio*1.5
+Megumi | jujutsu-kaisen*3, jujutsu*3, shikigami*3, sombras*2.5, yuji*2, gojo*2, shonen*1.5, sombrio*1.5
+Saitama | one-punch-man*3, heroi*3, careca*3, um-soco*3, forca*3, protagonista*2.5, genos*2.5, careca-capa*2, shonen*1.5, comedia*1.5
+Genos | one-punch-man*3, heroi*3, ciborgue*3, saitama*3, discipulo*2, shonen*1.5, comedia*1.5
+Denji | chainsaw-man*3, protagonista*2.5, demonio*2.5, motosserra*3, pochita*3, power*2, makima*2.5, sombrio*1.5
+Makima | chainsaw-man*3, vilao*2.5, controle*3, cachorros*2, denji*2.5, ruiva, sombrio*1.5
+Anya | spy-x-family*3, telepata*3, fofa*3, loid*2.5, yor*2.5, amendoim*2.5, criança*2, comedia*1.5
+Loid | spy-x-family*3, espiao*3, anya*2.5, yor*2.5, pai*2.5, twilight*2, comedia*1.5
+Yor | spy-x-family*3, assassina*3, anya*2.5, loid*2.5, espinhos*2.5, mae*2, comedia*1.5
+Pikachu | pokemon*3, eletrico*3, ash*3, mascote*3, amarelo, raio*2.5, fofo*2, infantil*1.5, monstros-colecionaveis*2.5
+Ash | pokemon*3, treinador*3, protagonista*2.5, pikachu*3, boné*2, sonho-mestre*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Misty | pokemon*3, treinadora*3, ash*2.5, agua*3, ginasio*2, infantil*1.5, monstros-colecionaveis*2.5
+Brock | pokemon*3, treinador*3, ash*2.5, pedra*3, ginasio*2, cozinha*1.5, infantil*1.5, monstros-colecionaveis*2.5
+Shinji | evangelion*3, piloto*3, protagonista*2.5, eva-01*3, pai*2, angústia*2.5, rei*2, asuka*2.5, ficcao-cientifica*1.5, sombrio*1.5
+Asuka | evangelion*3, piloto*3, shinji*2.5, rei*2, vermelho*2, orgulho*2, alemã*2, ficcao-cientifica*1.5, sombrio*1.5
+Rei | evangelion*3, piloto*3, shinji*2.5, asuka*2, azul*2, silenciosa*2, ficcao-cientifica*1.5, sombrio*1.5
+Usagi | sailor-moon*3, protagonista*2.5, lua*3, guerreira*3, magical-girl*3, tuxedo-mask*2.5, odango*2, comedia*1.5, magia*1.5
+Seiya | cavaleiros-do-zodiaco*3, cavaleiro*3, protagonista*2.5, pegasus*3, armadura*3, saori*2.5, cosmo*2.5, shonen*1.5
+Shiryu | cavaleiros-do-zodiaco*3, cavaleiro*3, dragao*3, armadura*3, seiya*2.5, cosmo*2.5, shonen*1.5
+Hyoga | cavaleiros-do-zodiaco*3, cavaleiro*3, cisne*3, gelo*3, armadura*3, seiya*2.5, cosmo*2.5, shonen*1.5
+Shun | cavaleiros-do-zodiaco*3, cavaleiro*3, andromeda*3, correntes*2.5, armadura*3, seiya*2.5, cosmo*2.5, shonen*1.5
+Ikki | cavaleiros-do-zodiaco*3, cavaleiro*3, fenix*3, armadura*3, seiya*2.5, cosmo*2.5, shonen*1.5
+Doraemon | gato-robo*3, futuro*2.5, nobita*3, bolso*3, azul*2.5, infantil*2, ficcao-cientifica*1.5, infantil*1.5
+Nobita | doraemon*3, estudante*2.5, preguiçoso*2, azul, oculos, ficcao-cientifica*1.5, infantil*1.5, comedia*1.5
+Totoro | studio-ghibli*3, floresta*2.5, fofo*2.5, miyazaki*3, gordo, cinza, infantil*1.5, magia*1.5
+Chihiro | studio-ghibli*3, miyazaki*3, espirito*3, banho*2.5, fantasia*2, menina*2, infantil*1.5, magia*1.5
+Natsu | fairy-tail*3, mago*3, fogo*3, dragon-slayer*3, protagonista*2.5, happy*3, fairy*2, shonen*1.5, magia*1.5
+Gaara | naruto*3, ninja*3, suna*3, areia*3, jinchuriki*2, shonen*1.5, kazekage*2, shukaku*2, kankuro*1, temari*1, sasuke*2, rasengan*1
+Kaneki | tokyo-ghoul*3, ghoul*3, protagonista*2.5, kagune*3, olho-vermelho*2.5, cabelo-branco, devorador*2, sombrio*1.5
+Spike | cowboy-bebop*3, cacador-de-recompensas*3, jazz*2.5, espaco*2.5, protagonista*2.5, cabelo-verde*1, ficcao-cientifica*1.5, faroeste*2.5
+Lelouch | code-geass*3, estrategista*3, vilao-heroi*2.5, protagonista*2.5, geass*3, imperio*2.5, rebelde*2.5, preto, ficcao-cientifica*1.5
+Senku | dr-stone*3, cientista*3, protagonista*2.5, ciencia*3, kingdom-of-science*2.5, cabelo-verde-ponta*1, ficcao-cientifica*1.5
+Hisoka | hunter-x-hunter*3, hunter*3, mago*2.5, palhaco*2.5, cartas*3, vilao*2.5, gon*2, nen*2.5, shonen*1.5
+Meliodas | nanatsu*3, pecados*3, dragao*2.5, capitao*2.5, elizabeth*3, demonio*2.5, loiro, espada*2, shonen*1.5, magia*1.5
+Asta | black-clover*3, mago*3, anti-magia*3, protagonista*2.5, fe*2, espada*2, yuno*3, shonen*1.5, magia*1.5
+Yuno | black-clover*3, mago*3, rival*2.5, asta*3, vento*2.5, quadrifolio*2, shonen*1.5, magia*1.5
+Shoyo | haikyuu*3, volei*3, protagonista*2.5, cabelo-laranja, pulo*3, kageyama*3, corvos*2.5, esporte*2.5
+Kageyama | haikyuu*3, volei*3, levantador*3, hinata*2.5, rival*2, talento*2, corvos*2.5, esporte*2.5
+Kirito | sword-art-online*3, protagonista*2.5, jogador*3, espadachim*3, asuna*3, mmorpg*3, preto, isekai*2.5
+Asuna | sword-art-online*3, kirito*3, espadachim*3, mmorpg*3, isekai*2.5
+Subaru | re-zero*3, protagonista*2.5, retorno*3, rem*3, emilia*3, morte*2.5, isekai*2.5
+Rem | re-zero*3, subaru*3, empregada*3, azul*2.5, oni*2.5, isekai*2.5
+Mob | mob-psycho*3, psiquico*3, protagonista*2.5, reigen*3, forca*2, emocoes*2.5, comedia*1.5
+Reigen | mob-psycho*3, vigarista*3, mob*3, mestre*2.5, terno, comedia*1.5
+Guts | berserk*3, protagonista*2.5, espada*3, griffith*3, gigante-espada*2.5, vingança*2, sombrio*1.5, magia*1.5
+Griffith | berserk*3, vilao*2.5, guts*3, bando-do-falcao*3, branco, traicao*2.5, sombrio*1.5, magia*1.5
+Vash | trigun*3, pistoleiro*3, protagonista*2.5, pacifista*2.5, tornado*2, deserto*2.5, ficcao-cientifica*1.5, faroeste*2.5
+Yusuke | yu-yu-hakusho*3, detetive*3, espirito*3, protagonista*2.5, kuwabara*2.5, torneio*2, shonen*1.5
+Inuyasha | inuyasha*3, protagonista*2.5, meio-demonio*3, kagome*3, espada*2.5, cabelo-branco, sesshomaru*2.5, shonen*1.5, samurai*2.5
+Sesshomaru | inuyasha*3, demonio*3, irmao*2.5, espada*2.5, cabelo-branco, frio*2.5, shonen*1.5, samurai*2.5
+Kagome | inuyasha*3, protagonista*2.5, sacerdotisa*3, flechas*3, inuyasha-personagem*3, colegial*2, shonen*1.5, samurai*2.5
+# ---- ampliação ----
+Trunks | dragon-ball*3, saiyajin*3, vegeta*2.5, bulma*2.5, futuro*2.5, espada*2.5, filho*2, goku*1.5, cabelo-lilas, shonen*1.5
+Goten | dragon-ball*3, saiyajin*3, goku*3, filho*2.5, gohan*2, trunks*2.5, fusao*2.5, shonen*1.5
+Krillin | dragon-ball*3, humano*2.5, goku*3, careca*2.5, amigo*2, kamehameha*1.5, esferas-do-dragao*1.5, shonen*1.5
+Yamcha | dragon-ball*3, humano*2.5, goku*2, bulma*2.5, lobo-deserto*2.5, fraco*2, shonen*1.5
+Tenshinhan | dragon-ball*3, humano*2.5, goku*2.5, tres-olhos*3, careca*2, kamehameha*1, chaos*2.5, shonen*1.5
+Buu | dragon-ball*3, vilao*3, rosa*3, goku*2, majin*3, doces*2.5, gordo*2, shonen*1.5
+Beerus | dragon-ball*3, deus*3, destruidor*3, whis*3, gato*2.5, goku*2, vegeta*2, super*2, shonen*1.5
+Whis | dragon-ball*3, anjo*3, beerus*3, mestre*2.5, goku*2, vegeta*2, super*2, shonen*1.5
+Broly | dragon-ball*3, saiyajin*3, lendario*3, vilao*2.5, goku*2, vegeta*2, forca*2.5, verde*1.5, shonen*1.5
+Gogeta | dragon-ball*3, saiyajin*3, fusao*3, goku*3, vegeta*3, poderoso*2.5, shonen*1.5
+Kamehameha | tecnica*3, dragon-ball*3, goku*3, energia*2.5, azul*1.5, ataque*2
+Orihime | bleach*3, ichigo*3, cura*2.5, humana*2.5, cabelo-laranja*2, escudo*2, colegial*1.5, shonen*1.5
+Chad | bleach*3, ichigo*2.5, humano*2.5, forca*2.5, braco*2.5, escudo*1.5, mexicano*1, shonen*1.5
+Renji | bleach*3, shinigami*3, rukia*3, tenente*2.5, cabelo-vermelho*2, byakuya*2, zabimaru*2.5, shonen*1.5
+Toshiro | bleach*3, shinigami*3, capitao*3, gelo*3, hyorinmaru*3, pequeno*2, cabelo-branco*2, rukia*1.5, shonen*1.5
+Ulquiorra | bleach*3, espada*3, arrancar*3, vilao*2.5, orihime*3, aizen*2.5, ichigo*2.5, palido*2, verde*1.5, shonen*1.5
+Grimmjow | bleach*3, espada*3, arrancar*3, vilao*2.5, ichigo*3, pantera*3, cabelo-azul*3, shonen*1.5
+Yoruichi | bleach*3, shinigami*3, gato*3, urahara*3, velocidade*3, ichigo*2, preta*2, shonen*1.5
+Urahara | bleach*3, loja*3, yoruichi*3, ichigo*3, mentor*2.5, chapeu*2.5, shinigami*2.5, bengala*1.5, shonen*1.5
+Giyu | demon-slayer*3, kimetsu*3, pilar*3, agua*3, tanjiro*2.5, cacador-de-demonios*3, serio*2, shonen*1.5
+Shinobu | demon-slayer*3, kimetsu*3, pilar*3, veneno*3, borboleta*3, cacador-de-demonios*3, giyu*1.5, shonen*1.5
+Mitsuri | demon-slayer*3, kimetsu*3, pilar*3, amor*3, chicote*2.5, cacador-de-demonios*3, obanai*2, shonen*1.5
+Tengen | demon-slayer*3, kimetsu*3, pilar*3, som*3, festival*2.5, cacador-de-demonios*3, esposas*2, shonen*1.5
+Muichiro | demon-slayer*3, kimetsu*3, pilar*3, nevoa*3, cacador-de-demonios*3, genio*2, shonen*1.5
+Sanemi | demon-slayer*3, kimetsu*3, pilar*3, vento*3, cacador-de-demonios*3, cicatrizes*2.5, genya*2, shonen*1.5
+Akaza | demon-slayer*3, kimetsu*3, demonio*3, lua-superior*3, vilao*2.5, rengoku*3, lutador*2.5, muzan*2, shonen*1.5
+Kokushibo | demon-slayer*3, kimetsu*3, demonio*3, lua-superior*3, vilao*2.5, espadachim*3, muzan*2.5, shonen*1.5
+Douma | demon-slayer*3, kimetsu*3, demonio*3, lua-superior*3, vilao*2.5, shinobu*3, gelo*2.5, sorriso*2, shonen*1.5
+Reiner | shingeki*3, titas*3, titan-encouracado*3, bertholdt*3, annie*2.5, eren*2.5, traidor*2.5, soldado*2
+Annie | shingeki*3, titas*3, titan-feminino*3, reiner*2.5, armin*2.5, eren*2, cristal*3
+Bertholdt | shingeki*3, titas*3, titan-colossal*3, reiner*3, annie*2.5, armin*2
+Historia | shingeki*3, titas*3, rainha*3, ymir*3, eren*2, loira*2
+Erwin | shingeki*3, titas*3, comandante*3, levi*3, estrategista*3, sacrificio*2.5, esquadrao*2
+Hange | shingeki*3, titas*3, cientista*3, levi*2.5, erwin*2.5, titas-pesquisa*3, oculos*2
+Zeke | shingeki*3, titas*3, titan-bestial*3, eren*3, irmao*2.5, vilao*2, oculos*2
+Jean | shingeki*3, titas*3, soldado*3, eren*2.5, mikasa*2.5, armin*2, cavalo*2
+Connie | shingeki*3, titas*3, soldado*3, eren*2.5, careca*3, sasha*3, armin*2
+Sasha | shingeki*3, titas*3, soldado*3, batata*3, comida*3, connie*3, eren*2
+Nobara | jujutsu-kaisen*3, jujutsu*3, feiticeira*3, martelo*3, pregos*3, yuji*2.5, megumi*2.5, shonen*1.5, sombrio*1.5
+Nanami | jujutsu-kaisen*3, jujutsu*3, feiticeiro*3, gojo*2.5, yuji*2.5, assalariado*3, hora-extra*2.5, terno*2, shonen*1.5, sombrio*1.5
+Toji | jujutsu-kaisen*3, jujutsu*3, assassino*3, megumi*3, pai*2.5, sem-energia*3, forca*3, gojo*2.5, shonen*1.5, sombrio*1.5
+Geto | jujutsu-kaisen*3, jujutsu*3, vilao*3, gojo*3, ex-amigo*3, maldicoes*3, feiticeiro*2.5, shonen*1.5, sombrio*1.5
+Mahito | jujutsu-kaisen*3, jujutsu*3, vilao*3, maldicao*3, alma*3, yuji*2.5, junpei*2, shonen*1.5, sombrio*1.5
+Maki | jujutsu-kaisen*3, jujutsu*3, feiticeira*3, armas*3, zenin*3, toji*2, megumi*1.5, shonen*1.5, sombrio*1.5
+Panda | jujutsu-kaisen*3, jujutsu*3, feiticeiro*3, urso*3, fofo*3, yuji*2, toge*2.5, shonen*1.5, sombrio*1.5
+Yuta | jujutsu-kaisen*3, jujutsu*3, feiticeiro*3, rika*3, gojo*2.5, yuji*2, especial*2.5, shonen*1.5, sombrio*1.5
+Ochaco | my-hero-academia*3, heroi*3, gravidade*3, deku*3, fofa*3, uravity*2, estudante*2, shonen*1.5
+Endeavor | my-hero-academia*3, heroi*3, fogo*3, todoroki*3, pai*3, numero-um*2.5, chamas*2.5, shonen*1.5
+Hawks | my-hero-academia*3, heroi*3, penas*3, asas*3, endeavor*2.5, espiao*2.5, loiro*2, shonen*1.5
+Shigaraki | my-hero-academia*3, vilao*3, desintegrar*3, all-for-one*3, deku*3, dedos*2, mãos*2, shonen*1.5
+Dabi | my-hero-academia*3, vilao*3, fogo*3, chamas-azuis*3, todoroki*3, cicatrizes*2, shonen*1.5
+Iida | my-hero-academia*3, heroi*3, velocidade*3, deku*2.5, oculos*3, turbo*2.5, classe-A*2, shonen*1.5
+Kirishima | my-hero-academia*3, heroi*3, dureza*3, bakugo*3, vermelho*2.5, forca*2.5, honra*2, shonen*1.5
+Allmight | my-hero-academia*3, heroi*3, simbolo-da-paz*3, deku*3, one-for-all*3, forca*3, mentor*3, loiro*2, shonen*1.5
+Misa | death-note*3, caderno*3, light*3, olhos-shinigami*3, loira*2.5, gotica*2.5, kira*2.5, misterio*2.5, sombrio*1.5
+Near | death-note*3, detetive*3, bonecos*3, sucessor*3, l*2.5, light*3, genio*2.5, branco*2, misterio*2.5, sombrio*1.5
+Mello | death-note*3, detetive*3, chocolate*3, sucessor*3, l*2.5, near*3, mafia*2.5, loiro*2, misterio*2.5, sombrio*1.5
+Roy | fullmetal*3, alquimia*3, fogo*3, coronel*3, riza*3, edward*2.5, militar*2.5, shonen*1.5, magia*1.5
+Riza | fullmetal*3, militar*3, tenente*3, roy*3, atiradora*3, edward*1.5, shonen*1.5, magia*1.5
+Winry | fullmetal*3, mecanica*3, edward*3, alphonse*2.5, automail*3, loira*2, amiga-infancia*2.5, shonen*1.5, magia*1.5
+Scar | fullmetal*3, vilao-heroi*2.5, ishbal*3, alquimia*2.5, vingança*3, edward*2.5, braço-tatuado*2.5, cicatriz*3, shonen*1.5, magia*1.5
+Envy | fullmetal*3, homunculo*3, vilao*3, metamorfo*3, edward*2.5, inveja*3, hughes*2, shonen*1.5, magia*1.5
+Greed | fullmetal*3, homunculo*3, vilao*2.5, ganancia*3, ling*2.5, edward*2.5, escudo*2, shonen*1.5, magia*1.5
+Hohenheim | fullmetal*3, alquimia*3, pai*3, edward*3, alphonse*3, imortal*2.5, shonen*1.5, magia*1.5
+Leorio | hunter-x-hunter*3, hunter*3, gon*3, killua*2.5, kurapika*2.5, medico*3, terno*2, nariz*1.5, shonen*1.5
+Chrollo | hunter-x-hunter*3, hunter*3, vilao*3, trupe-fantasma*3, livro*3, roubar*2.5, kurapika*3, nen*2.5, shonen*1.5
+Meruem | hunter-x-hunter*3, vilao*2.5, formiga-quimera*3, rei*3, komugi*3, gungi*2.5, forca*3, shonen*1.5
+Netero | hunter-x-hunter*3, hunter*3, presidente*3, mestre*3, idoso*3, meruem*2.5, gon*1.5, oracao*2.5, shonen*1.5
+Erza | fairy-tail*3, mago*3, armadura*3, requip*3, natsu*2.5, espada*3, cabelo-vermelho*3, shonen*1.5, magia*1.5
+Lucy | fairy-tail*3, maga*3, espiritos*3, chaves*3, natsu*2.5, loira*2.5, happy*2, shonen*1.5, magia*1.5
+Gray | fairy-tail*3, mago*3, gelo*3, natsu*3, rival*2.5, tira-a-roupa*3, erza*2, shonen*1.5, magia*1.5
+Happy | fairy-tail*3, gato*3, azul*3, natsu*3, asas*2.5, peixe*2.5, voador*2, shonen*1.5, magia*1.5
+Wendy | fairy-tail*3, maga*3, dragon-slayer*3, ar*2.5, cura*3, pequena*2, natsu*2, shonen*1.5, magia*1.5
+Gajeel | fairy-tail*3, mago*3, dragon-slayer*3, ferro*3, natsu*2.5, piercing*2.5, levy*2.5, shonen*1.5, magia*1.5
+Laxus | fairy-tail*3, mago*3, dragon-slayer*3, raio*3, natsu*2, mestre*1.5, neto*2.5, shonen*1.5, magia*1.5
+Mirajane | fairy-tail*3, maga*3, transformacao*3, demonio*2.5, bar*2.5, natsu*1.5, cabelo-branco*2.5, shonen*1.5, magia*1.5
+Touka | tokyo-ghoul*3, ghoul*3, kaneki*3, cafe*3, asas*2.5, coelha*2.5, feminina*2, sombrio*1.5
+Rize | tokyo-ghoul*3, ghoul*3, kaneki*3, devoradora*3, livro*2.5, origem*3, cabelo-roxo*2.5, sombrio*1.5
+Arima | tokyo-ghoul*3, investigador*3, kaneki*2.5, forca*3, mais-forte*3, ccg*3, reaper*3, sombrio*1.5
+Garou | one-punch-man*3, vilao*3, caçador-de-herois*3, saitama*3, artes-marciais*3, cabelo-prata*2.5, monstro*2.5, shonen*1.5, comedia*1.5
+Tatsumaki | one-punch-man*3, heroi*3, psiquico*3, saitama*2.5, pequena*3, fubuki*3, tornado*3, shonen*1.5, comedia*1.5
+Fubuki | one-punch-man*3, heroi*3, psiquica*3, tatsumaki*3, saitama*1.5, grupo*3, irma*2.5, shonen*1.5, comedia*1.5
+Bang | one-punch-man*3, heroi*3, artes-marciais*3, garou*3, saitama*1.5, mestre*3, idoso*3, shonen*1.5, comedia*1.5
+King | one-punch-man*3, heroi*3, forca*3, saitama*3, falsa-fama*3, jogos*2.5, coracao*2.5, shonen*1.5, comedia*1.5
+Boros | one-punch-man*3, vilao*3, saitama*3, alien*3, forca*3, nave*3, shonen*1.5, comedia*1.5
+Aki | chainsaw-man*3, cacador-de-demonios*3, denji*3, power*3, makima*3, katana*2.5, raposa*2.5, morte*2, sombrio*1.5
+Power | chainsaw-man*3, demonio*3, sangue*3, denji*3, aki*3, gato*2.5, bagunça*2.5, sombrio*1.5
+Kobeni | chainsaw-man*3, cacadora-de-demonios*3, denji*2.5, aki*3, covarde*3, power*2, sombrio*1.5
+Misato | evangelion*3, major*3, shinji*3, asuka*2.5, nerv*3, cerveja*2.5, tutora*2.5, ficcao-cientifica*1.5, sombrio*1.5
+Kaworu | evangelion*3, anjo*3, shinji*3, piano*3, rei*2.5, amizade*2.5, cabelo-branco*2.5, ficcao-cientifica*1.5, sombrio*1.5
+Gendo | evangelion*3, nerv*3, shinji*3, pai*3, vilao*2.5, mãos-juntas*2.5, oculos*2.5, ficcao-cientifica*1.5, sombrio*1.5
+Suzaku | code-geass*3, cavaleiro*3, lelouch*3, amigo*3, rival*2.5, knightmare*3, honra*2.5, ficcao-cientifica*1.5
+Kallen | code-geass*3, piloto*3, lelouch*2.5, ruiva*3, rebelde*3, knightmare*3, guren*2.5, ficcao-cientifica*1.5
+Faye | cowboy-bebop*3, cacadora-de-recompensas*3, spike*3, jet*2.5, ed*2.5, jogadora*3, amnesia*2.5, ficcao-cientifica*1.5, faroeste*2.5
+Jet | cowboy-bebop*3, cacador-de-recompensas*3, spike*3, faye*2.5, bonsai*3, bebop*3, ex-policial*3, ficcao-cientifica*1.5, faroeste*2.5
+Mugen | samurai-champloo*3, samurai*3, jin*3, fuu*3, hip-hop*2.5, estilo-livre*3, espadachim*3, samurai*2.5
+Jin | samurai-champloo*3, samurai*3, mugen*3, fuu*3, calmo*2.5, espadachim*3, oculos*2, samurai*2.5
+Hiei | yu-yu-hakusho*3, demonio*3, espada*3, kurama*3, yusuke*2.5, olho*2.5, fogo*3, baixo*2.5, shonen*1.5
+Kuwabara | yu-yu-hakusho*3, humano*3, yusuke*3, kurama*2.5, hiei*2.5, espada-espiritual*3, topete*2.5, shonen*1.5
+Genkai | yu-yu-hakusho*3, mestra*3, yusuke*3, idosa*3, tecnica*2.5, torneio*2, shonen*1.5
+Toguro | yu-yu-hakusho*3, vilao*3, torneio*3, yusuke*3, musculos*3, demonio*2.5, forca*3, shonen*1.5
+Sakuragi | slam-dunk*3, basquete*3, protagonista*3, cabelo-vermelho*3, rukawa*3, shohoku*3, rebote*3, esporte*2.5
+Rukawa | slam-dunk*3, basquete*3, ace*3, sakuragi*3, shohoku*3, silencioso*2.5, dormir*2.5, cabelo-preto*2, esporte*2.5
+Akagi | slam-dunk*3, basquete*3, capitao*3, shohoku*3, sakuragi*2.5, gorila*3, pivô*2.5, esporte*2.5
+Mitsui | slam-dunk*3, basquete*3, tres-pontos*3, shohoku*3, sakuragi*2.5, rebelde*2.5, ex-gangue*2.5, esporte*2.5
+Tsukishima | haikyuu*3, volei*3, bloqueio*3, oculos*3, corvos*3, hinata*2, alto*2.5, esporte*2.5
+Nishinoya | haikyuu*3, volei*3, libero*3, corvos*3, defesa*3, hinata*2, baixinho*2.5, esporte*2.5
+Oikawa | haikyuu*3, volei*3, levantador*3, kageyama*3, rival*3, aoba-johsai*3, saque*2.5, esporte*2.5
+Bokuto | haikyuu*3, volei*3, ace*3, corujas*3, kuroo*2.5, hinata*2, emotivo*3, esporte*2.5
+Kuroo | haikyuu*3, volei*3, nekoma*3, bokuto*2.5, capitao*3, hinata*2, bloqueio*3, esporte*2.5
+Noelle | black-clover*3, maga*3, agua*3, asta*3, nobre*3, princesa*2.5, yuno*1.5, shonen*1.5, magia*1.5
+Yami | black-clover*3, mago*3, capitao*3, asta*3, sombra*3, trevas*3, katana*2.5, fumante*2.5, shonen*1.5, magia*1.5
+Luck | black-clover*3, mago*3, raio*3, asta*2.5, yuno*1.5, batalha*3, rival-asta*2.5, shonen*1.5, magia*1.5
+Ban | nanatsu*3, pecados*3, imortal*3, meliodas*3, ladrao*3, elaine*3, king*2, shonen*1.5, magia*1.5
+Diane | nanatsu*3, pecados*3, gigante*3, meliodas*3, ban*2, serpente*2, king*3, shonen*1.5, magia*1.5
+Escanor | nanatsu*3, pecados*3, sol*3, leao*3, orgulho*3, meliodas*3, forca*3, dia*3, shonen*1.5, magia*1.5
+Merlin | nanatsu*3, pecados*3, maga*3, meliodas*2.5, feiticeira*2.5, poderosa*3, elizabeth*1.5, shonen*1.5, magia*1.5
+Saber | fate*3, servo*3, rei-arthur*3, espada*3, shirou*3, loira*3, excalibur*3, mulher*1.5, magia*1.5
+Shirou | fate*3, protagonista*3, saber*3, mestre*3, rin*3, espadas*3, aprendiz*2, magia*1.5
+Ainz | overlord*3, vilao-heroi*3, mago*1, esqueleto*3, albedo*3, guilda*1, lich*3, jogo*2.5, isekai*2.5, magia*1.5
+Albedo | overlord*3, ainz*3, guardia*3, lider*2.5, succubus*3, apaixonada*3, branco*2.5, isekai*2.5, magia*1.5
+Kazuma | konosuba*3, protagonista*3, aventureiro*3, aqua*3, megumin*3, comedia*3, isekai*3
+Megumin | konosuba*3, maga*3, explosao*3, kazuma*3, aqua*2.5, comedia*3, chapeu*2.5, isekai*3
+Aqua | konosuba*3, deusa*3, agua*3, kazuma*3, megumin*3, inutil*3, comedia*3, isekai*3
+Emilia | re-zero*3, meia-elfa*3, subaru*3, gelo*3, rem*3, cabelo-branco*3, candidata-a-rainha*3, espíritos*3, isekai*2.5
+Madoka | madoka-magica*3, magical-girl*3, protagonista*3, homura*3, kyubey*3, rosa*3, contrato*3, sombrio*1.5, magia*1.5
+Homura | madoka-magica*3, magical-girl*3, madoka*3, tempo*3, cabelo-preto*3, escudo*2.5, sombrio*1.5, magia*1.5
+Kyubey | madoka-magica*3, mascote*3, contrato*3, alien*3, vilao*2.5, madoka*3, fofo*3, branco*2.5, sombrio*1.5, magia*1.5
+Ami | sailor-moon*3, guerreira*3, sailor-mercury*3, azul*3, inteligente*3, usagi*2.5, agua*3, comedia*1.5, magia*1.5
+Makoto | sailor-moon*3, guerreira*3, sailor-jupiter*3, forca*3, raio*3, usagi*2.5, cozinha*2.5, comedia*1.5, magia*1.5
+Minako | sailor-moon*3, guerreira*3, sailor-venus*3, amor*3, usagi*2.5, loira*2.5, artemis*2, comedia*1.5, magia*1.5
+Tuxedo | sailor-moon*3, mamoru*3, heroi*3, rosas*3, usagi*3, mascarado*3, namorado*2.5, comedia*1.5, magia*1.5
+Saori | cavaleiros-do-zodiaco*3, atena*3, deusa*3, seiya*3, santuario*3, saint*2, jovem*2, shonen*1.5
+Shaka | cavaleiros-do-zodiaco*3, ouro*3, virgem*3, cavaleiro*3, olhos-fechados*3, mais-proximo-deus*3, budista*3, shonen*1.5
+Mu | cavaleiros-do-zodiaco*3, ouro*3, aries*3, cavaleiro*3, ferreiro*3, armadura*2.5, telecinese*3, shonen*1.5
+Aldebaran | cavaleiros-do-zodiaco*3, ouro*3, touro*3, cavaleiro*3, forca*3, gigante*3, brasileiro*3, shonen*1.5
+Aiolia | cavaleiros-do-zodiaco*3, ouro*3, leao*3, cavaleiro*3, seiya*2, raio*3, irmao-aiolos*2, shonen*1.5
+Camus | cavaleiros-do-zodiaco*3, ouro*3, aquario*3, cavaleiro*3, gelo*3, hyoga*3, mestre*2.5, shonen*1.5
+Milo | cavaleiros-do-zodiaco*3, ouro*3, escorpiao*3, cavaleiro*3, agulha-escarlate*3, camus*2.5, hyoga*2, shonen*1.5
+Dohko | cavaleiros-do-zodiaco*3, ouro*3, libra*3, cavaleiro*3, shiryu*3, mestre*3, idoso*3, armas*2.5, shonen*1.5
+Saga | cavaleiros-do-zodiaco*3, ouro*3, gemeos*3, cavaleiro*3, vilao*3, kanon*3, traicao*3, shonen*1.5
+Kanon | cavaleiros-do-zodiaco*3, gemeos*3, irmao-saga*3, cavaleiro*2.5, vilao*2.5, poseidon*2.5, shonen*1.5
+Shura | cavaleiros-do-zodiaco*3, ouro*3, capricornio*3, cavaleiro*3, excalibur*3, shiryu*3, espada*2.5, shonen*1.5
+Deathmask | cavaleiros-do-zodiaco*3, ouro*3, cancer*3, cavaleiro*3, almas*3, vilao*2.5, mascaras*3, shonen*1.5
+Afrodite | cavaleiros-do-zodiaco*3, ouro*3, peixes*3, cavaleiro*3, rosas*3, belo*3, veneno*2.5, shonen*1.5
+Yugi | yu-gi-oh*3, duelista*3, protagonista*3, cartas*3, atem*3, kaiba*3, puzzle*3, mago-negro*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Kaiba | yu-gi-oh*3, duelista*3, rival*3, yugi*3, dragao-branco*3, riqueza*3, empresario*3, orgulho*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Joey | yu-gi-oh*3, duelista*3, yugi*3, amigo*3, kaiba*2.5, dragao-negro*2.5, loiro*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Atem | yu-gi-oh*3, faraó*3, yugi*3, puzzle*3, espirito*3, duelista*3, egito*3, infantil*1.5, monstros-colecionaveis*2.5
+Tai | digimon*3, protagonista*3, agumon*3, digiescolhido*3, coragem*3, oculos*3, matt*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Matt | digimon*3, digiescolhido*3, gabumon*3, tai*3, amizade*2.5, gaita*3, loiro*2.5, infantil*1.5, monstros-colecionaveis*2.5
+Agumon | digimon*3, digimon-parceiro*3, tai*3, greymon*3, dinossauro*3, laranja*3, fogo*3, infantil*1.5, monstros-colecionaveis*2.5
+Gabumon | digimon*3, digimon-parceiro*3, matt*3, garurumon*3, pele*3, lobo*3, gelo*3, infantil*1.5, monstros-colecionaveis*2.5
+Shizuka | doraemon*3, nobita*3, amiga*3, banho*2.5, gentil*3, violino*2.5, ficcao-cientifica*1.5, infantil*1.5, comedia*1.5
+Suneo | doraemon*3, nobita*3, ricaço*3, vilão-comico*2.5, gian*3, mimado*3, ficcao-cientifica*1.5, infantil*1.5, comedia*1.5
+Gian | doraemon*3, nobita*3, valentão*3, cantor*3, forte*3, suneo*3, ruim-de-voz*3, ficcao-cientifica*1.5, infantil*1.5, comedia*1.5
+Shinchan | shin-chan*3, comedia*3, crianca*3, familia*2.5, bunda*3, gaiato*3, misae*3, hiroshi*3, acao-kamen*3, infantil*2, cotidiano*2
+Misae | shin-chan*3, mae*3, familia*2.5, shinchan*3, brava*3, hiroshi*2.5, dona-de-casa*3, infantil*1.5, comedia*1.5, cotidiano*2
+Conan | detetive-conan*3, detetive*3, protagonista*3, ran*3, shinichi*3, crianca*2.5, oculos*3, misterios*3, kogoro*2.5, misterio*2.5
+Ran | detetive-conan*3, ran*3, karate*3, conan*3, shinichi*3, kogoro*3, namorada*3, misterio*2.5
+Kogoro | detetive-conan*3, detetive*3, conan*3, ran*3, trapalhao*3, bebado*3, misterio*2.5
+Haibara | detetive-conan*3, conan*3, cientista*3, ex-organizacao*3, crianca*2.5, ruiva*2.5, misterio*2.5
+Heiji | detetive-conan*3, detetive*3, conan*3, kazuha*3, rival*3, osaka*3, bone*2.5, misterio*2.5
+Kiki | studio-ghibli*3, miyazaki*3, bruxa*3, vassoura*3, entregas*3, gato-jiji*3, padaria*2.5, infantil*1.5, magia*1.5
+Ponyo | studio-ghibli*3, miyazaki*3, peixe*3, sosuke*3, mar*3, fofa*3, amizade*2.5, infantil*1.5, magia*1.5
+Howl | studio-ghibli*3, miyazaki*3, mago*3, sophie*3, castelo*3, fogo*2.5, vaidoso*3, infantil*1.5, magia*1.5
+Sophie | studio-ghibli*3, miyazaki*3, howl*3, chapeleira*3, velha*3, castelo*3, infantil*1.5, magia*1.5
+San | studio-ghibli*3, miyazaki*3, mononoke*3, ashitaka*3, lobos*3, floresta*3, guerreira*3, infantil*1.5, magia*1.5
+Haku | studio-ghibli*3, miyazaki*3, chihiro*3, dragao*3, espirito*3, rio*3, bruxa-yubaba*3, infantil*1.5, magia*1.5
+
+Dragon Ball | dragon-ball*4, saiyajin*2, goku*2.5, esferas-do-dragao*2, serie*1.5, shonen*1.5
+Fairy Tail | fairy-tail*4, guilda*3, natsu*2.5, magia*2, erza*1.5, serie*1.5, shonen*1.5, magia*1.5
+Death Note | death-note*4, caderno*3, light*2.5, ryuk*2, shinigami*2, serie*1.5, misterio*2.5, sombrio*1.5
+Sailor Moon | sailor-moon*4, usagi*2.5, guerreiras*3, lua*2, serie*1.5, comedia*1.5, magia*1.5
+Black Clover | black-clover*4, asta*2.5, grimorio*3, cavaleiros-magicos*2, serie*1.5, shonen*1.5, magia*1.5
+Hunter x Hunter | hunter-x-hunter*4, gon*2.5, killua*2, nen*3, hunter*2, serie*1.5, shonen*1.5
+Jujutsu Kaisen | jujutsu-kaisen*4, gojo*2, yuji*2.5, sukuna*2, maldicoes*3, serie*1.5, shonen*1.5, sombrio*1.5
+Tokyo Ghoul | tokyo-ghoul*4, kaneki*2.5, ghoul*3, serie*1.5, sombrio*1.5
+Cowboy Bebop | cowboy-bebop*4, spike*2.5, jazz*2, cacador-de-recompensas*2, serie*1.5, faroeste*2.5
+Fullmetal Alchemist | fullmetal*4, fullmetal*4, edward*2.5, alquimia*3, pedra-filosofal*2, serie*1.5, shonen*1.5, magia*1.5
+Cavaleiros do Zodíaco | cavaleiros-do-zodiaco*4, seiya*2.5, armadura*3, cosmo*2, santuario*2, serie*1.5, shonen*1.5
+My Hero Academia | my-hero-academia*4, deku*2.5, quirk*3, herois*2, serie*1.5, shonen*1.5
+Sword Art Online | sword-art-online*4, kirito*2.5, asuna*2, jogo-virtual*3, serie*1.5, isekai*2.5
+One Punch Man | one-punch-man*4, saitama*2.5, herois*2, soco*2, serie*1.5, shonen*1.5, comedia*1.5
+Seven Deadly Sins | nanatsu*4, nanatsu*4, meliodas*2.5, pecados*3, serie*1.5, shonen*1.5, magia*1.5
+Chainsaw Man | chainsaw-man*4, denji*2.5, demonios*3, motosserra*3, serie*1.5, sombrio*1.5
+Yu Gi Oh | yu-gi-oh*4, yugi*2.5, cartas*3, duelo*3, serie*1.5, monstros-colecionaveis*2.5
+Detetive Conan | detetive-conan*4, conan*2.5, misterio*3, detetive*3, serie*1.5, misterio*2.5
+Dr Stone | dr-stone*4, senku*2.5, ciencia*3, serie*1.5, ficcao-cientifica*1.5
+Spy x Family | spy-x-family*4, anya*2.5, loid*2, yor*2, familia*3, serie*1.5, comedia*1.5
+Demon Slayer | demon-slayer*4, tanjiro*2.5, demonios*3, nezuko*2, espadachins*2, serie*1.5, shonen*1.5
+Attack on Titan | shingeki*4, shingeki*4, eren*2.5, titas*3, muralhas*2, serie*1.5, shonen*1.5
+One Piece | one-piece*4, luffy*2.5, piratas*3, tesouro*2, mar*1, serie*1.5, shonen*1.5
+Super Saiyajin | dragon-ball*4, saiyajin*3, transformacao*3, goku*2.5, cabelo-dourado*2, serie*1.5, shonen*1.5
+Esferas do Dragão | dragon-ball*4, esferas-do-dragao*3, desejo*3, shenlong*2, serie*1.5, shonen*1.5
+
+# ---- ampliação MAL (personagens mais favoritados) ----
+L | death-note*3, detetive*3, genio*3, light*3, doces*2, misterio*2.5, sombrio*1.5
+Jotaro | jojo*3, stardust-crusaders*2.5, stand*3, star-platinum*3, dio*2.5, protagonista*2.5, shonen*1.5
+Joseph | jojo*3, stand*2.5, hamon*3, jotaro*2.5, trapaceiro*2, shonen*1.5
+Josuke | jojo*3, stand*2.5, diamond-is-unbreakable*2.5, cabelo-topete*2, shonen*1.5
+Gyro | jojo*3, steel-ball-run*3, cavaleiro*2, bolas-de-aco*2.5, faroeste*2, shonen*1.5
+Dio | jojo*3, vilao*3, vampiro*3, za-warudo*3, jotaro*2.5, shonen*1.5
+Yoshikage | jojo*3, vilao*2.5, stand*2.5, killer-queen*3, assassino*2, misterio*1.5
+JoJo | jojo*4, stand*3, jotaro*2.5, dio*2.5, serie*1.5, shonen*1.5
+Gintoki | gintama*3, samurai*3, protagonista*2.5, kagura*2.5, comedia*3, espada-de-madeira*2, cabelo-prateado*2
+Kagura | gintama*3, comedia*2.5, gintoki*2.5, yato*1.5, guarda-chuva*2, fome*1.5
+Gintama | gintama*4, gintoki*2.5, kagura*2, samurai*3, comedia*1.5, serie*1.5, ficcao-cientifica*0.5
+Okabe | steins-gate*3, viagem-no-tempo*3, cientista*2.5, kurisu*3, mayuri*2.5, microondas*2, ficcao-cientifica*2.5, misterio*2
+Kurisu | steins-gate*3, cientista*3, okabe*3, viagem-no-tempo*2.5, ficcao-cientifica*2.5, misterio*1.5
+Mayuri | steins-gate*3, okabe*3, kurisu*1.5, infancia*2, ficcao-cientifica*1
+Steins Gate | steins-gate*4, okabe*2.5, viagem-no-tempo*3, ficcao-cientifica*3, misterio*2, serie*1.5
+CC | code-geass*3, lelouch*3, imortal*2.5, geass*2.5, pizza*1.5, misterio*1.5
+Juuzou | tokyo-ghoul*3, investigador*3, ghoul*1.5, kaneki*1.5, sombrio*2, cicatriz*1.5
+Dazai | bungo-stray-dogs*3, detetive*2.5, atentado*1.5, bandagens*2, mafia*2, shonen*1
+Yato | noragami*3, deus*3, vagabundo*2.5, sobrenatural*2, espada*1.5, shonen*1.5
+Gilgamesh | fate*3, servo*3, rei*3, vilao*2, dourado*2.5, saber*1.5, magia*2
+Kamina | gurren-lagann*3, mecha*3, simon*3, irmao*2, oculos-escuros*2, shonen*2
+Simon | gurren-lagann*3, mecha*3, kamina*3, broca*2.5, protagonista*1, shonen*1
+Taiga | toradora*3, romance*3, tsundere*3, baixa*1.5, escola*2
+Onizuka | gto*3, professor*3, comedia*3, motoqueiro*2.5, escola*2
+Alucard | hellsing*3, vampiro*3, antiheroi*2.5, pistola*2, sombrio*2
+Askeladd | vinland-saga*3, viking*3, estrategista*2.5, mercenario*2, historia*1.5
+Thorfinn | vinland-saga*3, viking*3, protagonista*2.5, vingança*2.5, askeladd*3, historia*1.5
+Johan | monster*3, vilao*3, psicologico*3, tenma*3, misterio*2.5, sombrio*2
+Tenma | monster*3, medico*3, protagonista*2.5, johan*3, misterio*2.5, sombrio*1.5
+Izaya | durarara*3, informante*2.5, manipulador*2.5, shizuo*3, ikebukuro*2, urbano*2, vilao-heroi*1.5, sombrio*1.5
+Shizuo | durarara*3, forca*3, izaya*3, garcom*1.5, ikebukuro*2, bartender*1.5
+Sebastian | black-butler*3, mordomo*3, demonio*3, ciel*3, kuroshitsuji*2.5, sombrio*1.5, magia*1.5
+Ciel | black-butler*3, conde*3, sebastian*3, kuroshitsuji*2.5, tapa-olho*2, sombrio*1.5
+Korosensei | assassination-classroom*3, professor*3, polvo*2.5, karma*2.5, comedia*2, escola*2
+Karma | assassination-classroom*3, estudante*2.5, korosensei*3, ruivo*1.5, escola*1.5
+Kenma | haikyuu*3, esporte*3, volei*3, levantador*2.5, shoyo*1.5, kuroo*2.5
+Misaka | index*3, esper*3, eletricidade*3, railgun*3, accelerator*2.5, ficcao-cientifica*1.5
+Accelerator | index*3, esper*3, vetores*3, misaka*3, vilao*2, ficcao-cientifica*1.5
+Souma | shokugeki*3, culinaria*3, protagonista*1, cozinheiro*3, escola*1.5, shonen*1
+Ryuko | kill-la-kill*3, uniforme*2.5, tesoura*3, protagonista*1, escola*1.5, shonen*1
+Ginko | mushishi*3, mushi*3, viajante*2.5, cabelo-branco, sobrenatural*2.5, misterio*2
+Haruhi | suzumiya*3, brigada-sos*3, kyon*3, deusa*2.5, protagonista*1.5, ficcao-cientifica*2, escola*1.5, comedia*1
+Kana | oshi-no-ko*3, idol*3, atriz*2.5, drama*2, musica*2, entretenimento*2.5
+Kyo | fruits-basket*3, maldicao*2.5, gato*3, tohru*3, romance*2, shonen*0.5
+Tohru | fruits-basket*3, protagonista*2.5, kyo*3, romance*2, bondosa*2
+Jinwoo | solo-leveling*3, cacador*3, protagonista*2.5, sombras*3, masmorra*3, manhwa*2, shonen*1.5
+Frieren | frieren*3, elfa*3, maga*3, protagonista*2.5, fantasia*2.5, magia*3, imortalidade*2, aventura*2
+Kenshin | rurouni-kenshin*3, samurai*3, espada-de-lamina-invertida*3, protagonista*2.5, cicatriz*2, historia*1.5, shonen*1.5
+Bocchi | bocchi-the-rock*3, guitarrista*3, timida*3, musica*3, banda*2.5, comedia*2
+Akame | akame-ga-kill*3, assassina*3, katana*2.5, esdeath*2, sombrio*2, shonen*1.5
+Esdeath | akame-ga-kill*3, vilao*3, gelo*3, general*2.5, akame*2, sombrio*2
+Yumeko | kakegurui*3, apostadora*3, cassino*2.5, psicologico*2.5, sombrio*1.5, escola*1.5
+Kaguya | kaguya-sama*3, romance*3, comedia*3, presidente*2.5, chika*2.5, escola*2
+Chika | kaguya-sama*3, romance*2, comedia*3, secretaria*2, escola*2
+Ishigami | kaguya-sama*3, comedia*2, escola*2, tesoureiro*1.5
+Rimuru | slime*3, isekai*3, protagonista*2.5, reencarnacao*3, monstro*2.5, magia*2, shonen*1
+Kyon | suzumiya*3, brigada-sos*3, haruhi*3, narrador*2.5, ficcao-cientifica*2, escola*1.5, comedia*1
+Noragami | noragami*4, yato*3, deus*2, sobrenatural*2.5, serie*1.5, shonen*1.5
+Solo Leveling | solo-leveling*4, jinwoo*3, cacador*2.5, masmorra*2.5, manhwa*2, serie*1.5, shonen*1.5
+Mushishi | mushishi*4, ginko*3, mushi*3, sobrenatural*2, misterio*2, serie*1.5

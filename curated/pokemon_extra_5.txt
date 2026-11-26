@@ -1,0 +1,18 @@
+Wo Chien | tablets-of-ruin | leech-seed, foul-play, knock-off, giga-drain
+Chien Pao | sword-of-ruin | icicle-crash, sacred-sword, sucker-punch, swords-dance
+Ting Lu | vessel-of-ruin | earthquake, ruination, stealth-rock, spikes
+Chi Yu | beads-of-ruin | overheat, dark-pulse, flamethrower, psychic
+Mr Mime | filter, soundproof | psychic, mimic, light-screen, reflect
+Ho Oh | pressure, regenerator | sacred-fire, brave-bird, earthquake, recover
+Lairon | sturdy, rock-head | iron-head, heavy-slam, rock-slide, metal-claw
+Dusclops | pressure, frisk | shadow-punch, night-shade, will-o-wisp, pain-split
+Starly | keen-eye, reckless | wing-attack, quick-attack, endeavor, take-down
+Staravia | intimidate, reckless | wing-attack, double-team, brave-bird, quick-attack
+Staraptor | intimidate, reckless | brave-bird, close-combat, double-edge, quick-attack
+Bidoof | simple, unaware | tackle, rollout, hyper-fang, superpower
+Bibarel | simple, unaware | waterfall, rollout, superpower, hyper-fang
+Mime Jr | soundproof, filter | confusion, mimic, tickle, psybeam
+Rhyperior | lightning-rod, solid-rock | rock-wrecker, earthquake, megahorn, stone-edge
+Simisage | gluttony, overgrow | vine-whip, bite, seed-bomb, acrobatics
+Simisear | gluttony, blaze | incinerate, fire-punch, bite, acrobatics
+Simipour | gluttony, torrent | scald, bite, water-pulse, acrobatics

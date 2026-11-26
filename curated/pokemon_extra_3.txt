@@ -1,0 +1,203 @@
+Victini | victory-star | v-create, bolt-strike, fusion-flare, zen-headbutt
+Snivy | overgrow, contrary | vine-whip, leaf-blade, wrap, leaf-tornado
+Servine | overgrow, contrary | leaf-blade, wrap, slam, leaf-tornado
+Serperior | overgrow, contrary | leaf-storm, dragon-pulse, glare, giga-drain
+Tepig | blaze, thick-fat | tackle, ember, flame-charge, flamethrower
+Pignite | blaze, thick-fat | flame-charge, arm-thrust, hammer-arm, heat-crash
+Emboar | blaze, reckless | flare-blitz, hammer-arm, wild-charge, head-smash
+Oshawott | torrent, shell-armor | tackle, water-gun, razor-shell, aqua-jet
+Dewott | torrent, shell-armor | razor-shell, fury-cutter, water-pulse, aqua-jet
+Samurott | torrent, shell-armor | razor-shell, megahorn, waterfall, ice-beam
+Patrat | run-away, keen-eye | tackle, bite, hypnosis, super-fang
+Watchog | illuminate, keen-eye | hypnosis, crunch, super-fang, confuse-ray
+Lillipup | vital-spirit, pickup | tackle, bite, take-down, work-up
+Herdier | intimidate, sand-rush | take-down, crunch, retaliate, work-up
+Stoutland | intimidate, sand-rush | return, crunch, superpower, play-rough
+Purrloin | limber, unburden | scratch, assist, fake-out, sand-attack
+Liepard | limber, prankster | play-rough, thunder-wave, knock-off, sucker-punch
+Pansage | gluttony, overgrow | vine-whip, bite, leech-life, seed-bomb
+Pansear | gluttony, blaze | incinerate, bite, fire-punch, acrobatics
+Panpour | gluttony, torrent | water-gun, bite, water-pulse, scald
+Munna | forewarn, synchronize | psywave, defense-curl, yawn, moonlight
+Musharna | forewarn, synchronize | psychic, moonlight, calm-mind, dream-eater
+Pidove | big-pecks, super-luck | gust, air-cutter, quick-attack, roost
+Tranquill | big-pecks, super-luck | air-slash, quick-attack, aerial-ace, detect
+Unfezant | big-pecks, super-luck | brave-bird, return, aerial-ace, roost
+Blitzle | lightning-rod, motor-drive | quick-attack, thunder-wave, flame-charge, spark
+Zebstrika | lightning-rod, motor-drive | wild-charge, flame-charge, thunderbolt, quick-attack
+Roggenrola | sturdy, sand-force | tackle, rock-blast, smack-down, stealth-rock
+Boldore | sturdy, sand-force | rock-slide, power-gem, stealth-rock, headbutt
+Gigalith | sturdy, sand-stream | stone-edge, earthquake, power-gem, explosion
+Woobat | unaware, klutz | confusion, gust, air-cutter, heart-stamp
+Swoobat | unaware, simple | psychic, air-slash, calm-mind, heart-stamp
+Drilbur | sand-rush, sand-force | scratch, rapid-spin, mud-slap, drill-run
+Excadrill | sand-rush, mold-breaker | earthquake, iron-head, rock-slide, swords-dance
+Audino | healer, regenerator | double-slap, heal-pulse, secret-power, refresh
+Timburr | guts, sheer-force | pound, low-kick, rock-throw, bulk-up
+Gurdurr | guts, sheer-force | bulk-up, drain-punch, rock-slide, hammer-arm
+Conkeldurr | guts, sheer-force | drain-punch, hammer-arm, mach-punch, bulk-up
+Tympole | swift-swim, hydration | bubble-beam, mud-shot, supersonic, uproar
+Palpitoad | swift-swim, hydration | mud-bomb, sludge-wave, hydro-pump, uproar
+Seismitoad | swift-swim, poison-touch | drain-punch, hydro-pump, earth-power, acid
+Throh | guts, inner-focus | storm-throw, vital-throw, bulk-up, seismic-toss
+Sawk | sturdy, inner-focus | karate-chop, close-combat, bulk-up, brick-break
+Sewaddle | swarm, chlorophyll | string-shot, bug-bite, razor-leaf, tackle
+Swadloon | leaf-guard, chlorophyll | protect, razor-leaf, bug-bite, grass-whistle
+Leavanny | swarm, chlorophyll | leaf-blade, x-scissor, swords-dance, bug-bite
+Venipede | poison-point, swarm | defense-curl, rollout, poison-sting, screech
+Whirlipede | poison-point, swarm | iron-defense, rollout, steamroller, toxic
+Scolipede | poison-point, speed-boost | megahorn, spikes, swords-dance, earthquake
+Cottonee | prankster, infiltrator | cotton-spore, absorb, giga-drain, fairy-wind
+Whimsicott | prankster, infiltrator | moonblast, energy-ball, tailwind, encore
+Petilil | chlorophyll, own-tempo | absorb, growth, leech-seed, sleep-powder
+Lilligant | chlorophyll, own-tempo | quiver-dance, petal-dance, giga-drain, sleep-powder
+Basculin | reckless, adaptability | aqua-jet, double-edge, waterfall, crunch
+Sandile | intimidate, moxie | bite, sand-attack, torment, crunch
+Krokorok | intimidate, moxie | crunch, dig, earthquake, foul-play
+Krookodile | intimidate, moxie | earthquake, crunch, stone-edge, outrage
+Darumaka | hustle, inner-focus | rollout, fire-fang, headbutt, flame-wheel
+Darmanitan | sheer-force, zen-mode | flare-blitz, earthquake, overheat, rock-slide
+Maractus | water-absorb, chlorophyll | spiky-shield, petal-dance, pin-missile, energy-ball
+Dwebble | sturdy, shell-armor | smack-down, shell-smash, rock-blast, stealth-rock
+Crustle | sturdy, shell-armor | x-scissor, rock-wrecker, shell-smash, earthquake
+Scraggy | shed-skin, moxie | headbutt, low-kick, brick-break, dragon-dance
+Scrafty | shed-skin, moxie | drain-punch, crunch, dragon-dance, close-combat
+Sigilyph | wonder-skin, magic-guard | psychic, air-slash, heat-wave, roost
+Yamask | mummy | astonish, night-shade, will-o-wisp, haunt
+Cofagrigus | mummy | shadow-ball, will-o-wisp, toxic, trick-room
+Tirtouga | solid-rock, sturdy | water-gun, protect, withdraw, rock-slide
+Carracosta | solid-rock, sturdy | waterfall, shell-smash, stone-edge, aqua-jet
+Archen | defeatist | ancient-power, acrobatics, quick-attack, rock-slide
+Archeops | defeatist | acrobatics, stone-edge, earthquake, rock-slide
+Trubbish | stench, sticky-hold | pound, poison-gas, sludge, toxic-spikes
+Garbodor | stench, weak-armor | gunk-shot, sludge-bomb, toxic-spikes, drain-punch
+Zorua | illusion | scratch, leer, night-slash, fury-swipes
+Zoroark | illusion | night-daze, flamethrower, focus-blast, nasty-plot
+Minccino | cute-charm, technician | pound, tail-slap, bullet-seed, rock-blast
+Cinccino | cute-charm, skill-link | tail-slap, bullet-seed, rock-blast, knock-off
+Gothita | frisk, competitive | pound, confusion, fake-tears, psyshock
+Gothorita | frisk, competitive | psychic, shadow-ball, calm-mind, charm
+Gothitelle | frisk, shadow-tag | psychic, thunderbolt, trick, calm-mind
+Solosis | overcoat, magic-guard | pound, psywave, harden, recover
+Duosion | overcoat, magic-guard | psychic, psyshock, recover, calm-mind
+Reuniclus | overcoat, magic-guard | psychic, focus-blast, shadow-ball, trick-room
+Ducklett | keen-eye, big-pecks | water-gun, wing-attack, water-pulse, aerial-ace
+Swanna | keen-eye, big-pecks | hurricane, brave-bird, surf, roost
+Vanillite | ice-body, snow-cloak | ice-shard, icicle-spear, mist, harden
+Vanillish | ice-body, snow-cloak | icicle-crash, blizzard, mirror-shot, avalanche
+Vanilluxe | ice-body, snow-warning | blizzard, ice-beam, flash-cannon, freeze-dry
+Deerling | chlorophyll, sap-sipper | tackle, take-down, double-kick, megahorn
+Sawsbuck | chlorophyll, sap-sipper | horn-leech, double-edge, megahorn, jump-kick
+Emolga | static, motor-drive | thunder-shock, quick-attack, acrobatics, volt-switch
+Karrablast | swarm, shed-skin | peck, leer, fury-cutter, fury-attack
+Escavalier | swarm, shell-armor | megahorn, iron-head, swords-dance, drill-run
+Shelmet | hydration, shell-armor | acid, curse, bug-bite, acid-armor
+Accelgor | hydration, sticky-hold | bug-buzz, focus-blast, spikes, energy-ball
+Foongus | effect-spore, regenerator | absorb, astonish, spore, sweet-scent
+Amoonguss | effect-spore, regenerator | spore, giga-drain, sludge-bomb, clear-smog
+Frillish | water-absorb, cursed-body | water-gun, bubble-beam, night-shade, will-o-wisp
+Jellicent | water-absorb, cursed-body | hydro-pump, shadow-ball, recover, scald
+Alomomola | healer, hydration | wish, waterfall, aqua-ring, heal-pulse
+Joltik | compound-eyes, unnerve | string-shot, thunder-wave, bug-bite, electro-web
+Galvantula | compound-eyes, unnerve | thunder, bug-buzz, sticky-web, volt-switch
+Ferroseed | iron-barbs | metal-claw, pin-missile, gyro-ball, leech-seed
+Ferrothorn | iron-barbs | power-whip, gyro-ball, leech-seed, spikes
+Klink | plus, minus | thunder-shock, charge, gear-grind, vice-grip
+Klang | plus, minus | thunder-wave, gear-grind, shift-gear, charge-beam
+Klinklang | plus, minus | wild-charge, gear-grind, shift-gear, flash-cannon
+Tynamo | levitate | tackle, spark, thunder-wave, charge-beam
+Eelektrik | levitate | thunderbolt, crunch, acid, coil
+Eelektross | levitate | wild-charge, flamethrower, drain-punch, thunderbolt
+Elgyem | telepathy, synchronize | confusion, headbutt, psybeam, heal-block
+Beheeyem | telepathy, analytic | psychic, signal-beam, thunderbolt, trick-room
+Litwick | flash-fire, flame-body | ember, astonish, will-o-wisp, minimize
+Lampent | flash-fire, flame-body | shadow-ball, fire-spin, will-o-wisp, pain-split
+Chandelure | flash-fire, flame-body | shadow-ball, fire-blast, energy-ball, trick-room
+Axew | rivalry, mold-breaker | scratch, dragon-rage, dragon-claw, dual-chop
+Fraxure | rivalry, mold-breaker | dragon-claw, dragon-dance, swords-dance, slash
+Haxorus | rivalry, mold-breaker | outrage, dragon-dance, earthquake, close-combat
+Cubchoo | snow-cloak, slush-rush | powder-snow, icy-wind, hail, brine
+Beartic | snow-cloak, slush-rush | icicle-crash, superpower, swords-dance, aqua-jet
+Cryogonal | levitate | ice-beam, freeze-dry, rapid-spin, recover
+Stunfisk | static, limber | mud-shot, thunder-shock, earth-power, discharge
+Mienfoo | inner-focus, regenerator | double-slap, force-palm, high-jump-kick, fake-out
+Mienshao | inner-focus, regenerator | high-jump-kick, u-turn, drain-punch, fake-out
+Druddigon | rough-skin, sheer-force | outrage, dragon-claw, glare, earthquake
+Golett | iron-fist, klutz | astonish, shadow-punch, mud-slap, rollout
+Golurk | iron-fist, klutz | earthquake, shadow-punch, dynamic-punch, stone-edge
+Pawniard | defiant, inner-focus | scratch, fury-cutter, metal-claw, assurance
+Bisharp | defiant, inner-focus | sucker-punch, iron-head, knock-off, swords-dance
+Bouffalant | reckless, sap-sipper | head-charge, megahorn, earthquake, swords-dance
+Rufflet | keen-eye, sheer-force | peck, fury-attack, wing-attack, hone-claws
+Braviary | keen-eye, sheer-force | brave-bird, superpower, crush-claw, bulk-up
+Vullaby | big-pecks, overcoat | gust, fury-attack, knock-off, pluck
+Mandibuzz | big-pecks, overcoat | foul-play, roost, bone-rush, tailwind
+Heatmor | gluttony, flash-fire | flamethrower, fire-lash, bug-bite, thief
+Durant | swarm, hustle | iron-head, x-scissor, rock-slide, hone-claws
+Deino | hustle | bite, tackle, headbutt, dragon-rage
+Zweilous | hustle | dragon-breath, crunch, dark-pulse, headbutt
+Hydreigon | levitate | dark-pulse, draco-meteor, flamethrower, hyper-voice
+Larvesta | flame-body, swarm | ember, string-shot, bug-bite, flame-charge
+Volcarona | flame-body, swarm | quiver-dance, fire-blast, bug-buzz, hurricane
+Cobalion | justified | iron-head, close-combat, sacred-sword, stone-edge
+Terrakion | justified | close-combat, stone-edge, earthquake, sacred-sword
+Virizion | justified | leaf-blade, close-combat, sacred-sword, swords-dance
+Tornadus | prankster, defiant | hurricane, bleakwind-storm, taunt, heat-wave
+Thundurus | prankster, defiant | thunderbolt, wildbolt-storm, nasty-plot, taunt
+Landorus | sand-force, sheer-force | earthquake, sandsear-storm, stone-edge, u-turn
+Reshiram | turboblaze | blue-flare, fusion-flare, dragon-pulse, outrage
+Zekrom | teravolt | bolt-strike, fusion-bolt, outrage, dragon-claw
+Kyurem | pressure | glaciate, ice-beam, draco-meteor, freeze-shock
+Keldeo | justified | secret-sword, hydro-pump, scald, sacred-sword
+Meloetta | serene-grace | relic-song, hyper-voice, psychic, close-combat
+Genesect | download | techno-blast, iron-head, bug-buzz, flamethrower
+Chespin | overgrow, bulletproof | vine-whip, rollout, seed-bomb, needle-arm
+Quilladin | overgrow, bulletproof | needle-arm, pin-missile, wood-hammer, spiky-shield
+Chesnaught | overgrow, bulletproof | wood-hammer, drain-punch, spiky-shield, hammer-arm
+Fennekin | blaze, magician | scratch, ember, flamethrower, psybeam
+Braixen | blaze, magician | flamethrower, psyshock, fire-spin, psybeam
+Delphox | blaze, magician | mystical-fire, psychic, shadow-ball, calm-mind
+Froakie | torrent, protean | bubble, quick-attack, water-pulse, round
+Frogadier | torrent, protean | water-shuriken, double-team, smack-down, night-slash
+Greninja | torrent, protean | water-shuriken, hydro-pump, dark-pulse, ice-beam
+Bunnelby | pickup, cheek-pouch | tackle, leer, mud-slap, double-slap
+Diggersby | pickup, huge-power | earthquake, return, swords-dance, double-edge
+Fletchling | big-pecks, gale-wings | ember, quick-attack, peck, wing-attack
+Fletchinder | flame-body, gale-wings | ember, acrobatics, flame-charge, steel-wing
+Talonflame | flame-body, gale-wings | brave-bird, flare-blitz, roost, tailwind
+Scatterbug | shield-dust, compound-eyes | tackle, string-shot, stun-spore, powder
+Spewpa | shed-skin | protect, string-shot, harden, bug-bite
+Vivillon | shield-dust, compound-eyes | quiver-dance, hurricane, bug-buzz, sleep-powder
+Litleo | rivalry, unnerve | tackle, ember, work-up, hyper-voice
+Pyroar | rivalry, unnerve | flamethrower, hyper-voice, fire-blast, crunch
+Flabebe | flower-veil, symbiosis | vine-whip, tackle, fairy-wind, magical-leaf
+Floette | flower-veil, symbiosis | magical-leaf, fairy-wind, petal-blizzard, wish
+Florges | flower-veil, symbiosis | moonblast, petal-dance, aromatherapy, calm-mind
+Skiddo | sap-sipper, grass-pelt | tackle, vine-whip, razor-leaf, rock-smash
+Gogoat | sap-sipper, grass-pelt | horn-leech, earthquake, milk-drink, bulk-up
+Pancham | iron-fist, mold-breaker | arm-thrust, vital-throw, work-up, karate-chop
+Pangoro | iron-fist, scrappy | hammer-arm, knock-off, bullet-punch, crunch
+Furfrou | fur-coat | tackle, headbutt, return, cotton-guard
+Espurr | keen-eye, infiltrator | scratch, confusion, psybeam, fake-out
+Meowstic | keen-eye, prankster | psychic, light-screen, thunder-wave, yawn
+Honedge | no-guard | tackle, fury-cutter, shadow-sneak, shadow-claw
+Doublade | no-guard | shadow-sneak, iron-head, swords-dance, sacred-sword
+Aegislash | stance-change | kings-shield, shadow-ball, sacred-sword, shadow-sneak
+Spritzee | healer, aroma-veil | fairy-wind, sweet-scent, draining-kiss, moonblast
+Aromatisse | healer, aroma-veil | moonblast, aromatherapy, calm-mind, heal-pulse
+Swirlix | sweet-veil, unburden | tackle, sweet-scent, fairy-wind, cotton-candy-crush
+Slurpuff | sweet-veil, unburden | play-rough, drain-punch, calm-mind, whirlwind
+Inkay | contrary, suction-cups | tackle, peck, psybeam, night-slash
+Malamar | contrary, suction-cups | superpower, psycho-cut, knock-off, night-slash
+Binacle | sniper, pickpocket | scratch, rock-blast, shell-smash, slash
+Barbaracle | sniper, tough-claws | stone-edge, razor-shell, cross-chop, shell-smash
+Skrelp | poison-point, poison-touch | water-gun, poison-tail, smokescreen, toxic
+Dragalge | poison-point, adaptability | sludge-bomb, dragon-pulse, draco-meteor, toxic-spikes
+Clauncher | mega-launcher | water-gun, vice-grip, water-pulse, aqua-jet
+Clawitzer | mega-launcher | water-pulse, dark-pulse, aura-sphere, dragon-pulse
+Helioptile | dry-skin, sand-veil | thunder-shock, razor-wind, parabolic-charge, volt-switch
+Heliolisk | dry-skin, sand-veil | thunderbolt, hyper-voice, surf, volt-switch
+Tyrunt | strong-jaw, sturdy | bite, stomp, dragon-tail, crunch
+Tyrantrum | strong-jaw, rock-head | head-smash, dragon-claw, earthquake, crunch
+Amaura | refrigerate, snow-warning | powder-snow, ancient-power, thunder-wave, aurora-beam
+Aurorus | refrigerate, snow-warning | blizzard, freeze-dry, ancient-power, thunder-wave

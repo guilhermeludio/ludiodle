@@ -1,0 +1,22 @@
+{
+ "mode": "lol",
+ "mode_name": "League of Legends",
+ "themes": [],
+ "vocab_version": "v2",
+ "vocab_size": 173,
+ "vocab_sha256": "c3e18767be637925362d5f90cbd9a77d48fabe4aea483def01b60f117b76396b",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 748,
+ "vectors_sha256": "105902a7b62bf649421988e73f636e4abdf1329b63f63e872ba3602d441e324e",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 904246358,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 173,
+ "forms_count": 4
+}

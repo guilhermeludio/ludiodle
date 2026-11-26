@@ -1,0 +1,156 @@
+# Naruto: palavra | características (vila, equipe, cla, elemento, papel, relações, técnicas)
+Naruto | konoha*2, protagonista*2, time7*3, uzumaki*2, hokage*1.5, jinchuriki*2, kurama*2, rasengan*2, loiro, ramen, vento, kage-bunshin, sennin, laranja, sasuke*3, sakura*2, kakashi*2, jiraiya*1.5, minato*1.5
+Sasuke | konoha*2, time7*2, uchiha*1.5, sharingan*2, chidori*2, vingança*2, raio, fogo, orochimaru*1.5, itachi*5, irmao*2.5, massacre*1.5, akatsuki*1, naruto*4, sakura*1.5, kakashi*1.5, vilao-heroi*1, moreno, protagonista*1
+Sakura | konoha*2, time7*2, haruno, medica*2, forca*1, cabelo-rosa, kunoichi*1.5, tsunade*1.5, protagonista*1, sasuke*1, naruto*1
+Kakashi | hokage*1.5, konoha*2, time7*2, sensei*2.5, hatake, sharingan*2, chidori*1.5, mascara, hokage*1.5, copy-ninja*2, cães-ninja, anbu*1.5, minato*1.5, obito*1.5, icha-icha
+Hinata | konoha*2, hyuga*2.5, byakugan*2, kunoichi*1.5, time8*2, tímida, naruto*1.5, esposa-naruto*1.5, punho-gentil*1.5, time-konoha11*1
+Shikamaru | konoha*2, nara*2.5, time10*2, estrategista*2, sombra*2, preguiçoso, inteligente*2, chunin, asuma*1.5, temari*1.5, time-konoha11*1
+Choji | konoha*2, akimichi*2.5, time10*2, comida*2, gordo, expansao, asuma*1.5, time-konoha11*1
+Ino | konoha*2, yamanaka*2.5, time10*2, kunoichi*1.5, loira, sakura*1.5, florista, mente*1.5, time-konoha11*1
+Kiba | konoha*2, inuzuka*2.5, time8*2, akamaru*2, cachorro*1.5, time-konoha11*1, kurenai*1
+Akamaru | konoha*2, inuzuka*2.5, time8*2, kiba*2.5, cachorro*2, branco
+Shino | konoha*2, aburame*2.5, time8*2, insetos*2.5, kurenai*1, time-konoha11*1
+Neji | konoha*2, hyuga*2.5, time-gai*2, byakugan*2, genio*1.5, punho-gentil*1.5, destino*2, hinata*1.5, rock-lee*1.5, tenten*1
+Lee | konoha*2, time-gai*2, taijutsu*2.5, sobrancelhas, roupa-verde, gai*2.5, portoes*2, sem-ninjutsu*2, neji*1, =rocklee
+Tenten | konoha*2, time-gai*2, armas*2.5, kunoichi*1.5, neji*1
+Gai | konoha*2, time-gai*2, taijutsu*2.5, sensei*2, roupa-verde, kakashi*2, rival-kakashi*2, portoes*2, rock-lee*2, =guy, =maitogai
+Asuma | konoha*2, time10*2, sensei*2, sarutobi*2, fuma*1, fumante, hokage-terceiro*1, shikamaru*1.5
+Kurenai | konoha*2, time8*2, sensei*2, genjutsu*2, kunoichi*1
+Iruka | konoha*2, academia*2.5, sensei*2, naruto*2, cicatriz, professor
+Jiraiya | konoha*2, sennin*2.5, sannin*2.5, eremita*2, sapo*2, rasengan*1.5, naruto*2, minato*2, tsunade*1.5, orochimaru*1.5, icha-icha*1.5, sensei*2, cabelo-branco
+Tsunade | hokage*1.5, konoha*2, sannin*2.5, hokage*2.5, medica*2, forca*2, jogo*1, sakura*2, jiraiya*1.5, orochimaru*1.5, quinta*1.5, loira, sapos-lesma*1.5
+Orochimaru | sannin*2.5, vilao*2.5, cobras*2.5, experimentos*2, imortalidade*2, sasuke*2, konoha*1, som*2, pele-palida, akatsuki*1.5, tsunade*1.5, jiraiya*1.5
+Hiruzen | hokage*1.5, konoha*2, hokage*2.5, terceiro*1.5, sarutobi*2, professor*1.5, orochimaru*1.5, jiraiya*1, anciao*1.5, =sarutobi
+Minato | hokage*1.5, konoha*2, hokage*2.5, quarto*1.5, namikaze*2, hiraishin*2, rasengan*2, naruto*2.5, kushina*2, relampago-amarelo*2, loiro, kakashi*1.5, jiraiya*1.5
+Kushina | konoha*2, uzumaki*2.5, jinchuriki*2, kurama*2, naruto*2.5, minato*2, cabelo-vermelho, mae*1.5
+Hashirama | hokage*1.5, konoha*2, hokage*2.5, primeiro*1.5, senju*2, madara*2.5, elemento-madeira*2.5, fundador*2, tobirama*2, rival-madara*2
+Tobirama | hokage*1.5, konoha*2, hokage*2.5, segundo*1.5, senju*2, hashirama*2, edo-tensei*1.5, agua*1.5
+Madara | uchiha*2.5, vilao*2.5, sharingan*2, rinnegan*1.5, hashirama*2.5, akatsuki*1.5, guerra*2, lendario*2, konoha*1.5, tsukuyomi-infinito*2, susanoo*2, fundador*1
+Obito | uchiha*2.5, vilao*2, tobi*2.5, akatsuki*2, kakashi*2.5, rin*1.5, sharingan*2, kamui*2, mascara, time-minato*1.5, madara*1.5, guerra*1.5, =tobi
+Itachi | uchiha*2.5, akatsuki*2.5, sasuke*2.5, irmao*1.5, sharingan*2, tsukuyomi*2, susanoo*1.5, konoha*2, anbu*2, massacre*2, corvos*1.5, heroi-tragico*2, vingança*1.5, naruto*1
+Kisame | akatsuki*4, itachi*2, espadachim*2, tubarao*2, agua*2, samehada*2, nevoa*1.5, azul, vilao*2
+Deidara | akatsuki*4, explosoes*2.5, arte*2, argila*2, sasori*2, terra*1.5, vilao*2, gaara*1.5
+Sasori | akatsuki*4, marionetes*2.5, veneno*2, deidara*2, areia*1.5, vilao*2, sakura*1
+Hidan | akatsuki*4, imortal*2.5, jashin*2.5, ritual*2, kakuzu*2, shikamaru*1.5, vilao*2
+Kakuzu | akatsuki*4, dinheiro*2, coracoes*2.5, hidan*2, costura*2, vilao*2
+Konan | akatsuki*4, papel*2.5, origami*2, pain*2.5, nagato*2, yahiko*1.5, ame*2, azul
+Pain | akatsuki*4, rinnegan*2.5, vilao*2.5, nagato*2.5, naruto*1.5, konoha*1.5, ame*2, chakra-receptores, piercings, lider*2, jiraiya*1.5, vilas*1
+Nagato | akatsuki*4, rinnegan*2.5, pain*2.5, uzumaki*1.5, ame*2, yahiko*1.5, konan*2, jiraiya*1.5, ruivo
+Zetsu | akatsuki*4, planta*2.5, espiao*2, madara*2, vilao*2, cannibal
+Gaara | suna*3, kazekage*3, jinchuriki*2.5, shukaku*2.5, areia*3, temari*2.5, kankuro*2.5, rasa*2, irmaos*2, naruto*2, olheiras, ruivo, amizade-naruto*1.5
+Temari | suna*2.5, kunoichi*1.5, vento*2.5, leque*2.5, shikamaru*2, gaara*1.5, irma*1
+Kankuro | suna*2.5, marionetes*2.5, gaara*1.5, irmao*1, maquiagem*1.5, veneno*1
+Shukaku | bijuu*2.5, tanuki*2.5, areia*2.5, gaara*2.5, suna*1.5, jinchuriki*1.5, um-cauda*2
+Kurama | bijuu*2.5, raposa*2.5, nove-caudas*2.5, naruto*2.5, kushina*2, minato*1.5, jinchuriki*1.5, vermelho, konoha*1.5, chakra*1.5, =novecaudas, =kyuubi, =kyubi
+Killer | kumo*2.5, jinchuriki*2, raikage*1, rap*2.5, espadas*2.5, bee*2.5, oito-caudas*2, gyuki*2
+Bee | kumo*2.5, jinchuriki*2, rap*2.5, espadas*2.5, killer*2.5, oito-caudas*2, gyuki*2, naruto*1, =gyuki
+Raikage | kumo*2.5, kage*2.5, raio*2, forca*0.5, a-raikage*1.5, bee*1.5
+Mei | kiri*2.5, kage*2.5, mizukage*2.5, lava*2, acido*2, kunoichi*1.5, agua*1.5
+Onoki | iwa*2.5, tsuchikage*2.5, kage*2.5, poeira*2.5, anciao*1.5, terra*1.5, pequeno
+Danzo | hokage*1.5, konoha*2, raiz*2.5, vilao*2, kage*1.5, sharingan*2, sasuke*1.5, itachi*2, hokage*1.5, curativo, shimura*1.5
+Zabuza | kiri*2.5, espadachim*2.5, vilao*1.5, haku*2.5, agua*2, nevoa*2, time7*1.5, kubikiribocho*2.5, demonio, primeira-missao*2
+Haku | kiri*2.5, gelo*2.5, zabuza*2.5, espelhos*2.5, kekkei-genkai*2, naruto*1.5, primeira-missao*2, tragico
+Kabuto | orochimaru*2.5, medico*2, espiao*2, vilao*2, konoha*1, som*1.5, oculos, cobras*1.5, edo-tensei*1.5
+Karin | uzumaki*2, sasuke*2, taka*2.5, sensora*2, cabelo-vermelho, oculos, kunoichi*1.5
+Suigetsu | taka*2.5, sasuke*2, kiri*2, espada*2, agua*2.5, tubarao*1.5, kisame*1
+Jugo | taka*2.5, sasuke*2, marca-amaldicoada*2, passaros*2, ruivo, suigetsu*2.5, karin*2.5, orochimaru*1, fugitivo*1
+Kaguya | otsutsuki*2.5, vilao*2.5, chakra*2, deusa*2, rinnegan*2, byakugan*2, lua*2, mae-ancestral*2, coelha*2
+Hagoromo | sennin*2, rikudo*2.5, otsutsuki*2.5, chakra*2, rinnegan*2, fundador*2, filho*1, hamura*1, asura*1.5, indra*1.5
+Indra | uchiha*2.5, rikudo*2, otsutsuki*2.5, rival*1.5, sasuke*2, ancestral*2
+Asura | senju*2, rikudo*2, otsutsuki*2.5, rival*1.5, naruto*2, ancestral*2
+Konoha | vila*3, folha*2.5, fogo*2, hokage*2.5, ninjas*2, naruto*2, ichiraku*1.5, rochas-hokage*2, =viladafolha
+Akatsuki | akatsuki*4, organizacao*3, vilao*2.5, nuvens-vermelhas*2.5, pain*2, itachi*2, kisame*2, deidara*2, sasori*2, hidan*2, kakuzu*2, konan*2, zetsu*2, madara*1.5, obito*1.5, anel*1.5, capa*2
+Hokage | hokage*3, titulo*2, lider*2, konoha*2.5, kage*2.5, chapeu*2, naruto*2, hashirama*2, tobirama*2, hiruzen*2, minato*2, tsunade*2, kakashi*2, =sextohokage
+Rasengan | tecnica*3, naruto*2.5, minato*2.5, jiraiya*1.5, esfera*2, vento*1.5, kakashi*0.5, chakra*2
+Chidori | tecnica*3, kakashi*2.5, sasuke*2.5, raio*2.5, passaros*1.5, relampago*2, kakashi-sasuke*1.5
+Sharingan | olho*3, uchiha*3, vermelho*2, tomoe*2, kakashi*1.5, itachi*1.5, sasuke*1.5, madara*1.5, copiar*2, genjutsu*1.5
+Byakugan | olho*3, hyuga*3, branco*2, neji*1.5, hinata*1.5, visao*2, chakra*1.5, punho-gentil*1.5
+Rinnegan | olho*3, ondas*2, madara*1.5, nagato*2, pain*2, sasuke*1.5, rikudo*2, roxo
+Chakra | energia*3, jutsu*2, ninja*2, selos*1.5
+Jutsu | tecnica*3, ninja*2, selos*1.5, chakra*2
+Shinobi | ninja*3, konoha*1.5, missoes*2, vilas*1.5
+Kunai | arma*3, faca*2, lancar*1.5, ninja*2, shuriken*2, hiraishin*1
+Shuriken | arma*3, estrela*2, ninja*2, kunai*2
+Ramen | comida*3, ichiraku*3, naruto*2, macarrao*2, iruka*1.5
+Ichiraku | comida*2, ramen*3, naruto*2, konoha*1.5
+Genin | rank*3, iniciante*2, ninja*2, time7*1, academia*2
+Chunin | rank*3, exame*2.5, ninja*2, shikamaru*1.5
+Jonin | rank*3, sensei*2, ninja*2, kakashi*1.5, elite*1.5
+Anbu | elite*3, mascara*2.5, ninja*2, itachi*1.5, kakashi*1.5, konoha*2
+Bijuu | feras*3, caudas*2.5, jinchuriki*2.5, kurama*2, shukaku*2, akatsuki*1.5
+Jinchuriki | hospedeiro*3, bijuu*3, naruto*2, gaara*2, bee*2, akatsuki*2
+Sannin | trio*3, lendarios*2, jiraiya*2.5, tsunade*2.5, orochimaru*2.5, sapo*0.7, cobra*0.7, lesma*0.7
+Susanoo | tecnica*2.5, uchiha*2.5, itachi*1.5, sasuke*1.5, madara*1.5, gigante*2, sharingan*2
+Amaterasu | tecnica*2.5, uchiha*2.5, fogo-negro*2.5, itachi*2, sasuke*2, sharingan*2
+Tsukuyomi | tecnica*2.5, uchiha*2.5, genjutsu*2.5, itachi*2.5, sharingan*2
+Konohamaru | konoha*2, sarutobi*2.5, neto*1.5, naruto*2.5, discipulo*2, hiruzen*2, geracao-nova*1, ebisu*1.5, harem*1.5
+Yamato | konoha*2, anbu*2, elemento-madeira*3, hashirama*2, time7*2.5, sensei*2, kakashi*1.5, sai*1.5, capitao*1.5
+Sai | konoha*2, time7*2.5, danzo*2, raiz*2, desenhos*3, tinta*2, naruto*1.5, sasuke*1.5, sakura*1.5, pale
+Shizune | konoha*2, tsunade*3, medica*2.5, assistente*2, porquinho*2, veneno*1.5
+Anko | konoha*2, orochimaru*2.5, cobras*2, exame-chunin*2.5, dango*2, kunoichi*1.5, sensei*1
+Rin | konoha*2, time-minato*3, obito*2.5, kakashi*2, medica*2, tragico*2, morte*1.5
+Shisui | konoha*2, uchiha*2.5, itachi*2.5, amigo*1.5, genjutsu*2.5, teleporte*2, sharingan*2, corvos*1.5, morto*1.5
+Yahiko | akatsuki*2, ame*2.5, pain*2, nagato*2.5, konan*2.5, jiraiya*1.5, laranja, morto*1.5, fundador*1.5
+Kimimaro | orochimaru*2.5, som*2.5, ossos*3, kaguya-cla*3, lee*1.5, doente*1.5, leal*1.5
+Gamabunta | sapo*3, invocacao*3, naruto*2, jiraiya*2, gigante*2, chefe-sapos*2.5, laranja
+Katsuyu | lesma*3, invocacao*3, tsunade*3, gigante*2, cura*2, branca
+Manda | cobra*3, invocacao*3, orochimaru*3, gigante*2, roxa
+Hanzo | ame*2.5, salamandra*3, sannin*2, lenda*2, veneno*2, jiraiya*1.5, nagato*1
+Chiyo | suna*3, marionetes*3, sasori*3, avo*2, sakura*2, gaara*2, anciao*2
+Fugaku | konoha*2, uchiha*3, sasuke*2.5, itachi*2.5, pai*2.5, policia*2, golpe*1.5
+Mikoto | konoha*2, uchiha*3, sasuke*2.5, itachi*2.5, mae*2.5, gentil*1.5
+Hiashi | konoha*2, hyuga*3, hinata*2.5, neji*2, hanabi*2, pai*2, byakugan*2
+Hanabi | konoha*2, hyuga*3, hinata*2.5, hiashi*2.5, irma*1.5, byakugan*2, jovem*1, kunoichi*1.5, time-konoha*1
+Darui | kumo*3, raikage*2, guerra*1.5, preguicoso*2, laranja, raio*1.5, espadachim*1
+Rasa | suna*3, kazekage*3, gaara*3, pai*2.5, areia*2.5, marionete*1.5
+Kagebunshin | tecnica*3, naruto*3, clone*2.5, chakra*2, proibido*1.5
+Edotensei | tecnica*3, orochimaru*2, kabuto*2.5, tobirama*2.5, mortos*3, proibido*2, guerra*2
+Hiraishin | tecnica*3, minato*3, tobirama*2.5, teleporte*3, kunai*2, velocidade*2
+Mangekyo | olho*3, sharingan*3, uchiha*3, itachi*2, sasuke*2, obito*2, kakashi*2, evolucao*2, =mangekyousharingan
+Rasenshuriken | tecnica*3, naruto*3, vento*3, rasengan*2.5, shuriken*2, sennin*2
+Raikiri | tecnica*3, kakashi*3, raio*3, chidori*2.5, sharingan*1.5
+Kamui | tecnica*3, obito*3, kakashi*2.5, dimensao*3, sharingan*2.5, intangivel*2
+Bijuudama | tecnica*3, bijuu*3, kurama*2.5, naruto*2, esfera*2.5, destruicao*2
+Katon | tecnica*3, fogo*3, uchiha*2.5, sasuke*2, itachi*2, elemento*2, bola-de-fogo*2
+Inoichi | konoha*2, yamanaka*3, ino*3, mente*2.5, ino-shika-cho*3, pai*2, interrogador*2
+Shikaku | konoha*2, nara*3, shikamaru*3, ino-shika-cho*3, pai*2, estrategista*2.5, general*1.5
+Choza | konoha*2, akimichi*3, choji*3, ino-shika-cho*3, pai*2, expansao*2
+Mizuki | konoha*2, academia*2.5, traidor*3, iruka*3, naruto*2, pergaminho*2
+Ibiki | konoha*2, interrogador*3, tortura*2.5, cicatrizes*2, exame-chunin*3, anko*1.5
+Tazuna | ponte*3, construtor*2.5, primeira-missao*3, time7*2.5, zabuza*2.5, inari*2, onda*2
+Shinratensei | tecnica*3, pain*3, rinnegan*3, repulsao*3, nagato*2, naruto*1.5, konoha*2, destruicao*2, akatsuki*2
+Chibakutensei | tecnica*3, pain*3, rinnegan*3, atração*3, nagato*2, lua*2, akatsuki*2
+Izanagi | tecnica*3, uchiha*3, itachi*2, danzo*2.5, sharingan*3, proibido*2, genjutsu*2, ilusao-realidade*2
+Izanami | tecnica*3, uchiha*3, itachi*3, sharingan*2.5, proibido*2, genjutsu*3, loop*3
+Senjutsu | tecnica*3, sennin*3, naruto*2.5, jiraiya*2.5, sapo*2.5, natureza*2.5, chakra*2, =modosabio
+Genjutsu | tecnica*3, ilusao*3, sharingan*2.5, kurenai*2, itachi*2, itsukuyomi*1
+Taijutsu | tecnica*3, luta*3, lee*2.5, gai*2.5, corpo*2, ninjutsu*1.5, punho*2.5, chute*2, portoes*1.5
+Ninjutsu | tecnica*3, ninja*2.5, chakra*2.5, jutsu*3, naruto*2
+Samehada | arma*3, espada*3, kisame*3, escamas*2.5, chakra*2, tubarao*2, vilao*1
+Pakkun | cao*3, invocacao*3, kakashi*3, ninken*3, rastreio*2.5, pequeno*1.5
+Fu | jinchuriki*3.5, kunoichi*1.5, besouro*2, sete-caudas*1, bijuu*1.5, akatsuki*1.5, guerra*1.5, cabelo-verde
+Yugito | jinchuriki*3.5, kunoichi*1.5, gato*2, duas-caudas*1, bijuu*1.5, akatsuki*2, bee*1.5, kumo*2, raikage*1.5
+Roshi | jinchuriki*3.5, macaco*2, lava*2, quatro-caudas*1, bijuu*1.5, akatsuki*2, velho*2, iwa*2
+Han | jinchuriki*3.5, cavalo*2, vapor*2, armadura*2, cinco-caudas*1, bijuu*1.5, akatsuki*2, iwa*2
+Utakata | jinchuriki*3.5, bolhas*3, fugitivo*2, seis-caudas*1, bijuu*1.5, akatsuki*2, kiri*2
+Yagura | jinchuriki*3.5, mizukage*3, tartaruga*2, tres-caudas*1, bijuu*1.5, akatsuki*2, controlado*2, kiri*2.5, mei*1.5
+
+Exame Chunin | exame-chunin*4, chunin*3, genin*2.5, floresta-da-morte*2.5, konoha*2, orochimaru*1.5, sasuke*1.5, gaara*1.5, naruto*1.5, ibiki*1.5, anko*1.5, torneio*2
+Quarta Guerra Ninja | guerra*4, aliança-shinobi*3, madara*3, obito*2.5, edotensei*2.5, naruto*2, sasuke*2, kakashi*1.5, akatsuki*2, jinchuriki*1.5, kages*2
+Time 7 | time7*4, naruto*3, sasuke*3, sakura*3, kakashi*3, genin*2, konoha*2, equipe*2.5
+Ebisu | konoha*2, konohamaru*2.5, sensei*2, oculos, tutor*2
+Kurotsuchi | iwa*3, tsuchikage*2, onoki*2.5, neta*1.5, guerra*1.5, kunoichi*1.5
+Mifune | samurai*3, general*2, guerra*2, espada*2.5, ferro*2, reuniao-dos-kages*2.5, onoki*1.5, aliado*2, kage*1
+Choujuro | kiri*3, espadachim*2.5, mei*2, guerra*1.5, hiramekarei*2, tímido*1.5
+Tayuya | som*3, sound-four*3, orochimaru*2.5, flauta*3, genjutsu*2, sasuke*1.5, kunoichi*1.5
+Kidomaru | som*3, sound-four*3, orochimaru*2.5, aranha*3, teia*2, sasuke*1.5
+Jirobo | som*3, sound-four*3, orochimaru*2.5, forca*2, gordo, choji*1.5, absorver*2
+Sakon | som*3, sound-four*3, orochimaru*2.5, gemeos*3, ukon*3, sasuke*1.5
+Ukon | som*3, sound-four*3, orochimaru*2.5, gemeos*3, sakon*3
+Tsume | konoha*2, inuzuka*3, kiba*2.5, mae*2, cachorros*2, hana*1.5
+Inari | onda*3, ponte*2.5, primeira-missao*2.5, tazuna*3, crianca*2, naruto*1.5
+Zaku | som*3, exame-chunin*3, orochimaru*2, vento*1.5, sasuke*2, dosu*2.5, kin*2
+Dosu | som*3, exame-chunin*3, orochimaru*2, som-sonoro*2, sasuke*2, zaku*2.5, kin*2
+Genma | konoha*2, jonin*2.5, senbon*3, exame-chunin*1.5, hokage-guarda*1.5
+Kekkei | tecnica*3, limite-de-sangue*3, cla*3, byakugan*2, sharingan*2, haku*1.5, kaguya-cla*1.5
+Gamakichi | sapo*3, invocacao*3, naruto*3, filho-de-gamabunta*2.5, pequeno*2, laranja

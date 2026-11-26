@@ -1,0 +1,847 @@
+# Pokémon: palavra | características (tipo*2, família*3, forma, cor, golpes, habilidades, categoria, geração*0.5)
+Bulbasaur | planta*2, veneno*2, fam:bulba*3, sapo*1.5, verde, inicial*1.5, gen1*.5, chicote-de-cipó, folha-navalha, sementes
+Ivysaur | planta*2, veneno*2, fam:bulba*3, sapo*1.5, verde, gen1*.5, chicote-de-cipó, folha-navalha
+Venusaur | planta*2, veneno*2, fam:bulba*3, sapo*1.5, verde, gen1*.5, chicote-de-cipó, solar-beam, flor
+Charmander | fogo*2, fam:charmander*3, lagarto*1.5, dragao*0.7, laranja, inicial*1.5, gen1*.5, lança-chamas, chama-na-cauda
+Charmeleon | fogo*2, fam:charmander*3, lagarto*1.5, dragao*0.7, vermelho, gen1*.5, lança-chamas
+Charizard | fogo*2, voador*2, fam:charmander*3, dragao*1.5, laranja, gen1*.5, lança-chamas, voo, asas, inicial
+Squirtle | agua*2, fam:squirtle*3, tartaruga*1.5, azul, inicial*1.5, gen1*.5, jato-dagua, casco
+Wartortle | agua*2, fam:squirtle*3, tartaruga*1.5, azul, gen1*.5, casco
+Blastoise | agua*2, fam:squirtle*3, tartaruga*1.5, azul, gen1*.5, hidro-bomba, casco, canhao
+Caterpie | inseto*2, fam:caterpie*3, lagarta*1.5, verde, gen1*.5
+Metapod | inseto*2, fam:caterpie*3, casulo*1.5, verde, gen1*.5
+Butterfree | inseto*2, voador*2, fam:caterpie*3, borboleta*1.5, gen1*.5, po-do-sono, psiquico*0.5
+Weedle | inseto*2, veneno*2, fam:weedle*3, larva*1.5, gen1*.5, ferrao
+Kakuna | inseto*2, veneno*2, fam:weedle*3, casulo*1.5, amarelo, gen1*.5
+Beedrill | inseto*2, veneno*2, fam:weedle*3, abelha*1.5, amarelo, gen1*.5, ferrao
+Pidgey | normal*2, voador*2, fam:pidgey*3, passaro*1.5, gen1*.5, rajada-de-vento
+Pidgeotto | normal*2, voador*2, fam:pidgey*3, passaro*1.5, gen1*.5
+Pidgeot | normal*2, voador*2, fam:pidgey*3, passaro*1.5, gen1*.5
+Rattata | normal*2, fam:rattata*3, roedor*1.5, roxo, gen1*.5, dente-de-rato
+Raticate | normal*2, fam:rattata*3, roedor*1.5, gen1*.5
+Spearow | normal*2, voador*2, fam:spearow*3, passaro*1.5, gen1*.5
+Fearow | normal*2, voador*2, fam:spearow*3, passaro*1.5, gen1*.5
+Ekans | veneno*2, fam:ekans*3, cobra*1.5, roxo, gen1*.5
+Arbok | veneno*2, fam:ekans*3, cobra*1.5, roxo, gen1*.5
+Pikachu | eletrico*2, fam:pikachu*3, roedor*1.5, amarelo, gen1*.5, trovao, choque-do-trovao, mascote*2, fofo
+Raichu | eletrico*2, fam:pikachu*3, roedor*1.5, laranja, gen1*.5, trovao
+Pichu | eletrico*2, fam:pikachu*3, roedor*1.5, amarelo, gen2*.5, fofo, bebe
+Sandshrew | terra*2, fam:sandshrew*3, tatu*1.5, amarelo, gen1*.5
+Sandslash | terra*2, fam:sandshrew*3, tatu*1.5, espinhos, gen1*.5
+Nidoran | veneno*2, fam:nido*3, gen1*.5, espinhos
+Nidorina | veneno*2, fam:nido*3, gen1*.5
+Nidoqueen | veneno*2, terra*2, fam:nido*3, gen1*.5
+Nidorino | veneno*2, fam:nido*3, gen1*.5
+Nidoking | veneno*2, terra*2, fam:nido*3, gen1*.5
+Clefairy | fada*2, fam:clefairy*3, rosa, gen1*.5, fofo, lua, metronomo
+Clefable | fada*2, fam:clefairy*3, rosa, gen1*.5, lua, metronomo
+Vulpix | fogo*2, fam:vulpix*3, raposa*1.5, ruivo, gen1*.5
+Ninetales | fogo*2, fam:vulpix*3, raposa*1.5, amarelo, gen1*.5, nove-caudas
+Jigglypuff | normal*2, fada*2, fam:jigglypuff*3, rosa, gen1*.5, cantar, sono, fofo, balao
+Wigglytuff | normal*2, fada*2, fam:jigglypuff*3, rosa, gen1*.5
+Zubat | veneno*2, voador*2, fam:zubat*3, morcego*1.5, azul, gen1*.5, caverna
+Golbat | veneno*2, voador*2, fam:zubat*3, morcego*1.5, azul, gen1*.5, caverna
+Crobat | veneno*2, voador*2, fam:zubat*3, morcego*1.5, roxo, gen2*.5
+Oddish | planta*2, veneno*2, fam:oddish*3, azul, gen1*.5
+Gloom | planta*2, veneno*2, fam:oddish*3, azul, gen1*.5
+Vileplume | planta*2, veneno*2, fam:oddish*3, flor, gen1*.5
+Paras | inseto*2, planta*2, fam:paras*3, cogumelo*1.5, laranja, gen1*.5
+Parasect | inseto*2, planta*2, fam:paras*3, cogumelo*1.5, gen1*.5
+Venonat | inseto*2, veneno*2, fam:venonat*3, roxo, gen1*.5
+Venomoth | inseto*2, veneno*2, fam:venonat*3, mariposa*1.5, gen1*.5
+Diglett | terra*2, fam:diglett*3, toupeira*1.5, marrom, gen1*.5, cavar
+Dugtrio | terra*2, fam:diglett*3, toupeira*1.5, marrom, gen1*.5, cavar
+Meowth | normal*2, fam:meowth*3, gato*1.5, amarelo, gen1*.5, equipe-rocket*2, moeda, falar
+Persian | normal*2, fam:meowth*3, gato*1.5, gen1*.5
+Psyduck | agua*2, fam:psyduck*3, pato*1.5, amarelo, gen1*.5, dor-de-cabeca, confuso
+Golduck | agua*2, fam:psyduck*3, pato*1.5, azul, gen1*.5
+Mankey | lutador*2, fam:mankey*3, macaco*1.5, gen1*.5, furia
+Primeape | lutador*2, fam:mankey*3, macaco*1.5, gen1*.5, furia
+Growlithe | fogo*2, fam:growlithe*3, cachorro*1.5, laranja, gen1*.5
+Arcanine | fogo*2, fam:growlithe*3, cachorro*1.5, laranja, gen1*.5, lendario*0.5, velocidade
+Poliwag | agua*2, fam:poliwag*3, girino*1.5, azul, gen1*.5
+Poliwhirl | agua*2, fam:poliwag*3, girino*1.5, azul, gen1*.5
+Poliwrath | agua*2, lutador*2, fam:poliwag*3, girino*1.5, azul, gen1*.5
+Abra | psiquico*2, fam:abra*3, amarelo, gen1*.5, teleporte, dormir
+Kadabra | psiquico*2, fam:abra*3, amarelo, gen1*.5, colher, teleporte
+Alakazam | psiquico*2, fam:abra*3, amarelo, gen1*.5, colher, inteligente
+Machop | lutador*2, fam:machop*3, cinza, gen1*.5, forca
+Machoke | lutador*2, fam:machop*3, cinza, gen1*.5, forca
+Machamp | lutador*2, fam:machop*3, cinza, gen1*.5, forca, quatro-bracos
+Bellsprout | planta*2, veneno*2, fam:bellsprout*3, amarelo, gen1*.5, planta-carnivora*1.5
+Weepinbell | planta*2, veneno*2, fam:bellsprout*3, amarelo, gen1*.5, planta-carnivora*1.5
+Victreebel | planta*2, veneno*2, fam:bellsprout*3, amarelo, gen1*.5, planta-carnivora*1.5
+Tentacool | agua*2, veneno*2, fam:tentacool*3, agua-viva*1.5, azul, gen1*.5
+Tentacruel | agua*2, veneno*2, fam:tentacool*3, agua-viva*1.5, azul, gen1*.5
+Geodude | pedra*2, terra*2, fam:geodude*3, rocha*1.5, cinza, gen1*.5
+Graveler | pedra*2, terra*2, fam:geodude*3, rocha*1.5, cinza, gen1*.5
+Golem | pedra*2, terra*2, fam:geodude*3, rocha*1.5, cinza, gen1*.5, explosao
+Ponyta | fogo*2, fam:ponyta*3, cavalo*1.5, amarelo, gen1*.5, chama
+Rapidash | fogo*2, fam:ponyta*3, cavalo*1.5, amarelo, gen1*.5, chama, velocidade
+Slowpoke | agua*2, psiquico*2, fam:slowpoke*3, rosa, gen1*.5, lento, hipopotamo*0.5
+Slowbro | agua*2, psiquico*2, fam:slowpoke*3, rosa, gen1*.5, lento
+Slowking | agua*2, psiquico*2, fam:slowpoke*3, rosa, gen2*.5, lento
+Magnemite | eletrico*2, aco*2, fam:magnemite*3, ima*1.5, cinza, gen1*.5, robo
+Magneton | eletrico*2, aco*2, fam:magnemite*3, ima*1.5, cinza, gen1*.5, robo
+Magnezone | eletrico*2, aco*2, fam:magnemite*3, ima*1.5, cinza, gen4*.5, robo
+Farfetchd | normal*2, voador*2, passaro*1.5, pato*0.7, gen1*.5, alho-poro, espada
+Doduo | normal*2, voador*2, fam:doduo*3, passaro*1.5, marrom, gen1*.5
+Dodrio | normal*2, voador*2, fam:doduo*3, passaro*1.5, marrom, gen1*.5
+Seel | agua*2, fam:seel*3, foca*1.5, branco, gen1*.5
+Dewgong | agua*2, gelo*2, fam:seel*3, foca*1.5, branco, gen1*.5
+Grimer | veneno*2, fam:grimer*3, lodo*1.5, roxo, gen1*.5, lixo
+Muk | veneno*2, fam:grimer*3, lodo*1.5, roxo, gen1*.5, lixo
+Shellder | agua*2, fam:shellder*3, concha*1.5, roxo, gen1*.5
+Cloyster | agua*2, gelo*2, fam:shellder*3, concha*1.5, roxo, gen1*.5
+Gastly | fantasma*2, veneno*2, fam:gastly*3, gas*1.5, roxo, gen1*.5
+Haunter | fantasma*2, veneno*2, fam:gastly*3, gas*1.5, roxo, gen1*.5, lamber
+Gengar | fantasma*2, veneno*2, fam:gastly*3, sombra*1.5, roxo, gen1*.5, bola-sombria, sorriso, populares
+Onix | pedra*2, terra*2, fam:onix*3, cobra*1.5, rocha*1.5, cinza, gen1*.5, gigante, brock
+Steelix | aco*2, terra*2, fam:onix*3, cobra*1.5, cinza, gen2*.5, gigante
+Drowzee | psiquico*2, fam:drowzee*3, amarelo, gen1*.5, sonho, hipnose
+Hypno | psiquico*2, fam:drowzee*3, amarelo, gen1*.5, hipnose, pendulo
+Krabby | agua*2, fam:krabby*3, caranguejo*1.5, vermelho, gen1*.5
+Kingler | agua*2, fam:krabby*3, caranguejo*1.5, vermelho, gen1*.5
+Voltorb | eletrico*2, fam:voltorb*3, pokebola*1.5, vermelho, gen1*.5, explosao
+Electrode | eletrico*2, fam:voltorb*3, pokebola*1.5, vermelho, gen1*.5, explosao
+Exeggcute | planta*2, psiquico*2, fam:exeggcute*3, ovo*1.5, rosa, gen1*.5
+Exeggutor | planta*2, psiquico*2, fam:exeggcute*3, palmeira*1.5, gen1*.5
+Cubone | terra*2, fam:cubone*3, osso*1.5, marrom, gen1*.5, cranio, triste
+Marowak | terra*2, fam:cubone*3, osso*1.5, marrom, gen1*.5, cranio
+Hitmonlee | lutador*2, fam:tyrogue*3, chute*1.5, marrom, gen1*.5
+Hitmonchan | lutador*2, fam:tyrogue*3, soco*1.5, roxo, gen1*.5
+Hitmontop | lutador*2, fam:tyrogue*3, pião*1.5, gen2*.5
+Lickitung | normal*2, lingua*1.5, rosa, gen1*.5, fam:lickitung*3
+Koffing | veneno*2, fam:koffing*3, gas*1.5, roxo, gen1*.5, equipe-rocket
+Weezing | veneno*2, fam:koffing*3, gas*1.5, roxo, gen1*.5, equipe-rocket
+Rhyhorn | terra*2, pedra*2, fam:rhyhorn*3, rinoceronte*1.5, cinza, gen1*.5
+Rhydon | terra*2, pedra*2, fam:rhyhorn*3, rinoceronte*1.5, cinza, gen1*.5
+Chansey | normal*2, fam:chansey*3, ovo*1.5, rosa, gen1*.5, cura, enfermeira
+Blissey | normal*2, fam:chansey*3, ovo*1.5, rosa, gen2*.5, cura, enfermeira
+Tangela | planta*2, cipos*1.5, azul, gen1*.5, fam:tangela*3
+Kangaskhan | normal*2, canguru*1.5, marrom, gen1*.5, mae
+Horsea | agua*2, fam:horsea*3, cavalo-marinho*1.5, azul, gen1*.5
+Seadra | agua*2, fam:horsea*3, cavalo-marinho*1.5, azul, gen1*.5
+Kingdra | agua*2, dragao*2, fam:horsea*3, cavalo-marinho*1.5, azul, gen2*.5
+Goldeen | agua*2, fam:goldeen*3, peixe*1.5, vermelho, gen1*.5
+Seaking | agua*2, fam:goldeen*3, peixe*1.5, vermelho, gen1*.5
+Staryu | agua*2, fam:staryu*3, estrela*1.5, marrom, gen1*.5
+Starmie | agua*2, psiquico*2, fam:staryu*3, estrela*1.5, roxo, gen1*.5
+Scyther | inseto*2, voador*2, fam:scyther*3, mantis*1.5, verde, gen1*.5, laminas, corte
+Scizor | inseto*2, aco*2, fam:scyther*3, mantis*1.5, vermelho, gen2*.5, laminas
+Pinsir | inseto*2, besouro*1.5, marrom, gen1*.5, garras
+Tauros | normal*2, touro*1.5, marrom, gen1*.5
+Magikarp | agua*2, fam:magikarp*3, peixe*1.5, vermelho, gen1*.5, splash, fraco*1.5, pescar
+Gyarados | agua*2, voador*2, fam:magikarp*3, dragao*1.5, serpente*1.5, azul, gen1*.5, furia, evolucao-surpresa
+Lapras | agua*2, gelo*2, dinossauro*1.5, plesiossauro*1.5, azul, gen1*.5, transporte, canto
+Ditto | normal*2, transformar*2, roxo, gen1*.5, amorfo
+Eevee | normal*2, fam:eevee*3, raposa*1.5, marrom, gen1*.5, evolucoes*2, fofo, mascote
+Vaporeon | agua*2, fam:eevee*3, evolucao-eevee*2, azul, gen1*.5, sereia*1.5
+Jolteon | eletrico*2, fam:eevee*3, evolucao-eevee*2, amarelo, gen1*.5
+Flareon | fogo*2, fam:eevee*3, evolucao-eevee*2, laranja, gen1*.5
+Espeon | psiquico*2, fam:eevee*3, evolucao-eevee*2, roxo, gen2*.5, sol
+Umbreon | sombrio*2, fam:eevee*3, evolucao-eevee*2, preto, gen2*.5, lua, aneis
+Leafeon | planta*2, fam:eevee*3, evolucao-eevee*2, verde, gen4*.5
+Glaceon | gelo*2, fam:eevee*3, evolucao-eevee*2, azul, gen4*.5
+Sylveon | fada*2, fam:eevee*3, evolucao-eevee*2, rosa, gen6*.5, fitas
+Porygon | normal*2, fam:porygon*3, digital*1.5, rosa, gen1*.5, robo
+Omanyte | pedra*2, agua*2, fam:omanyte*3, fossil*2, caracol*1.5, gen1*.5
+Omastar | pedra*2, agua*2, fam:omanyte*3, fossil*2, caracol*1.5, gen1*.5
+Kabuto | pedra*2, agua*2, fam:kabuto*3, fossil*2, gen1*.5
+Kabutops | pedra*2, agua*2, fam:kabuto*3, fossil*2, gen1*.5
+Aerodactyl | pedra*2, voador*2, fossil*2, pterodactilo*1.5, cinza, gen1*.5
+Snorlax | normal*2, fam:snorlax*3, urso*1.5, gordo*1.5, azul, gen1*.5, dormir*2, comer, bloqueia-caminho
+Munchlax | normal*2, fam:snorlax*3, urso*1.5, gordo*1.5, gen4*.5, comer
+Articuno | gelo*2, voador*2, lendario*2, passaro*1.5, azul, gen1*.5, aves-lendarias*1.5
+Zapdos | eletrico*2, voador*2, lendario*2, passaro*1.5, amarelo, gen1*.5, aves-lendarias*1.5
+Moltres | fogo*2, voador*2, lendario*2, passaro*1.5, laranja, gen1*.5, aves-lendarias*1.5
+Dratini | dragao*2, fam:dratini*3, serpente*1.5, azul, gen1*.5
+Dragonair | dragao*2, fam:dratini*3, serpente*1.5, azul, gen1*.5
+Dragonite | dragao*2, voador*2, fam:dratini*3, laranja, gen1*.5, pseudo-lendario*1.5
+Mewtwo | psiquico*2, lendario*2, clone*1.5, roxo, gen1*.5, psiquico-poderoso, laboratorio, mew*2
+Mew | psiquico*2, mitico*2, lendario*1, rosa, gen1*.5, fofo, flutuar, mewtwo*2.5, celebi*1.5
+Chikorita | planta*2, fam:chikorita*3, inicial*1.5, verde, gen2*.5, folha
+Bayleef | planta*2, fam:chikorita*3, verde, gen2*.5, folha
+Meganium | planta*2, fam:chikorita*3, verde, gen2*.5, flor
+Cyndaquil | fogo*2, fam:cyndaquil*3, inicial*1.5, ourico*1.5, gen2*.5
+Quilava | fogo*2, fam:cyndaquil*3, ourico*1.5, gen2*.5
+Typhlosion | fogo*2, fam:cyndaquil*3, ourico*1.5, gen2*.5
+Totodile | agua*2, fam:totodile*3, inicial*1.5, crocodilo*1.5, azul, gen2*.5
+Croconaw | agua*2, fam:totodile*3, crocodilo*1.5, azul, gen2*.5
+Feraligatr | agua*2, fam:totodile*3, crocodilo*1.5, azul, gen2*.5
+Togepi | fada*2, fam:togepi*3, ovo*1.5, branco, gen2*.5, bebe, fofo
+Togetic | fada*2, voador*2, fam:togepi*3, branco, gen2*.5
+Togekiss | fada*2, voador*2, fam:togepi*3, branco, gen4*.5
+Mareep | eletrico*2, fam:mareep*3, ovelha*1.5, gen2*.5
+Ampharos | eletrico*2, fam:mareep*3, ovelha*1.5, gen2*.5, luz
+Marill | agua*2, fada*2, fam:marill*3, rato*1.5, azul, gen2*.5
+Azumarill | agua*2, fada*2, fam:marill*3, rato*1.5, azul, gen2*.5
+Sudowoodo | pedra*2, arvore*1.5, gen2*.5, imitar, fam:sudowoodo*3
+Hoppip | planta*2, voador*2, fam:hoppip*3, gen2*.5, vento
+Tyranitar | pedra*2, sombrio*2, fam:larvitar*3, dinossauro*1.5, verde, gen2*.5, pseudo-lendario*1.5
+Larvitar | pedra*2, terra*2, fam:larvitar*3, dinossauro*1.5, verde, gen2*.5
+Pupitar | pedra*2, terra*2, fam:larvitar*3, casulo*1.5, gen2*.5
+Heracross | inseto*2, lutador*2, besouro*1.5, azul, gen2*.5, chifre
+Sneasel | sombrio*2, gelo*2, fam:sneasel*3, gato*1.5, gen2*.5, garras
+Weavile | sombrio*2, gelo*2, fam:sneasel*3, gato*1.5, gen4*.5, garras
+Houndour | sombrio*2, fogo*2, fam:houndour*3, cachorro*1.5, gen2*.5
+Houndoom | sombrio*2, fogo*2, fam:houndour*3, cachorro*1.5, gen2*.5
+Raikou | eletrico*2, lendario*2, caes-lendarios*2, amarelo, gen2*.5, tigre*1.5
+Entei | fogo*2, lendario*2, caes-lendarios*2, marrom, gen2*.5, leao*1.5
+Suicune | agua*2, lendario*2, caes-lendarios*2, azul, gen2*.5, aurora
+Lugia | psiquico*2, voador*2, lendario*2, aves-lendarias*0.8, branco, gen2*.5, oceano, guardiao-do-mar
+Celebi | psiquico*2, planta*2, mitico*2, verde, gen2*.5, tempo, fada*0.5
+Treecko | planta*2, fam:treecko*3, inicial*1.5, lagarto*1.5, verde, gen3*.5
+Grovyle | planta*2, fam:treecko*3, lagarto*1.5, verde, gen3*.5
+Sceptile | planta*2, fam:treecko*3, lagarto*1.5, verde, gen3*.5
+Torchic | fogo*2, fam:torchic*3, inicial*1.5, galinha*1.5, laranja, gen3*.5
+Combusken | fogo*2, lutador*2, fam:torchic*3, galinha*1.5, gen3*.5
+Blaziken | fogo*2, lutador*2, fam:torchic*3, galinha*1.5, gen3*.5, chute
+Mudkip | agua*2, fam:mudkip*3, inicial*1.5, azul, gen3*.5, lama
+Marshtomp | agua*2, terra*2, fam:mudkip*3, azul, gen3*.5
+Swampert | agua*2, terra*2, fam:mudkip*3, azul, gen3*.5
+Ralts | psiquico*2, fada*2, fam:ralts*3, gen3*.5, branco
+Kirlia | psiquico*2, fada*2, fam:ralts*3, branco, gen3*.5, danca
+Gardevoir | psiquico*2, fada*2, fam:ralts*3, branco, gen3*.5, vestido
+Gallade | psiquico*2, lutador*2, fam:ralts*3, branco, gen4*.5, espada
+Aron | aco*2, pedra*2, fam:aron*3, gen3*.5
+Aggron | aco*2, pedra*2, fam:aron*3, gen3*.5
+Absol | sombrio*2, desastre*1.5, branco, gen3*.5, lobo*1.5
+Salamence | dragao*2, voador*2, fam:bagon*3, azul, gen3*.5, pseudo-lendario*1.5
+Bagon | dragao*2, fam:bagon*3, azul, gen3*.5
+Metagross | aco*2, psiquico*2, fam:beldum*3, azul, gen3*.5, pseudo-lendario*1.5, robo
+Beldum | aco*2, psiquico*2, fam:beldum*3, azul, gen3*.5, robo
+Milotic | agua*2, serpente*1.5, bonito, rosa, gen3*.5
+Feebas | agua*2, peixe*1.5, feio, marrom, gen3*.5, fraco*1.5
+Flygon | terra*2, dragao*2, libelula*1.5, verde, gen3*.5, deserto
+Swablu | normal*2, voador*2, fam:swablu*3, passaro*1.5, azul, gen3*.5, nuvem
+Altaria | dragao*2, voador*2, fam:swablu*3, passaro*1.5, azul, gen3*.5, nuvem
+Shuppet | fantasma*2, fam:shuppet*3, gen3*.5
+Banette | fantasma*2, fam:shuppet*3, boneca*1.5, gen3*.5, zipper
+Duskull | fantasma*2, fam:duskull*3, gen3*.5
+Dusknoir | fantasma*2, fam:duskull*3, gen4*.5
+Sableye | sombrio*2, fantasma*2, gen3*.5, joias
+Mawile | aco*2, fada*2, gen3*.5, mandibula
+Gible | dragao*2, terra*2, fam:gible*3, tubarao*1.5, azul, gen4*.5
+Gabite | dragao*2, terra*2, fam:gible*3, tubarao*1.5, azul, gen4*.5
+Garchomp | dragao*2, terra*2, fam:gible*3, tubarao*1.5, azul, gen4*.5, pseudo-lendario*1.5
+Riolu | lutador*2, fam:riolu*3, cachorro*1.5, azul, gen4*.5, aura
+Lucario | lutador*2, aco*2, fam:riolu*3, cachorro*1.5, azul, gen4*.5, aura, esfera-de-aura
+Turtwig | planta*2, fam:turtwig*3, inicial*1.5, tartaruga*1.5, gen4*.5
+Grotle | planta*2, fam:turtwig*3, tartaruga*1.5, gen4*.5
+Torterra | planta*2, terra*2, fam:turtwig*3, tartaruga*1.5, gen4*.5, arvore
+Chimchar | fogo*2, fam:chimchar*3, inicial*1.5, macaco*1.5, gen4*.5
+Monferno | fogo*2, lutador*2, fam:chimchar*3, macaco*1.5, gen4*.5
+Infernape | fogo*2, lutador*2, fam:chimchar*3, macaco*1.5, gen4*.5
+Piplup | agua*2, fam:piplup*3, inicial*1.5, pinguim*1.5, azul, gen4*.5
+Prinplup | agua*2, fam:piplup*3, pinguim*1.5, azul, gen4*.5
+Empoleon | agua*2, aco*2, fam:piplup*3, pinguim*1.5, azul, gen4*.5
+Rotom | eletrico*2, fantasma*2, gen4*.5, aparelhos*1.5
+Spiritomb | fantasma*2, sombrio*2, gen4*.5, roxo
+Dialga | aco*2, dragao*2, lendario*2, trio-sinnoh*2, tempo*1.5, gen4*.5
+Palkia | agua*2, dragao*2, lendario*2, trio-sinnoh*2, espaco*1.5, gen4*.5
+Giratina | fantasma*2, dragao*2, lendario*2, trio-sinnoh*2, antimateria*1.5, gen4*.5
+Arceus | normal*2, lendario*2, mitico*2, criador*2, gen4*.5, deus*1.5
+Darkrai | sombrio*2, mitico*2, pesadelo*1.5, gen4*.5
+Victini | psiquico*2, fogo*2, mitico*2, gen5*.5, vitoria
+Snivy | planta*2, fam:snivy*3, inicial*1.5, cobra*1.5, verde, gen5*.5
+Servine | planta*2, fam:snivy*3, cobra*1.5, verde, gen5*.5
+Serperior | planta*2, fam:snivy*3, cobra*1.5, verde, gen5*.5
+Tepig | fogo*2, fam:tepig*3, inicial*1.5, porco*1.5, laranja, gen5*.5
+Pignite | fogo*2, lutador*2, fam:tepig*3, porco*1.5, gen5*.5
+Emboar | fogo*2, lutador*2, fam:tepig*3, porco*1.5, gen5*.5
+Oshawott | agua*2, fam:oshawott*3, inicial*1.5, lontra*1.5, gen5*.5, concha
+Dewott | agua*2, fam:oshawott*3, lontra*1.5, gen5*.5
+Samurott | agua*2, fam:oshawott*3, lontra*1.5, gen5*.5, samurai*1.5, espada
+Zorua | sombrio*2, fam:zorua*3, raposa*1.5, ilusao*1.5, gen5*.5
+Zoroark | sombrio*2, fam:zorua*3, raposa*1.5, ilusao*1.5, gen5*.5
+Reshiram | dragao*2, fogo*2, lendario*2, dragoes-unova*2, branco, gen5*.5
+Zekrom | dragao*2, eletrico*2, lendario*2, dragoes-unova*2, preto, gen5*.5
+Kyurem | dragao*2, gelo*2, lendario*2, dragoes-unova*2, gen5*.5
+Chandelure | fantasma*2, fogo*2, fam:litwick*3, vela*1.5, gen5*.5
+Haxorus | dragao*2, fam:axew*3, machado*1.5, gen5*.5
+Hydreigon | sombrio*2, dragao*2, fam:deino*3, tres-cabecas*1.5, gen5*.5, pseudo-lendario*1.5
+Volcarona | inseto*2, fogo*2, mariposa*1.5, sol*1.5, gen5*.5, fam:larvesta*3
+Excadrill | terra*2, aco*2, fam:drilbur*3, toupeira*1.5, gen5*.5
+Greninja | agua*2, sombrio*2, fam:froakie*3, sapo*1.5, ninja*2, azul, gen6*.5, shuriken-de-agua
+Froakie | agua*2, fam:froakie*3, inicial*1.5, sapo*1.5, azul, gen6*.5
+Frogadier | agua*2, fam:froakie*3, sapo*1.5, azul, gen6*.5
+Chespin | planta*2, fam:chespin*3, inicial*1.5, ourico*1.5, gen6*.5
+Quilladin | planta*2, fam:chespin*3, ourico*1.5, gen6*.5
+Chesnaught | planta*2, lutador*2, fam:chespin*3, ourico*1.5, gen6*.5
+Fennekin | fogo*2, fam:fennekin*3, inicial*1.5, raposa*1.5, gen6*.5
+Braixen | fogo*2, fam:fennekin*3, raposa*1.5, gen6*.5
+Delphox | fogo*2, psiquico*2, fam:fennekin*3, raposa*1.5, gen6*.5, bruxa
+Xerneas | fada*2, lendario*2, trio-kalos*2, veado*1.5, gen6*.5
+Yveltal | sombrio*2, voador*2, lendario*2, trio-kalos*2, passaro*1.5, gen6*.5
+Goodra | dragao*2, fam:goomy*3, lesma*1.5, gen6*.5
+Rowlet | planta*2, voador*2, fam:rowlet*3, inicial*1.5, coruja*1.5, gen7*.5
+Dartrix | planta*2, voador*2, fam:rowlet*3, coruja*1.5, gen7*.5
+Decidueye | planta*2, fantasma*2, fam:rowlet*3, coruja*1.5, arqueiro*1.5, gen7*.5
+Litten | fogo*2, fam:litten*3, inicial*1.5, gato*1.5, gen7*.5
+Torracat | fogo*2, fam:litten*3, gato*1.5, gen7*.5
+Incineroar | fogo*2, sombrio*2, fam:litten*3, gato*1.5, lutador*0.7, gen7*.5, wrestler*1.5
+Popplio | agua*2, fam:popplio*3, inicial*1.5, foca*1.5, gen7*.5
+Brionne | agua*2, fam:popplio*3, foca*1.5, gen7*.5
+Primarina | agua*2, fada*2, fam:popplio*3, sereia*1.5, gen7*.5
+Mimikyu | fantasma*2, fada*2, disfarce*2, pikachu*1.0, gen7*.5, amarelo, fofo
+Solgaleo | psiquico*2, aco*2, lendario*2, leao*1.5, sol*2, gen7*.5
+Lunala | psiquico*2, fantasma*2, lendario*2, morcego*1.5, lua*2, gen7*.5
+Rockruff | pedra*2, fam:rockruff*3, cachorro*1.5, gen7*.5
+Lycanroc | pedra*2, fam:rockruff*3, lobo*1.5, gen7*.5
+Grookey | planta*2, fam:grookey*3, inicial*1.5, macaco*1.5, gen8*.5, bateria
+Thwackey | planta*2, fam:grookey*3, macaco*1.5, gen8*.5
+Rillaboom | planta*2, fam:grookey*3, gorila*1.5, gen8*.5, bateria
+Scorbunny | fogo*2, fam:scorbunny*3, inicial*1.5, coelho*1.5, gen8*.5, futebol
+Raboot | fogo*2, fam:scorbunny*3, coelho*1.5, gen8*.5
+Cinderace | fogo*2, fam:scorbunny*3, coelho*1.5, gen8*.5, futebol
+Sobble | agua*2, fam:sobble*3, inicial*1.5, lagarto*1.5, gen8*.5, choro
+Drizzile | agua*2, fam:sobble*3, lagarto*1.5, gen8*.5
+Inteleon | agua*2, fam:sobble*3, lagarto*1.5, espiao*1.5, gen8*.5
+Zacian | fada*2, aco*1, lendario*2, lobo*1.5, espada*2, gen8*.5, heroi
+Zamazenta | lutador*2, lendario*2, lobo*1.5, escudo*2, gen8*.5, heroi
+Eternatus | veneno*2, dragao*2, lendario*2, gen8*.5, vilao
+Corviknight | voador*2, aco*2, fam:rookidee*3, corvo*1.5, gen8*.5
+Dragapult | dragao*2, fantasma*2, fam:dreepy*3, gen8*.5, misseis
+Sprigatito | planta*2, fam:sprigatito*3, inicial*1.5, gato*1.5, gen9*.5
+Floragato | planta*2, fam:sprigatito*3, gato*1.5, gen9*.5
+Meowscarada | planta*2, sombrio*2, fam:sprigatito*3, gato*1.5, mago*1.5, gen9*.5
+Fuecoco | fogo*2, fam:fuecoco*3, inicial*1.5, crocodilo*1.5, gen9*.5
+Crocalor | fogo*2, fam:fuecoco*3, crocodilo*1.5, gen9*.5
+Skeledirge | fogo*2, fantasma*2, fam:fuecoco*3, crocodilo*1.5, gen9*.5
+Quaxly | agua*2, fam:quaxly*3, inicial*1.5, pato*1.5, gen9*.5
+Quaxwell | agua*2, fam:quaxly*3, pato*1.5, gen9*.5
+Quaquaval | agua*2, lutador*2, fam:quaxly*3, pato*1.5, danca*1.5, gen9*.5
+Koraidon | lutador*2, dragao*2, lendario*2, gen9*.5, vermelho, moto
+Miraidon | eletrico*2, dragao*2, lendario*2, gen9*.5, roxo, moto
+Gholdengo | aco*2, fantasma*2, gen9*.5, moedas*1.5, dourado
+Pawmot | eletrico*2, lutador*2, fam:pawmi*3, rato*1.5, gen9*.5
+Tinkaton | fada*2, aco*2, fam:tinkatink*3, martelo*1.5, gen9*.5
+Garganacl | pedra*2, fam:nacli*3, sal*1.5, gen9*.5
+# ---- ampliação: geração 1 a 4 faltantes ----
+Jynx | gelo*2, psiquico*2, fam:smoochum*3, humanoide*1.5, vermelho, gen1*.5, beijo-gelado
+Electabuzz | eletrico*2, fam:elekid*3, humanoide*1.5, amarelo, gen1*.5, soco-trovao
+Magmar | fogo*2, fam:magby*3, humanoide*1.5, vermelho, gen1*.5
+Elekid | eletrico*2, fam:elekid*3, humanoide*1.5, amarelo, gen2*.5, bebe
+Magby | fogo*2, fam:magby*3, humanoide*1.5, vermelho, gen2*.5, bebe
+Smoochum | gelo*2, psiquico*2, fam:smoochum*3, rosa, gen2*.5, bebe
+Tyrogue | lutador*2, fam:tyrogue*3, humanoide*1.5, gen2*.5, bebe
+Cleffa | fada*2, fam:clefairy*3, rosa, gen2*.5, bebe, estrela
+Igglybuff | normal*2, fada*2, fam:jigglypuff*3, rosa, gen2*.5, bebe
+Pineco | inseto*2, fam:pineco*3, casulo*1.5, gen2*.5
+Forretress | inseto*2, aco*2, fam:pineco*3, casulo*1.5, gen2*.5
+Dunsparce | normal*2, serpente*1.5, amarelo, gen2*.5
+Gligar | terra*2, voador*2, fam:gligar*3, escorpiao*1.5, morcego*1, gen2*.5
+Gliscor | terra*2, voador*2, fam:gligar*3, escorpiao*1.5, morcego*1, gen4*.5
+Snubbull | fada*2, fam:snubbull*3, cachorro*1.5, rosa, gen2*.5
+Granbull | fada*2, fam:snubbull*3, cachorro*1.5, rosa, gen2*.5
+Qwilfish | agua*2, veneno*2, peixe*1.5, baiacu*2, espinhos*2, gen2*.5
+Shuckle | inseto*2, pedra*2, tartaruga*1, suco*1.5, gen2*.5
+Teddiursa | normal*2, fam:teddiursa*3, urso*1.5, marrom, gen2*.5, fofo, mel
+Ursaring | normal*2, fam:teddiursa*3, urso*1.5, marrom, gen2*.5
+Slugma | fogo*2, fam:slugma*3, lesma*1.5, lava*1.5, vermelho, gen2*.5
+Magcargo | fogo*2, pedra*2, fam:slugma*3, lesma*1.5, lava*1.5, gen2*.5
+Swinub | gelo*2, terra*2, fam:swinub*3, porco*1.5, marrom, gen2*.5
+Piloswine | gelo*2, terra*2, fam:swinub*3, porco*1.5, mamute*1, gen2*.5
+Mamoswine | gelo*2, terra*2, fam:swinub*3, mamute*1.5, gen4*.5
+Corsola | agua*2, pedra*2, coral*1.5, rosa, gen2*.5
+Remoraid | agua*2, fam:remoraid*3, peixe*1.5, gen2*.5
+Octillery | agua*2, fam:remoraid*3, polvo*1.5, vermelho, gen2*.5
+Delibird | gelo*2, voador*2, passaro*1.5, papai-noel*2, vermelho, gen2*.5
+Mantine | agua*2, voador*2, fam:mantine*3, arraia*1.5, gen2*.5
+Skarmory | aco*2, voador*2, passaro*1.5, metalico*1.5, gen2*.5
+Phanpy | terra*2, fam:phanpy*3, elefante*1.5, azul, gen2*.5
+Donphan | terra*2, fam:phanpy*3, elefante*1.5, cinza, gen2*.5, rolar
+Porygon2 | normal*2, fam:porygon*3, digital*1.5, vermelho, gen2*.5, robo
+Porygon Z | normal*2, fam:porygon*3, digital*1.5, gen4*.5, robo
+Stantler | normal*2, veado*1.5, marrom, gen2*.5
+Smeargle | normal*2, cachorro*1.5, pintor*2, branco, gen2*.5, copiar-golpes
+Miltank | normal*2, vaca*1.5, rosa, gen2*.5, leite, whitney*1.5
+Sunflora | planta*2, fam:sunkern*3, flor*1.5, girassol*2, amarelo, gen2*.5
+Sunkern | planta*2, fam:sunkern*3, semente*1.5, gen2*.5
+Skiploom | planta*2, voador*2, fam:hoppip*3, flor*1.5, gen2*.5
+Jumpluff | planta*2, voador*2, fam:hoppip*3, flor*1.5, algodao*1.5, gen2*.5
+Aipom | normal*2, fam:aipom*3, macaco*1.5, roxo, gen2*.5
+Ambipom | normal*2, fam:aipom*3, macaco*1.5, roxo, gen4*.5
+Yanma | inseto*2, voador*2, libelula*1.5, gen2*.5, fam:yanma*3
+Yanmega | inseto*2, voador*2, libelula*1.5, gen4*.5, fam:yanma*3
+Wooper | agua*2, terra*2, fam:wooper*3, axolote*1.5, azul, gen2*.5
+Quagsire | agua*2, terra*2, fam:wooper*3, axolote*1.5, azul, gen2*.5
+Murkrow | sombrio*2, voador*2, fam:murkrow*3, corvo*1.5, preto, gen2*.5
+Honchkrow | sombrio*2, voador*2, fam:murkrow*3, corvo*1.5, preto, gen4*.5
+Misdreavus | fantasma*2, fam:misdreavus*3, gen2*.5
+Mismagius | fantasma*2, fam:misdreavus*3, bruxa*1.5, gen4*.5
+Unown | psiquico*2, letras*2, gen2*.5
+Wobbuffet | psiquico*2, fam:wobbuffet*3, azul, gen2*.5, contra-ataque*1.5
+Girafarig | normal*2, psiquico*2, girafa*2, gen2*.5
+Hoothoot | normal*2, voador*2, fam:hoothoot*3, coruja*1.5, marrom, gen2*.5
+Noctowl | normal*2, voador*2, fam:hoothoot*3, coruja*1.5, marrom, gen2*.5
+Ledyba | inseto*2, voador*2, fam:ledyba*3, joaninha*1.5, vermelho, gen2*.5
+Ledian | inseto*2, voador*2, fam:ledyba*3, joaninha*1.5, vermelho, gen2*.5
+Spinarak | inseto*2, veneno*2, fam:spinarak*3, aranha*1.5, gen2*.5
+Ariados | inseto*2, veneno*2, fam:spinarak*3, aranha*1.5, vermelho, gen2*.5
+Chinchou | agua*2, eletrico*2, fam:chinchou*3, peixe*1.5, lanterna*1.5, azul, gen2*.5
+Lanturn | agua*2, eletrico*2, fam:chinchou*3, peixe*1.5, lanterna*1.5, azul, gen2*.5
+Natu | psiquico*2, voador*2, fam:natu*3, passaro*1.5, verde, gen2*.5
+Xatu | psiquico*2, voador*2, fam:natu*3, passaro*1.5, totem*1.5, verde, gen2*.5
+Flaaffy | eletrico*2, fam:mareep*3, ovelha*1.5, rosa, gen2*.5
+Bellossom | planta*2, fam:oddish*3, flor*1.5, danca*1.5, gen2*.5
+Politoed | agua*2, fam:poliwag*3, sapo*1.5, verde, gen2*.5
+Sentret | normal*2, fam:sentret*3, furao*1.5, marrom, gen2*.5
+Furret | normal*2, fam:sentret*3, furao*1.5, marrom, gen2*.5
+Poochyena | sombrio*2, fam:poochyena*3, cachorro*1.5, hiena*1, cinza, gen3*.5
+Mightyena | sombrio*2, fam:poochyena*3, cachorro*1.5, hiena*1, cinza, gen3*.5
+Zigzagoon | normal*2, fam:zigzagoon*3, guaxinim*1.5, marrom, gen3*.5
+Linoone | normal*2, fam:zigzagoon*3, guaxinim*1.5, branco, gen3*.5
+Wurmple | inseto*2, fam:wurmple*3, lagarta*1.5, vermelho, gen3*.5
+Silcoon | inseto*2, fam:wurmple*3, casulo*1.5, gen3*.5
+Beautifly | inseto*2, voador*2, fam:wurmple*3, borboleta*1.5, gen3*.5
+Cascoon | inseto*2, fam:wurmple*3, casulo*1.5, gen3*.5
+Dustox | inseto*2, veneno*2, fam:wurmple*3, mariposa*1.5, gen3*.5
+Lotad | agua*2, planta*2, fam:lotad*3, vitoria-regia*1.5, azul, gen3*.5
+Lombre | agua*2, planta*2, fam:lotad*3, vitoria-regia*1.5, verde, gen3*.5
+Ludicolo | agua*2, planta*2, fam:lotad*3, vitoria-regia*1.5, danca*2, gen3*.5
+Seedot | planta*2, fam:seedot*3, bolota*1.5, marrom, gen3*.5
+Nuzleaf | planta*2, sombrio*2, fam:seedot*3, nariz-grande*1.5, gen3*.5
+Shiftry | planta*2, sombrio*2, fam:seedot*3, tengu*1.5, gen3*.5, leque
+Taillow | normal*2, voador*2, fam:taillow*3, andorinha*1.5, azul, gen3*.5
+Swellow | normal*2, voador*2, fam:taillow*3, andorinha*1.5, azul, gen3*.5
+Wingull | agua*2, voador*2, fam:wingull*3, gaivota*1.5, branco, gen3*.5
+Pelipper | agua*2, voador*2, fam:wingull*3, pelicano*1.5, gen3*.5
+Surskit | inseto*2, agua*2, fam:surskit*3, aranha-dagua*1.5, azul, gen3*.5
+Masquerain | inseto*2, voador*2, fam:surskit*3, aranha-dagua*1.5, azul, gen3*.5
+Shroomish | planta*2, fam:shroomish*3, cogumelo*1.5, gen3*.5
+Breloom | planta*2, lutador*2, fam:shroomish*3, cogumelo*1.5, dinossauro*1, gen3*.5
+Slakoth | normal*2, fam:slakoth*3, preguica*1.5, marrom, gen3*.5, dormir
+Vigoroth | normal*2, fam:slakoth*3, macaco*1.5, branco, gen3*.5, agitado*1.5
+Slaking | normal*2, fam:slakoth*3, macaco*1.5, marrom, gen3*.5, preguicoso*2
+Nincada | inseto*2, terra*2, fam:nincada*3, ninja*1.5, cigarra*1.5, gen3*.5
+Ninjask | inseto*2, voador*2, fam:nincada*3, ninja*1.5, cigarra*1.5, amarelo, gen3*.5, velocidade*1.5
+Shedinja | inseto*2, fantasma*2, fam:nincada*3, ninja*1.5, casca*1.5, gen3*.5
+Whismur | normal*2, fam:whismur*3, rosa, gen3*.5, barulho*1.5
+Loudred | normal*2, fam:whismur*3, azul, gen3*.5, barulho*1.5
+Exploud | normal*2, fam:whismur*3, azul, gen3*.5, barulho*1.5
+Makuhita | lutador*2, fam:makuhita*3, sumo*1.5, amarelo, gen3*.5
+Hariyama | lutador*2, fam:makuhita*3, sumo*1.5, gen3*.5
+Azurill | normal*2, fada*2, fam:marill*3, azul, gen3*.5, bebe
+Nosepass | pedra*2, fam:nosepass*3, bussola*1.5, gen3*.5
+Skitty | normal*2, fam:skitty*3, gato*1.5, rosa, gen3*.5
+Delcatty | normal*2, fam:skitty*3, gato*1.5, roxo, gen3*.5
+Meditite | lutador*2, psiquico*2, fam:meditite*3, meditacao*1.5, gen3*.5
+Medicham | lutador*2, psiquico*2, fam:meditite*3, meditacao*1.5, gen3*.5
+Electrike | eletrico*2, fam:electrike*3, cachorro*1.5, verde, gen3*.5
+Manectric | eletrico*2, fam:electrike*3, cachorro*1.5, amarelo, gen3*.5
+Plusle | eletrico*2, rato*1.5, vermelho, gen3*.5, dupla*1.5, fam:plusmin*3
+Minun | eletrico*2, rato*1.5, azul, gen3*.5, dupla*1.5, fam:plusmin*3
+Volbeat | inseto*2, vagalume*1.5, gen3*.5, dupla*1.5, fam:volbeat*3
+Illumise | inseto*2, vagalume*1.5, gen3*.5, dupla*1.5, fam:volbeat*3
+Roselia | planta*2, veneno*2, fam:roselia*3, flor*1.5, rosa, gen3*.5
+Roserade | planta*2, veneno*2, fam:roselia*3, flor*1.5, gen4*.5
+Budew | planta*2, veneno*2, fam:roselia*3, flor*1.5, gen4*.5, bebe
+Gulpin | veneno*2, fam:gulpin*3, estomago*1.5, verde, gen3*.5
+Swalot | veneno*2, fam:gulpin*3, estomago*1.5, roxo, gen3*.5
+Carvanha | agua*2, sombrio*2, fam:carvanha*3, piranha*1.5, vermelho, gen3*.5
+Sharpedo | agua*2, sombrio*2, fam:carvanha*3, tubarao*1.5, azul, gen3*.5
+Wailmer | agua*2, fam:wailmer*3, baleia*1.5, azul, gen3*.5
+Wailord | agua*2, fam:wailmer*3, baleia*1.5, azul, gen3*.5, gigante*1.5
+Numel | fogo*2, terra*2, fam:numel*3, camelo*1.5, amarelo, gen3*.5
+Camerupt | fogo*2, terra*2, fam:numel*3, camelo*1.5, vulcao*1.5, vermelho, gen3*.5
+Torkoal | fogo*2, tartaruga*1.5, carvao*1.5, gen3*.5
+Spoink | psiquico*2, fam:spoink*3, porco*1.5, pulo*1.5, gen3*.5
+Grumpig | psiquico*2, fam:spoink*3, porco*1.5, gen3*.5
+Spinda | normal*2, panda*1.5, tontura*1.5, gen3*.5
+Trapinch | terra*2, fam:trapinch*3, formiga-leao*1.5, gen3*.5
+Vibrava | terra*2, dragao*2, fam:trapinch*3, libelula*1.5, gen3*.5
+Cacnea | planta*2, fam:cacnea*3, cacto*1.5, gen3*.5
+Cacturne | planta*2, sombrio*2, fam:cacnea*3, cacto*1.5, espantalho*1.5, gen3*.5
+Zangoose | normal*2, fam:zangoose*3, mangusto*1.5, branco, gen3*.5, rival-seviper*2
+Seviper | veneno*2, fam:seviper*3, cobra*1.5, preto, gen3*.5, rival-zangoose*2
+Lunatone | pedra*2, psiquico*2, lua*2, gen3*.5, rival-solrock*1.5, fam:solluna*3
+Solrock | pedra*2, psiquico*2, sol*2, gen3*.5, rival-lunatone*1.5, fam:solluna*3
+Barboach | agua*2, terra*2, fam:barboach*3, bagre*1.5, gen3*.5
+Whiscash | agua*2, terra*2, fam:barboach*3, bagre*1.5, gen3*.5
+Corphish | agua*2, fam:corphish*3, lagostim*1.5, vermelho, gen3*.5
+Crawdaunt | agua*2, sombrio*2, fam:corphish*3, lagostim*1.5, vermelho, gen3*.5
+Baltoy | terra*2, psiquico*2, fam:baltoy*3, boneco-de-barro*1.5, gen3*.5
+Claydol | terra*2, psiquico*2, fam:baltoy*3, boneco-de-barro*1.5, gen3*.5
+Lileep | pedra*2, planta*2, fam:lileep*3, fossil*2, gen3*.5
+Cradily | pedra*2, planta*2, fam:lileep*3, fossil*2, gen3*.5
+Anorith | pedra*2, inseto*2, fam:anorith*3, fossil*2, gen3*.5
+Armaldo | pedra*2, inseto*2, fam:anorith*3, fossil*2, gen3*.5
+Castform | normal*2, clima*2, gen3*.5
+Kecleon | normal*2, camaleao*2, verde, gen3*.5, camuflagem*1.5
+Tropius | planta*2, voador*2, dinossauro*1.5, banana*1.5, gen3*.5
+Chimecho | psiquico*2, fam:chimecho*3, sino*1.5, gen3*.5
+Wynaut | psiquico*2, fam:wobbuffet*3, azul, gen3*.5, bebe
+Snorunt | gelo*2, fam:snorunt*3, gen3*.5
+Glalie | gelo*2, fam:snorunt*3, gen3*.5
+Froslass | gelo*2, fantasma*2, fam:snorunt*3, mulher-das-neves*1.5, gen4*.5
+Spheal | gelo*2, agua*2, fam:spheal*3, foca*1.5, bola*1.5, gen3*.5
+Sealeo | gelo*2, agua*2, fam:spheal*3, foca*1.5, gen3*.5
+Walrein | gelo*2, agua*2, fam:spheal*3, morsa*1.5, gen3*.5
+Clamperl | agua*2, fam:clamperl*3, concha*1.5, gen3*.5
+Huntail | agua*2, fam:clamperl*3, enguia*1.5, gen3*.5
+Gorebyss | agua*2, fam:clamperl*3, enguia*1.5, rosa, gen3*.5
+Relicanth | agua*2, pedra*2, fossil*2, peixe*1.5, gen3*.5
+Luvdisc | agua*2, peixe*1.5, coracao*2, rosa, gen3*.5, amor*1.5
+Shelgon | dragao*2, fam:bagon*3, azul, gen3*.5
+Metang | aco*2, psiquico*2, fam:beldum*3, azul, gen3*.5
+Regirock | pedra*2, lendario*2, regis*3, gen3*.5
+Regice | gelo*2, lendario*2, regis*3, gen3*.5
+Registeel | aco*2, lendario*2, regis*3, gen3*.5
+Regigigas | normal*2, lendario*2, regis*3, gigante*1.5, gen4*.5
+Latias | dragao*2, psiquico*2, lendario*2, latios*3, vermelho, gen3*.5, jato*1, fam:latis*3
+Latios | dragao*2, psiquico*2, lendario*2, latias*3, azul, gen3*.5, jato*1, fam:latis*3
+Kyogre | agua*2, lendario*2, trio-hoenn*3, baleia*1.5, azul, gen3*.5, chuva*2
+Groudon | terra*2, lendario*2, trio-hoenn*3, dinossauro*1.5, vermelho, gen3*.5, sol*2
+Rayquaza | dragao*2, voador*2, lendario*2, trio-hoenn*3, serpente*1.5, verde, gen3*.5, estratosfera*1.5
+Jirachi | aco*2, psiquico*2, mitico*2, estrela*2, desejos*2, gen3*.5
+Deoxys | psiquico*2, mitico*2, alien*2, gen3*.5, espaco*1.5
+Turtonator | fogo*2, dragao*2, tartaruga*1.5, gen7*.5, explosivo*1.5
+Kricketot | inseto*2, fam:kricketot*3, grilo*1.5, gen4*.5
+Kricketune | inseto*2, fam:kricketot*3, grilo*1.5, gen4*.5, musica*1.5
+Shinx | eletrico*2, fam:shinx*3, leao*1.5, azul, gen4*.5
+Luxio | eletrico*2, fam:shinx*3, leao*1.5, azul, gen4*.5
+Luxray | eletrico*2, fam:shinx*3, leao*1.5, preto, gen4*.5
+Cranidos | pedra*2, fam:cranidos*3, fossil*2, dinossauro*1.5, gen4*.5, cabecada*1.5
+Rampardos | pedra*2, fam:cranidos*3, fossil*2, dinossauro*1.5, gen4*.5
+Shieldon | pedra*2, aco*2, fam:shieldon*3, fossil*2, dinossauro*1.5, gen4*.5
+Bastiodon | pedra*2, aco*2, fam:shieldon*3, fossil*2, dinossauro*1.5, gen4*.5
+Burmy | inseto*2, fam:burmy*3, casulo*1.5, gen4*.5
+Wormadam | inseto*2, planta*2, fam:burmy*3, gen4*.5
+Mothim | inseto*2, voador*2, fam:burmy*3, mariposa*1.5, gen4*.5
+Combee | inseto*2, voador*2, fam:combee*3, abelha*1.5, gen4*.5
+Vespiquen | inseto*2, voador*2, fam:combee*3, abelha*1.5, rainha*1.5, gen4*.5
+Pachirisu | eletrico*2, esquilo*1.5, branco, gen4*.5, fofo
+Buizel | agua*2, fam:buizel*3, doninha*1.5, laranja, gen4*.5
+Floatzel | agua*2, fam:buizel*3, doninha*1.5, laranja, gen4*.5
+Cherubi | planta*2, fam:cherubi*3, cereja*1.5, gen4*.5
+Cherrim | planta*2, fam:cherubi*3, cereja*1.5, flor*1.5, gen4*.5
+Shellos | agua*2, fam:shellos*3, lesma-do-mar*1.5, gen4*.5
+Gastrodon | agua*2, terra*2, fam:shellos*3, lesma-do-mar*1.5, gen4*.5
+Drifloon | fantasma*2, voador*2, fam:drifloon*3, balao*1.5, roxo, gen4*.5
+Drifblim | fantasma*2, voador*2, fam:drifloon*3, balao*1.5, roxo, gen4*.5
+Buneary | normal*2, fam:buneary*3, coelho*1.5, marrom, gen4*.5
+Lopunny | normal*2, fam:buneary*3, coelho*1.5, marrom, gen4*.5
+Glameow | normal*2, fam:glameow*3, gato*1.5, cinza, gen4*.5
+Purugly | normal*2, fam:glameow*3, gato*1.5, gordo, gen4*.5
+Chingling | psiquico*2, fam:chimecho*3, sino*1.5, gen4*.5, bebe
+Stunky | veneno*2, sombrio*2, fam:stunky*3, gamba*1.5, roxo, gen4*.5
+Skuntank | veneno*2, sombrio*2, fam:stunky*3, gamba*1.5, roxo, gen4*.5
+Bronzor | aco*2, psiquico*2, fam:bronzor*3, espelho*1.5, gen4*.5
+Bronzong | aco*2, psiquico*2, fam:bronzor*3, sino*1.5, gen4*.5
+Bonsly | pedra*2, fam:sudowoodo*3, arvore*1.5, gen4*.5, bebe
+Happiny | normal*2, fam:chansey*3, ovo*1.5, rosa, gen4*.5, bebe
+Chatot | normal*2, voador*2, papagaio*1.5, musica*1.5, gen4*.5
+Hippopotas | terra*2, fam:hippopotas*3, hipopotamo*1.5, gen4*.5, areia*1.5
+Hippowdon | terra*2, fam:hippopotas*3, hipopotamo*1.5, gen4*.5, areia*1.5
+Skorupi | veneno*2, inseto*2, fam:skorupi*3, escorpiao*1.5, gen4*.5
+Drapion | veneno*2, sombrio*2, fam:skorupi*3, escorpiao*1.5, gen4*.5
+Croagunk | veneno*2, lutador*2, fam:croagunk*3, sapo*1.5, azul, gen4*.5
+Toxicroak | veneno*2, lutador*2, fam:croagunk*3, sapo*1.5, azul, gen4*.5
+Carnivine | planta*2, planta-carnivora*1.5, gen4*.5, armadilha*1.5, bellsprout*1, bellsprout*2.5, victreebel*2, planta-carnivora*2
+Finneon | agua*2, fam:finneon*3, peixe*1.5, gen4*.5
+Lumineon | agua*2, fam:finneon*3, peixe*1.5, azul, gen4*.5
+Mantyke | agua*2, voador*2, fam:mantine*3, arraia*1.5, gen4*.5, bebe
+Snover | planta*2, gelo*2, fam:snover*3, arvore-de-natal*1.5, gen4*.5
+Abomasnow | planta*2, gelo*2, fam:snover*3, yeti*1.5, gen4*.5
+Lickilicky | normal*2, lingua*1.5, rosa, gen4*.5, fam:lickitung*3
+Tangrowth | planta*2, cipos*1.5, azul, gen4*.5, fam:tangela*3
+Electivire | eletrico*2, fam:elekid*3, humanoide*1.5, amarelo, gen4*.5
+Magmortar | fogo*2, fam:magby*3, humanoide*1.5, vermelho, gen4*.5, canhao*1.5
+Probopass | pedra*2, aco*2, fam:nosepass*3, bussola*1.5, gen4*.5
+Uxie | psiquico*2, lendario*2, lago-trio*3, conhecimento*2, azul, gen4*.5
+Mesprit | psiquico*2, lendario*2, lago-trio*3, emocao*2, rosa, gen4*.5
+Azelf | psiquico*2, lendario*2, lago-trio*3, vontade*2, gen4*.5
+Heatran | fogo*2, aco*2, lendario*2, lava*1.5, gen4*.5
+Cresselia | psiquico*2, lendario*2, lua*2, gen4*.5, sonhos*1.5
+Phione | agua*2, mitico*2, manaphy*2, gen4*.5
+Manaphy | agua*2, mitico*2, mar*1.5, gen4*.5, bebe
+Shaymin | planta*2, mitico*2, ourico*1.5, gen4*.5
+# ---- geração 5 ----
+Patrat | normal*2, fam:patrat*3, suricato*1.5, gen5*.5
+Watchog | normal*2, fam:patrat*3, suricato*1.5, gen5*.5
+Lillipup | normal*2, fam:lillipup*3, cachorro*1.5, gen5*.5
+Herdier | normal*2, fam:lillipup*3, cachorro*1.5, gen5*.5
+Stoutland | normal*2, fam:lillipup*3, cachorro*1.5, gen5*.5
+Purrloin | sombrio*2, fam:purrloin*3, gato*1.5, roxo, gen5*.5
+Liepard | sombrio*2, fam:purrloin*3, gato*1.5, roxo, gen5*.5
+Pansage | planta*2, fam:pansage*3, macaco*1.5, gen5*.5
+Pansear | fogo*2, fam:pansear*3, macaco*1.5, gen5*.5
+Panpour | agua*2, fam:panpour*3, macaco*1.5, gen5*.5
+Munna | psiquico*2, fam:munna*3, anta*1.5, rosa, gen5*.5, sonhos*1.5
+Musharna | psiquico*2, fam:munna*3, anta*1.5, rosa, gen5*.5, sonhos*1.5
+Pidove | normal*2, voador*2, fam:pidove*3, pombo*1.5, gen5*.5
+Tranquill | normal*2, voador*2, fam:pidove*3, pombo*1.5, gen5*.5
+Unfezant | normal*2, voador*2, fam:pidove*3, pombo*1.5, gen5*.5
+Blitzle | eletrico*2, fam:blitzle*3, zebra*1.5, gen5*.5
+Zebstrika | eletrico*2, fam:blitzle*3, zebra*1.5, gen5*.5
+Roggenrola | pedra*2, fam:roggenrola*3, rocha*1.5, azul, gen5*.5
+Boldore | pedra*2, fam:roggenrola*3, rocha*1.5, gen5*.5
+Gigalith | pedra*2, fam:roggenrola*3, rocha*1.5, gen5*.5
+Woobat | psiquico*2, voador*2, fam:woobat*3, morcego*1.5, azul, gen5*.5
+Swoobat | psiquico*2, voador*2, fam:woobat*3, morcego*1.5, azul, gen5*.5
+Drilbur | terra*2, fam:drilbur*3, toupeira*1.5, gen5*.5
+Audino | normal*2, rosa, enfermeira*1.5, gen5*.5, coelho*1
+Timburr | lutador*2, fam:timburr*3, construcao*1.5, gen5*.5
+Gurdurr | lutador*2, fam:timburr*3, construcao*1.5, gen5*.5
+Conkeldurr | lutador*2, fam:timburr*3, construcao*1.5, gen5*.5
+Tympole | agua*2, fam:tympole*3, girino*1.5, azul, gen5*.5, musica*1.5
+Palpitoad | agua*2, terra*2, fam:tympole*3, sapo*1.5, azul, gen5*.5
+Seismitoad | agua*2, terra*2, fam:tympole*3, sapo*1.5, azul, gen5*.5
+Throh | lutador*2, judo*2, vermelho, gen5*.5, rival-sawk*2, fam:throh*3
+Sawk | lutador*2, karate*2, azul, gen5*.5, rival-throh*2, fam:throh*3
+Sewaddle | inseto*2, planta*2, fam:sewaddle*3, lagarta*1.5, gen5*.5
+Swadloon | inseto*2, planta*2, fam:sewaddle*3, casulo*1.5, gen5*.5
+Leavanny | inseto*2, planta*2, fam:sewaddle*3, mantis*1.5, gen5*.5
+Venipede | inseto*2, veneno*2, fam:venipede*3, centopeia*1.5, gen5*.5
+Whirlipede | inseto*2, veneno*2, fam:venipede*3, centopeia*1.5, roda*1.5, gen5*.5
+Scolipede | inseto*2, veneno*2, fam:venipede*3, centopeia*1.5, gen5*.5
+Cottonee | planta*2, fada*2, fam:cottonee*3, algodao*1.5, gen5*.5
+Whimsicott | planta*2, fada*2, fam:cottonee*3, algodao*1.5, gen5*.5
+Petilil | planta*2, fam:petilil*3, flor*1.5, gen5*.5
+Lilligant | planta*2, fam:petilil*3, flor*1.5, danca*1.5, gen5*.5
+Basculin | agua*2, peixe*1.5, piranha*1, gen5*.5
+Sandile | terra*2, sombrio*2, fam:sandile*3, crocodilo*1.5, gen5*.5
+Krokorok | terra*2, sombrio*2, fam:sandile*3, crocodilo*1.5, gen5*.5
+Krookodile | terra*2, sombrio*2, fam:sandile*3, crocodilo*1.5, gen5*.5
+Darumaka | fogo*2, fam:darumaka*3, daruma*1.5, vermelho, gen5*.5
+Darmanitan | fogo*2, fam:darumaka*3, daruma*1.5, macaco*1, gen5*.5
+Maractus | planta*2, cacto*1.5, danca*1.5, gen5*.5
+Dwebble | inseto*2, pedra*2, fam:dwebble*3, caranguejo-eremita*1.5, gen5*.5
+Crustle | inseto*2, pedra*2, fam:dwebble*3, caranguejo-eremita*1.5, gen5*.5
+Scraggy | sombrio*2, lutador*2, fam:scraggy*3, lagarto*1.5, gen5*.5
+Scrafty | sombrio*2, lutador*2, fam:scraggy*3, lagarto*1.5, gen5*.5
+Sigilyph | psiquico*2, voador*2, egito*1.5, gen5*.5
+Yamask | fantasma*2, fam:yamask*3, mascara*1.5, gen5*.5
+Cofagrigus | fantasma*2, fam:yamask*3, sarcofago*1.5, gen5*.5
+Tirtouga | agua*2, pedra*2, fam:tirtouga*3, fossil*2, tartaruga*1.5, gen5*.5
+Carracosta | agua*2, pedra*2, fam:tirtouga*3, fossil*2, tartaruga*1.5, gen5*.5
+Archen | pedra*2, voador*2, fam:archen*3, fossil*2, ave-primitiva*1.5, gen5*.5
+Archeops | pedra*2, voador*2, fam:archen*3, fossil*2, ave-primitiva*1.5, gen5*.5
+Trubbish | veneno*2, fam:trubbish*3, lixo*2, gen5*.5
+Garbodor | veneno*2, fam:trubbish*3, lixo*2, gen5*.5
+Minccino | normal*2, fam:minccino*3, chinchila*1.5, gen5*.5
+Cinccino | normal*2, fam:minccino*3, chinchila*1.5, gen5*.5
+Gothita | psiquico*2, fam:gothita*3, gotica*1.5, gen5*.5
+Gothorita | psiquico*2, fam:gothita*3, gotica*1.5, gen5*.5
+Gothitelle | psiquico*2, fam:gothita*3, gotica*1.5, estrelas*1.5, gen5*.5
+Solosis | psiquico*2, fam:solosis*3, celula*1.5, gen5*.5
+Duosion | psiquico*2, fam:solosis*3, celula*1.5, gen5*.5
+Reuniclus | psiquico*2, fam:solosis*3, celula*1.5, gen5*.5
+Ducklett | agua*2, voador*2, fam:ducklett*3, pato*1.5, gen5*.5
+Swanna | agua*2, voador*2, fam:ducklett*3, cisne*1.5, gen5*.5
+Vanillite | gelo*2, fam:vanillite*3, sorvete*2, gen5*.5
+Vanillish | gelo*2, fam:vanillite*3, sorvete*2, gen5*.5
+Vanilluxe | gelo*2, fam:vanillite*3, sorvete*2, gen5*.5
+Deerling | normal*2, planta*2, fam:deerling*3, veado*1.5, estacoes*1.5, gen5*.5
+Sawsbuck | normal*2, planta*2, fam:deerling*3, veado*1.5, estacoes*1.5, gen5*.5
+Emolga | eletrico*2, voador*2, esquilo-voador*1.5, gen5*.5, pachirisu*1
+Karrablast | inseto*2, fam:karrablast*3, besouro*1.5, gen5*.5, rival-shelmet*1.5
+Escavalier | inseto*2, aco*2, fam:karrablast*3, cavaleiro*1.5, gen5*.5
+Shelmet | inseto*2, fam:shelmet*3, caracol*1.5, gen5*.5, rival-karrablast*1.5
+Accelgor | inseto*2, fam:shelmet*3, ninja*1.5, gen5*.5
+Foongus | planta*2, veneno*2, fam:foongus*3, pokebola*1.5, cogumelo*1.5, gen5*.5
+Amoonguss | planta*2, veneno*2, fam:foongus*3, pokebola*1.5, cogumelo*1.5, gen5*.5
+Frillish | agua*2, fantasma*2, fam:frillish*3, agua-viva*1.5, gen5*.5
+Jellicent | agua*2, fantasma*2, fam:frillish*3, agua-viva*1.5, gen5*.5
+Alomomola | agua*2, peixe*1.5, rosa, cura*1.5, gen5*.5
+Joltik | inseto*2, eletrico*2, fam:joltik*3, aranha*1.5, gen5*.5
+Galvantula | inseto*2, eletrico*2, fam:joltik*3, aranha*1.5, gen5*.5
+Ferroseed | planta*2, aco*2, fam:ferroseed*3, semente*1.5, gen5*.5
+Ferrothorn | planta*2, aco*2, fam:ferroseed*3, espinhos*2, gen5*.5
+Klink | aco*2, fam:klink*3, engrenagem*2, gen5*.5
+Klang | aco*2, fam:klink*3, engrenagem*2, gen5*.5
+Klinklang | aco*2, fam:klink*3, engrenagem*2, gen5*.5
+Tynamo | eletrico*2, fam:tynamo*3, enguia*1.5, gen5*.5
+Eelektrik | eletrico*2, fam:tynamo*3, enguia*1.5, gen5*.5
+Eelektross | eletrico*2, fam:tynamo*3, enguia*1.5, gen5*.5
+Elgyem | psiquico*2, fam:elgyem*3, alien*1.5, gen5*.5
+Beheeyem | psiquico*2, fam:elgyem*3, alien*1.5, gen5*.5
+Litwick | fantasma*2, fogo*2, fam:litwick*3, vela*1.5, gen5*.5
+Lampent | fantasma*2, fogo*2, fam:litwick*3, lampada*1.5, gen5*.5
+Axew | dragao*2, fam:axew*3, gen5*.5, presas*1.5
+Fraxure | dragao*2, fam:axew*3, gen5*.5, presas*1.5
+Cubchoo | gelo*2, fam:cubchoo*3, urso*1.5, gen5*.5, ranho*1.5
+Beartic | gelo*2, fam:cubchoo*3, urso*1.5, gen5*.5
+Cryogonal | gelo*2, cristal*1.5, floco-de-neve*2, gen5*.5, vanilluxe*1.5, glalie*1.5, articuno*1
+Stunfisk | terra*2, eletrico*2, linguado*1.5, gen5*.5
+Mienfoo | lutador*2, fam:mienfoo*3, kung-fu*1.5, gen5*.5
+Mienshao | lutador*2, fam:mienfoo*3, kung-fu*1.5, gen5*.5
+Druddigon | dragao*2, gen5*.5, caverna*1
+Golett | terra*2, fantasma*2, fam:golett*3, golem*1.5, gen5*.5
+Golurk | terra*2, fantasma*2, fam:golett*3, golem*1.5, gen5*.5
+Pawniard | sombrio*2, aco*2, fam:pawniard*3, lamina*1.5, gen5*.5
+Bisharp | sombrio*2, aco*2, fam:pawniard*3, lamina*1.5, gen5*.5
+Bouffalant | normal*2, bufalo*1.5, afro*1.5, gen5*.5
+Rufflet | normal*2, voador*2, fam:rufflet*3, aguia*1.5, gen5*.5
+Braviary | normal*2, voador*2, fam:rufflet*3, aguia*1.5, gen5*.5
+Vullaby | sombrio*2, voador*2, fam:vullaby*3, abutre*1.5, gen5*.5
+Mandibuzz | sombrio*2, voador*2, fam:vullaby*3, abutre*1.5, gen5*.5
+Heatmor | fogo*2, tamandua*1.5, gen5*.5, rival-durant*1.5
+Durant | inseto*2, aco*2, formiga*1.5, gen5*.5, rival-heatmor*1.5
+Deino | sombrio*2, dragao*2, fam:deino*3, gen5*.5
+Zweilous | sombrio*2, dragao*2, fam:deino*3, gen5*.5
+Larvesta | inseto*2, fogo*2, fam:larvesta*3, lagarta*1.5, gen5*.5
+Cobalion | aco*2, lutador*2, lendario*2, espadachins*3, gen5*.5
+Terrakion | pedra*2, lutador*2, lendario*2, espadachins*3, gen5*.5
+Virizion | planta*2, lutador*2, lendario*2, espadachins*3, gen5*.5
+Tornadus | voador*2, lendario*2, forcas-da-natureza*3, genio*1.5, gen5*.5
+Thundurus | eletrico*2, voador*2, lendario*2, forcas-da-natureza*3, genio*1.5, gen5*.5
+Landorus | terra*2, voador*2, lendario*2, forcas-da-natureza*3, genio*1.5, gen5*.5
+Keldeo | agua*2, lutador*2, mitico*2, espadachins*2, cavalo*1.5, gen5*.5
+Meloetta | normal*2, psiquico*2, mitico*2, musica*2, gen5*.5
+Genesect | inseto*2, aco*2, mitico*2, ciborgue*1.5, gen5*.5
+# ---- geração 6 ----
+Bunnelby | normal*2, fam:bunnelby*3, coelho*1.5, gen6*.5
+Diggersby | normal*2, terra*2, fam:bunnelby*3, coelho*1.5, gen6*.5
+Fletchling | normal*2, voador*2, fam:fletchling*3, passaro*1.5, gen6*.5
+Fletchinder | fogo*2, voador*2, fam:fletchling*3, passaro*1.5, gen6*.5
+Talonflame | fogo*2, voador*2, fam:fletchling*3, falcao*1.5, gen6*.5
+Scatterbug | inseto*2, fam:scatterbug*3, lagarta*1.5, gen6*.5
+Spewpa | inseto*2, fam:scatterbug*3, casulo*1.5, gen6*.5
+Vivillon | inseto*2, voador*2, fam:scatterbug*3, borboleta*1.5, gen6*.5
+Litleo | fogo*2, normal*2, fam:litleo*3, leao*1.5, gen6*.5
+Pyroar | fogo*2, normal*2, fam:litleo*3, leao*1.5, gen6*.5
+Flabebe | fada*2, fam:flabebe*3, flor*1.5, gen6*.5
+Floette | fada*2, fam:flabebe*3, flor*1.5, gen6*.5
+Florges | fada*2, fam:flabebe*3, flor*1.5, gen6*.5
+Skiddo | planta*2, fam:skiddo*3, cabra*1.5, gen6*.5
+Gogoat | planta*2, fam:skiddo*3, cabra*1.5, gen6*.5
+Pancham | lutador*2, fam:pancham*3, panda*1.5, gen6*.5
+Pangoro | lutador*2, sombrio*2, fam:pancham*3, panda*1.5, gen6*.5
+Furfrou | normal*2, poodle*2, cachorro*1.5, gen6*.5
+Espurr | psiquico*2, fam:espurr*3, gato*1.5, gen6*.5
+Meowstic | psiquico*2, fam:espurr*3, gato*1.5, gen6*.5
+Honedge | aco*2, fantasma*2, fam:honedge*3, espada*2, gen6*.5
+Doublade | aco*2, fantasma*2, fam:honedge*3, espada*2, gen6*.5
+Aegislash | aco*2, fantasma*2, fam:honedge*3, espada*2, escudo*1.5, gen6*.5
+Spritzee | fada*2, fam:spritzee*3, perfume*1.5, gen6*.5
+Aromatisse | fada*2, fam:spritzee*3, perfume*1.5, gen6*.5
+Swirlix | fada*2, fam:swirlix*3, algodao-doce*1.5, gen6*.5
+Slurpuff | fada*2, fam:swirlix*3, chantilly*1.5, gen6*.5
+Inkay | sombrio*2, psiquico*2, fam:inkay*3, polvo*1.5, gen6*.5
+Malamar | sombrio*2, psiquico*2, fam:inkay*3, polvo*1.5, gen6*.5
+Binacle | pedra*2, agua*2, fam:binacle*3, craca*1.5, gen6*.5
+Barbaracle | pedra*2, agua*2, fam:binacle*3, craca*1.5, gen6*.5
+Skrelp | veneno*2, agua*2, fam:skrelp*3, alga*1.5, gen6*.5
+Dragalge | veneno*2, dragao*2, fam:skrelp*3, alga*1.5, gen6*.5
+Clauncher | agua*2, fam:clauncher*3, camarao*1.5, gen6*.5
+Clawitzer | agua*2, fam:clauncher*3, camarao*1.5, canhao*1.5, gen6*.5
+Helioptile | eletrico*2, normal*2, fam:helioptile*3, lagarto*1.5, gen6*.5
+Heliolisk | eletrico*2, normal*2, fam:helioptile*3, lagarto*1.5, gen6*.5
+Tyrunt | pedra*2, dragao*2, fam:tyrunt*3, fossil*2, dinossauro*1.5, gen6*.5
+Tyrantrum | pedra*2, dragao*2, fam:tyrunt*3, fossil*2, dinossauro*1.5, gen6*.5
+Amaura | pedra*2, gelo*2, fam:amaura*3, fossil*2, dinossauro*1.5, gen6*.5
+Aurorus | pedra*2, gelo*2, fam:amaura*3, fossil*2, dinossauro*1.5, gen6*.5
+Hawlucha | lutador*2, voador*2, luchador*2, gen6*.5
+Dedenne | eletrico*2, fada*2, rato*1.5, gen6*.5
+Carbink | pedra*2, fada*2, joia*1.5, gen6*.5
+Goomy | dragao*2, fam:goomy*3, lesma*1.5, gen6*.5
+Sliggoo | dragao*2, fam:goomy*3, lesma*1.5, gen6*.5
+Klefki | aco*2, fada*2, chaves*2, gen6*.5
+Phantump | fantasma*2, planta*2, fam:phantump*3, tronco*1.5, gen6*.5
+Trevenant | fantasma*2, planta*2, fam:phantump*3, arvore*1.5, gen6*.5
+Pumpkaboo | fantasma*2, planta*2, fam:pumpkaboo*3, abobora*2, gen6*.5, halloween*1.5
+Gourgeist | fantasma*2, planta*2, fam:pumpkaboo*3, abobora*2, gen6*.5, halloween*1.5
+Bergmite | gelo*2, fam:bergmite*3, iceberg*1.5, gen6*.5
+Avalugg | gelo*2, fam:bergmite*3, iceberg*1.5, gen6*.5
+Noibat | voador*2, dragao*2, fam:noibat*3, morcego*1.5, gen6*.5
+Noivern | voador*2, dragao*2, fam:noibat*3, morcego*1.5, gen6*.5
+Zygarde | dragao*2, terra*2, lendario*2, trio-kalos*3, serpente*1.5, gen6*.5
+Diancie | pedra*2, fada*2, mitico*2, diamante*2, gen6*.5
+Hoopa | psiquico*2, fantasma*2, mitico*2, aneis*2, gen6*.5
+Volcanion | fogo*2, agua*2, mitico*2, vapor*2, gen6*.5, vulcao*2, heatran*1.5, magcargo*1, fumaca*1.5
+# ---- geração 7 ----
+Pikipek | normal*2, voador*2, fam:pikipek*3, pica-pau*1.5, gen7*.5
+Trumbeak | normal*2, voador*2, fam:pikipek*3, tucano*1.5, gen7*.5
+Toucannon | normal*2, voador*2, fam:pikipek*3, tucano*1.5, canhao*1.5, gen7*.5
+Yungoos | normal*2, fam:yungoos*3, mangusto*1.5, gen7*.5
+Gumshoos | normal*2, fam:yungoos*3, mangusto*1.5, detetive*1.5, gen7*.5
+Grubbin | inseto*2, fam:grubbin*3, larva*1.5, gen7*.5
+Charjabug | inseto*2, eletrico*2, fam:grubbin*3, bateria*1.5, gen7*.5
+Vikavolt | inseto*2, eletrico*2, fam:grubbin*3, besouro*1.5, gen7*.5
+Crabrawler | lutador*2, fam:crabrawler*3, caranguejo*1.5, gen7*.5
+Crabominable | lutador*2, gelo*2, fam:crabrawler*3, caranguejo*1.5, yeti*1.5, gen7*.5
+Oricorio | fogo*2, voador*2, passaro*1.5, danca*2, gen7*.5
+Cutiefly | inseto*2, fada*2, fam:cutiefly*3, abelha*1.5, mosca*1, gen7*.5
+Ribombee | inseto*2, fada*2, fam:cutiefly*3, abelha*1.5, gen7*.5
+Wishiwashi | agua*2, cardume*2, peixe*1.5, gen7*.5
+Mareanie | veneno*2, agua*2, fam:mareanie*3, estrela-do-mar*1.5, gen7*.5
+Toxapex | veneno*2, agua*2, fam:mareanie*3, estrela-do-mar*1.5, gen7*.5
+Mudbray | terra*2, fam:mudbray*3, burro*1.5, gen7*.5
+Mudsdale | terra*2, fam:mudbray*3, cavalo*1.5, gen7*.5
+Dewpider | agua*2, inseto*2, fam:dewpider*3, aranha*1.5, gen7*.5
+Araquanid | agua*2, inseto*2, fam:dewpider*3, aranha*1.5, gen7*.5
+Fomantis | planta*2, fam:fomantis*3, mantis*1.5, gen7*.5
+Lurantis | planta*2, fam:fomantis*3, mantis*1.5, flor*1.5, gen7*.5
+Morelull | planta*2, fada*2, fam:morelull*3, cogumelo*1.5, gen7*.5
+Shiinotic | planta*2, fada*2, fam:morelull*3, cogumelo*1.5, gen7*.5
+Salandit | veneno*2, fogo*2, fam:salandit*3, lagarto*1.5, gen7*.5
+Salazzle | veneno*2, fogo*2, fam:salandit*3, lagarto*1.5, gen7*.5
+Stufful | normal*2, lutador*2, fam:stufful*3, urso*1.5, fofo, gen7*.5
+Bewear | normal*2, lutador*2, fam:stufful*3, urso*1.5, abraco*1.5, gen7*.5
+Bounsweet | planta*2, fam:bounsweet*3, fruta*1.5, gen7*.5
+Steenee | planta*2, fam:bounsweet*3, fruta*1.5, gen7*.5
+Tsareena | planta*2, fam:bounsweet*3, fruta*1.5, rainha*1.5, gen7*.5
+Comfey | fada*2, flor*2, colar*1.5, gen7*.5
+Oranguru | normal*2, psiquico*2, orangotango*2, gen7*.5
+Passimian | lutador*2, macaco*1.5, gen7*.5
+Wimpod | inseto*2, agua*2, fam:wimpod*3, barata-do-mar*1.5, gen7*.5
+Golisopod | inseto*2, agua*2, fam:wimpod*3, barata-do-mar*1.5, gen7*.5
+Sandygast | fantasma*2, terra*2, fam:sandygast*3, castelo-de-areia*2, gen7*.5
+Palossand | fantasma*2, terra*2, fam:sandygast*3, castelo-de-areia*2, gen7*.5
+Pyukumuku | agua*2, pepino-do-mar*1.5, gen7*.5
+Silvally | normal*2, quimera*2, gen7*.5
+Minior | pedra*2, voador*2, meteoro*2, gen7*.5
+Komala | normal*2, coala*2, sono*3, preguica*2, madeira*1.5, gen7*.5
+Togedemaru | eletrico*2, aco*2, ourico*1.5, gen7*.5
+Bruxish | agua*2, psiquico*2, peixe*1.5, gen7*.5
+Drampa | normal*2, dragao*2, gen7*.5, avo*1.5
+Dhelmise | fantasma*2, planta*2, ancora*2, gen7*.5
+Cosmog | psiquico*2, lendario*2, fam:cosmog*3, nebulosa*1.5, gen7*.5
+Cosmoem | psiquico*2, lendario*2, fam:cosmog*3, nebulosa*1.5, gen7*.5
+Necrozma | psiquico*2, lendario*2, luz*2, prisma*1.5, gen7*.5
+Magearna | aco*2, fada*2, mitico*2, robo*1.5, boneca*1.5, gen7*.5
+Marshadow | lutador*2, fantasma*2, mitico*2, sombra*1.5, gen7*.5
+Zeraora | eletrico*2, mitico*2, gato*1.5, raio*2, gen7*.5
+Meltan | aco*2, mitico*2, parafuso*2, gen7*.5
+Melmetal | aco*2, mitico*2, parafuso*2, gen7*.5
+Nihilego | pedra*2, veneno*2, ultraente*3, agua-viva*1.5, gen7*.5
+Buzzwole | inseto*2, lutador*2, ultraente*3, musculos*2, gen7*.5
+Pheromosa | inseto*2, lutador*2, ultraente*3, esguia*1.5, gen7*.5
+Xurkitree | eletrico*2, ultraente*3, gen7*.5
+Celesteela | aco*2, voador*2, ultraente*3, gen7*.5
+Kartana | planta*2, aco*2, ultraente*3, papel*1.5, gen7*.5
+Guzzlord | sombrio*2, dragao*2, ultraente*3, gen7*.5, glutao*1.5
+Poipole | veneno*2, ultraente*3, gen7*.5
+Naganadel | veneno*2, dragao*2, ultraente*3, gen7*.5
+Stakataka | pedra*2, aco*2, ultraente*3, gen7*.5
+Blacephalon | fogo*2, fantasma*2, ultraente*3, palhaco*1.5, gen7*.5
+Tapu Koko | lendario*2, eletrico*2, fada*2, tapus*3, guardiao*2, gen7*.5, fam:tapu*3
+Tapu Lele | lendario*2, psiquico*2, fada*2, tapus*3, guardiao*2, gen7*.5, fam:tapu*3
+Tapu Bulu | lendario*2, planta*2, fada*2, tapus*3, guardiao*2, gen7*.5, fam:tapu*3
+Tapu Fini | lendario*2, agua*2, fada*2, tapus*3, guardiao*2, gen7*.5, fam:tapu*3
+Jangmoo | dragao*2, fam:jangmoo*3, gen7*.5
+Hakamoo | dragao*2, lutador*2, fam:jangmoo*3, gen7*.5
+Kommoo | dragao*2, lutador*2, fam:jangmoo*3, gen7*.5
+
+Mr Mime | psiquico*2, fada*2, fam:mrmime*3, mimico*2, barreira*2, palhaco*1.5, gen1*.5
+Mr Rime | gelo*2, psiquico*2, fam:mrmime*3, mimico*2, patins*1.5, dancarino*1.5, gen8*.5
+Ho Oh | fogo*2, voador*2, lendario*2, fenix*2, arco-iris*2, johto*1.5, gen2*.5
+Wo Chien | sombrio*2, planta*2, lendario*2, tesouros-da-ruina*3, graveto*1.5, gen9*.5
+Chien Pao | sombrio*2, gelo*2, lendario*2, tesouros-da-ruina*3, espadas*1.5, gen9*.5
+Ting Lu | sombrio*2, terra*2, lendario*2, tesouros-da-ruina*3, caldeirao*1.5, gen9*.5
+Chi Yu | sombrio*2, fogo*2, lendario*2, tesouros-da-ruina*3, joia-vermelha*1.5, gen9*.5
+Lairon | aco*2, pedra*2, fam:aron*3, gen3*.5
+Dusclops | fantasma*2, fam:duskull*3, gen3*.5
+Starly | normal*2, voador*2, fam:starly*3, passaro*1.5, gen4*.5
+Staravia | normal*2, voador*2, fam:starly*3, passaro*1.5, gen4*.5
+Staraptor | normal*2, voador*2, fam:starly*3, passaro*1.5, gen4*.5
+Bidoof | normal*2, fam:bidoof*3, castor*2, gen4*.5, mascote-hm*1
+Bibarel | normal*2, agua*2, fam:bidoof*3, castor*2, gen4*.5
+Mime Jr | psiquico*2, fada*2, fam:mrmime*3, bebe*2, mimico*1.5, gen4*.5
+Rhyperior | terra*2, pedra*2, fam:rhyhorn*3, rinoceronte*1.5, cinza, gen4*.5
+Simisage | planta*2, fam:pansage*3, macaco*1.5, gen5*.5
+Simisear | fogo*2, fam:pansear*3, macaco*1.5, gen5*.5
+Simipour | agua*2, fam:panpour*3, macaco*1.5, gen5*.5

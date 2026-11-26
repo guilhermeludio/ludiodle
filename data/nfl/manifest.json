@@ -1,0 +1,24 @@
+{
+ "mode": "nfl",
+ "mode_name": "NFL Times",
+ "themes": [
+  "NFL"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 32,
+ "vocab_sha256": "54b631b11428cd0de140ed6bad1a4dc1249c2f734fe5b9b692694a41adbe8b7c",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 229,
+ "vectors_sha256": "2894e646894bf23ffac42eee9c302e290bf359d0415b77014aa5257503f6b0af",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 373894186,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 32,
+ "forms_count": 2
+}

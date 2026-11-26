@@ -1,0 +1,200 @@
+# League of Legends: 173 campeões. Tags: classe*3, subclasse*2, rota*2.5, região*3, espécie*2.5-3, facção*2.5-3, relações (nome do campeão)*2-3, tema*1.5-3
+# ---- A ----
+Aatrox | lutador*3, colosso*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, shurima*1.5, darkin*3, espada-gigante*2.5, sangue*2, guerra-darkin*3, varus*2.5, kayn*2.5, zaahen*2.5, pantheon*1.5, naafiri*2, demonio*1.5
+Ahri | mago*3, assassino*1.5, mago-burst*2, rota-meio*2.5, distancia, dano-magico, jonia*3, vastaya*3, raposa*3, esfera*2, charme*2.5, espirito*2
+Akali | assassino*3, duelista*2, rota-meio*2.5, rota-topo*1.5, corpo-a-corpo, dano-magico, jonia*3, kinkou*3, ninja*3, shen*3, kennen*3, zed*3, shuriken*2
+Akshan | atirador*3, assassino*2, rota-meio*2.5, rota-bot*1, distancia, dano-fisico, shurima*3, sentinela-da-luz*2.5, vingador*2.5, gancho*2, camuflagem*1.5
+Alistar | tanque*3, vanguarda*2, rota-sup*2.5, corpo-a-corpo, dano-magico, noxus*1.5, minotauro*3, touro*2.5, vinganca*2, escravo-libertado*2
+Ambessa | lutador*3, duelista*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, noxus*3, arcane*3, mel*3, medarda*3, matriarca*3, guerra*2, swain*2, familia*2
+Amumu | tanque*3, vanguarda*2, rota-selva*2.5, corpo-a-corpo, dano-magico, shurima*3, mumia*3, tristeza*3, maldicao*3, bandagens*2, morto-vivo*2
+Anivia | mago*3, controlador*2, rota-meio*2.5, distancia, dano-magico, freljord*3, ave*3, fenix*2.5, gelo*3, ornn*2.5, volibear*2.5, semideus*3, ciclo-de-renascimento*2.5
+Annie | mago*3, mago-burst*2, rota-meio*2.5, rota-sup*1.5, distancia, dano-magico, noxus*1, crianca*3, urso*3, tibbers*3, fogo*3
+Aphelios | atirador*3, rota-bot*2.5, distancia, dano-fisico, targon*3, lunari*3, lua*3, armas-lunares*3, irmao-alune*2.5, silencio*2, diana*2.5
+Ashe | atirador*3, rota-bot*2.5, rota-sup*1, distancia, dano-fisico, freljord*3, avarosa*3, arco*3, gelo*3, rainha*2.5, tryndamere*3, sejuani*3, lissandra*2, braum*2
+Aurelion Sol | mago*3, rota-meio*2.5, distancia, dano-magico, targon*3, dragao*3, estrelas*3, cosmos*3, forjador-de-estrelas*2.5, escravizado*1.5
+Aurora | mago*3, rota-meio*2.5, distancia, dano-magico, freljord*3, vastaya*3, espirito*2, lebre*3, bruxa*1.5, lissandra*1.5, entre-mundos*3
+Azir | mago*3, rota-meio*2.5, distancia, dano-magico, shurima*3, ascendido*3, imperador*3, soldados-de-areia*3, sol*2, nasus*3, renekton*2.5, xerath*3, sivir*2.5
+# ---- B ----
+Bard | suporte*3, especialista*2, rota-sup*2.5, distancia, dano-magico, targon*1, guardiao-cosmico*3, viajante*2.5, sinos*3, meeps*3, musica*2
+Bel Veth | lutador*3, assassino*1.5, rota-selva*2.5, corpo-a-corpo, dano-fisico, vazio*3, imperatriz*3, infinita*2, devora*2, kaisa*1.5
+Blitzcrank | tanque*3, vanguarda*2, rota-sup*2.5, corpo-a-corpo, dano-magico, zaun*3, robo*3, golem*2, gancho*3, vapor*2
+Brand | mago*3, mago-burst*2, rota-sup*2.5, rota-meio*1.5, distancia, dano-magico, freljord*1.5, fogo*3, humano-possuido*3, maldito*2, vinganca*1.5
+Braum | tanque*3, guardiao*2, rota-sup*2.5, corpo-a-corpo, dano-magico, freljord*3, avarosa*3, escudo*3, heroi*2.5, coracao-do-povo*2, ashe*2.5, sejuani*1.5
+Briar | lutador*3, assassino*1.5, rota-selva*2.5, corpo-a-corpo, dano-fisico, noxus*3, vampira*3, acorrentada*3, sangue*2.5, frenesi*3, experimento-de-noxus*2.5
+# ---- C ----
+Caitlyn | atirador*3, rota-bot*2.5, distancia, dano-fisico, piltover*3, arcane*3, xerife*3, rifle*3, armadilhas*3, vi*3, jinx*2.5, jayce*1.5
+Camille | lutador*3, duelista*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, piltover*3, ciborgue*3, hextech*2, lamina-de-aco*2.5, elegancia*2, familia-ferros*2
+Cassiopeia | mago*3, rota-meio*2.5, distancia, dano-magico, noxus*3, serpente*3, veneno*3, du-couteau*3, katarina*3, talon*2.5, maldicao*2, shurima*1
+Cho Gath | tanque*3, mago*2, rota-topo*2.5, rota-selva*1, corpo-a-corpo, dano-magico, vazio*3, monstro*3, devorador*3, kogmaw*2.5, velkoz*2.5
+Corki | atirador*3, rota-meio*2.5, rota-bot*1, distancia, dano-fisico, dano-magico, bandle*3, yordle*3, aviao*3, piloto*3, bigode*2
+# ---- D ----
+Darius | lutador*3, colosso*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, noxus*3, machado*3, general*3, mao-de-noxus*3, draven*3, swain*2, sangramento*2
+Diana | lutador*3, assassino*2, rota-meio*2.5, rota-selva*2, corpo-a-corpo, dano-magico, targon*3, lunari*3, lua*3, aspecto*2.5, leona*3, aphelios*2, espada-crescente*2
+Dr Mundo | lutador*3, tanque*2, colosso*2, rota-topo*2.5, rota-selva*1, corpo-a-corpo, dano-magico, zaun*3, louco*3, cutelo*3, quimitech*2, singed*2.5, warwick*2, regeneracao*2
+Draven | atirador*3, rota-bot*2.5, distancia, dano-fisico, noxus*3, machado*3, ego*3, carrasco*2.5, darius*3, glorioso*2.5, espetaculo*2.5
+# ---- E ----
+Ekko | assassino*3, lutador*1.5, rota-selva*2.5, rota-meio*1.5, corpo-a-corpo, dano-magico, zaun*3, arcane*3, tempo*3, jinx*3, vi*2, jovem*2, firelights*2.5, heimerdinger*1.5, zilean*2
+Elise | mago*3, assassino*1.5, rota-selva*2.5, corpo-a-corpo, distancia, dano-magico, ilhas-da-sombra*3, noxus*1, aranha*3, veneno*2.5, rainha*3, forma-dupla*2.5
+Evelynn | assassino*3, rota-selva*2.5, corpo-a-corpo, dano-magico, demonio*3, charme*3, furtiva*3, sedutora*3, sombra*2, noxus*1
+Ezreal | atirador*3, mago*1.5, rota-bot*2.5, distancia, dano-fisico, dano-magico, piltover*3, explorador*3, aventureiro*3, tesouro*2.5, luva-arcana*2.5, shurima*2, lux*1.5
+# ---- F ----
+Fiddlesticks | mago*3, especialista*2, rota-selva*2.5, distancia, dano-magico, terror*3, espantalho*3, medo*3, demonio*2.5, corvos*2.5, antigo*2.5, demacia*1
+Fiora | lutador*3, duelista*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, demacia*3, esgrimista*3, espada-fina*3, nobre*2.5, laurent*3, honra*2.5, duelo*2.5, garen*1.5
+Fizz | assassino*3, rota-meio*2.5, corpo-a-corpo, dano-magico, aguas-de-sentina*3, yordle*3, mar*3, peixe*3, tridente*3, travesso*2.5, nami*3, bandle*1.5
+# ---- G ----
+Galio | tanque*3, mago*2, rota-meio*2.5, rota-sup*1.5, corpo-a-corpo, dano-magico, demacia*3, golem*3, gargula*3, estatua*2.5, anti-magia*3, sylas*2.5, lux*1.5, protetor*2
+Gangplank | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, aguas-de-sentina*3, pirata*3, barris-de-polvora*3, rei-pirata*3, miss fortune*3, canhoes*3, laranjas*1.5
+Garen | lutador*3, tanque*2, colosso*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, demacia*3, crownguard*3, espada-grande*3, soldado*2.5, lux*3, jarvan iv*2, justica*2
+Gnar | lutador*3, tanque*2, rota-topo*2.5, distancia, dano-fisico, freljord*3, yordle*3, pre-historico*3, bumerangue*3, transformacao*3, gelo*1.5, bandle*1.5
+Gragas | lutador*3, tanque*2, rota-selva*2.5, rota-topo*1.5, corpo-a-corpo, dano-magico, freljord*3, cerveja*3, barril*3, brigao*3, bebado*2
+Graves | atirador*3, rota-selva*2.5, distancia, dano-fisico, aguas-de-sentina*3, pistoleiro*3, espingarda*3, charuto*2.5, foragido*3, twisted fate*3, ladrao*2.5
+Gwen | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-magico, ilhas-da-sombra*3, tesoura*3, boneca*3, costureira*3, bruma*3, ruina*2, viego*1.5, linha*2
+# ---- H ----
+Hecarim | lutador*3, colosso*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, ilhas-da-sombra*3, centauro*3, cavaleiro*3, cavalo*3, morto-vivo*3, espectro*2.5, ruina*2.5, guerra*2
+Heimerdinger | mago*3, especialista*2, rota-topo*2.5, rota-sup*1.5, distancia, dano-magico, piltover*3, yordle*3, inventor*3, cientista*3, torretas*3, hextech*2.5, arcane*2.5, jayce*2.5, viktor*2.5, bandle*2
+Hwei | mago*3, rota-meio*2.5, rota-sup*1.5, distancia, dano-magico, jonia*3, artista*3, pintura*3, emocoes*2.5, trauma*2.5, visionario*2
+# ---- I ----
+Illaoi | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, aguas-de-sentina*3, sacerdotisa*3, tentaculos*3, deus-kraken*3, idolo*2.5, fe*2.5, nautilus*1
+Irelia | lutador*3, duelista*2, rota-topo*2.5, rota-meio*1.5, corpo-a-corpo, dano-fisico, jonia*3, laminas*3, danca*3, lider-rebelde*3, invasao-noxus*3, karma*2.5, zed*1
+Ivern | suporte*3, encantador*2, rota-selva*2.5, distancia, dano-magico, jonia*3, floresta*3, arvore*3, natureza*3, daisy*3, druida*2.5, amigavel*2
+# ---- J ----
+Janna | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, zaun*3, vento*3, tempestade*3, tornado*3, protetora*3, guardia-do-vento*2.5
+Jarvan IV | lutador*3, mergulhador*2, tanque*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, demacia*3, principe*3, lanca*3, estandarte*3, lightshield*3, shyvana*3, garen*2.5, xin zhao*3, lux*1.5
+Jax | lutador*3, duelista*2, rota-topo*2.5, rota-selva*1.5, corpo-a-corpo, dano-fisico, dano-magico, icathia*3, mestre-de-armas*3, lampiao*3, ultimo-de-icathia*2.5, vazio*1
+Jayce | lutador*3, rota-topo*2.5, rota-meio*1.5, corpo-a-corpo, distancia, dano-fisico, piltover*3, arcane*3, hextech*3, martelo*3, cientista*2.5, viktor*3, heimerdinger*2.5, caitlyn*2, mel*2
+Jhin | atirador*3, rota-bot*2.5, distancia, dano-fisico, jonia*3, artista*3, assassino-serial*3, quatro-tiros*3, teatro*3, mascara*2.5, carniceiro*2
+Jinx | atirador*3, rota-bot*2.5, distancia, dano-fisico, zaun*3, arcane*3, caos*3, explosivos*3, lanca-foguetes*3, vi*3, caitlyn*2.5, ekko*3, louca*3, zeri*1.5
+# ---- K ----
+K Sante | tanque*3, lutador*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, shurima*1.5, nazumah*3, guerreiro*2, cacador-de-monstros*2.5, mecha*1.5
+Kai Sa | atirador*3, assassino*1.5, rota-bot*2.5, distancia, dano-fisico, dano-magico, shurima*2, vazio*3, filha-do-vazio*3, armadura-do-vazio*3, simbiose*2.5
+Kalista | atirador*3, rota-bot*2.5, distancia, dano-fisico, ilhas-da-sombra*3, lanca*3, vinganca*3, espectro*3, morto-vivo*3, juramento*3, espirito-de-vinganca*3
+Karma | mago*3, suporte*2, encantador*2, rota-sup*2.5, rota-meio*1.5, distancia, dano-magico, jonia*3, espiritual*3, sabedoria*3, reencarnacao*3, irelia*2.5, mantra*2.5
+Karthus | mago*3, rota-selva*2.5, rota-meio*1.5, distancia, dano-magico, ilhas-da-sombra*3, morto-vivo*3, liche*3, requiem*3, canto-da-morte*3, ruina*2, fantasma*2
+Kassadin | assassino*3, mago*2.5, rota-meio*2.5, corpo-a-corpo, dano-magico, vazio*3, shurima*1.5, cacador-de-vazio*3, caminhante-do-vazio*3, malzahar*3
+Katarina | assassino*3, duelista*2, rota-meio*2.5, corpo-a-corpo, dano-magico, noxus*3, du-couteau*3, adagas*3, general*2, cassiopeia*3, talon*3, ruiva*1.5, garen*1
+Kayle | lutador*3, mago*1.5, rota-topo*2.5, rota-meio*1.5, corpo-a-corpo, distancia, dano-fisico, dano-magico, demacia*3, targon*2, aspecto*2.5, justica*3, anjo*3, asas*3, espada-flamejante*3, morgana*3
+Kayn | lutador*3, assassino*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, jonia*3, foice*3, darkin*3, rhaast*3, aatrox*3, zed*3, shieda*2.5, ninja*2, dualidade*2.5
+Kennen | mago*3, rota-topo*2.5, distancia, dano-magico, jonia*3, yordle*3, ninja*3, raio*3, shuriken*2.5, kinkou*3, shen*3, akali*3, zed*1.5, bandle*1.5, velocidade*2
+Kha Zix | assassino*3, rota-selva*2.5, corpo-a-corpo, dano-fisico, vazio*3, inseto*3, predador*3, evolucao*3, rengar*3, garras*2.5, cacador*2
+Kindred | atirador*3, rota-selva*2.5, distancia, dano-fisico, morte*3, cordeiro-e-lobo*3, ceifadores*3, arco*2.5, mascara*2, equilibrio*2.5, eterna*2
+Kled | lutador*3, tanque*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, noxus*3, yordle*3, lagarto-skaarl*3, cavaleiro-ranzinza*3, covarde*2, bandle*1.5
+Kog Maw | atirador*3, mago*2, rota-bot*2.5, distancia, dano-fisico, dano-magico, vazio*3, boca*3, acido*3, devorador*2.5, cho gath*2.5, vel koz*2
+# ---- L ----
+LeBlanc | mago*3, assassino*2, rota-meio*2.5, distancia, dano-magico, noxus*3, clones*3, bruxa*3, enganadora*3, rosa-negra*3, swain*3, ilusao*3, correntes*2
+Lee Sin | lutador*3, assassino*1.5, rota-selva*2.5, corpo-a-corpo, dano-fisico, jonia*3, monge*3, artes-marciais*3, cego*3, dragao*2, chute*3, punho*2
+Leona | tanque*3, vanguarda*2, rota-sup*2.5, corpo-a-corpo, dano-magico, targon*3, solari*3, sol*3, aspecto*2.5, escudo*2.5, diana*3, eclipse*2.5, pantheon*2, taric*2.5
+Lillia | mago*3, lutador*1.5, rota-selva*2.5, distancia, dano-magico, jonia*3, vastaya*3, fauno*3, veado*3, sono*3, floresta*2.5, sonho*2.5, ivern*2
+Lissandra | mago*3, rota-meio*2.5, distancia, dano-magico, freljord*3, gelo*3, bruxa-do-gelo*3, rainha-do-gelo*3, ashe*3, sejuani*2, traicao*2, necromante*2
+Locke | assassino*3, mago*2, rota-meio*2.5, distancia, dano-magico, exorcista*3, alma*3, prego-de-alma*3, vayne*3, oculos*2, sentinela-da-luz*1.5
+Lucian | atirador*3, rota-bot*2.5, rota-meio*1.5, distancia, dano-fisico, demacia*3, sentinela-da-luz*3, pistolas*3, senna*3, thresh*3, vinganca*2.5, luz*2, ilhas-da-sombra*2
+Lulu | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, bandle*3, yordle*3, fada*3, pix*3, polimorfia*3, magia*2.5
+Lux | mago*3, artilheiro*2, rota-sup*2.5, rota-meio*2, distancia, dano-magico, demacia*3, crownguard*3, luz*3, garen*3, sylas*3, segredo*2.5, ezreal*1.5, jarvan iv*1.5, galio*1.5
+# ---- M ----
+Malphite | tanque*3, vanguarda*2, rota-topo*2.5, rota-sup*1, corpo-a-corpo, dano-magico, ixtal*3, golem*3, rocha*3, monolito*3, construto*2.5, terra*3
+Malzahar | mago*3, rota-meio*2.5, distancia, dano-magico, vazio*3, shurima*3, profeta*3, larvas*3, kassadin*3, cultista*2.5, visoes*2.5
+Maokai | tanque*3, vanguarda*2, rota-sup*2.5, rota-topo*2.5, rota-selva*1.5, corpo-a-corpo, dano-magico, ilhas-da-sombra*3, arvore*3, treant*3, espirito-da-natureza*3, ruina*2.5, mudas*2.5, ivern*2
+Master Yi | assassino*3, lutador*1.5, rota-selva*2.5, corpo-a-corpo, dano-fisico, jonia*3, wuju*3, espadachim*3, meditacao*2.5, monge*2, highlander*2, wukong*3
+Mel | mago*3, rota-meio*2.5, rota-sup*1.5, distancia, dano-magico, noxus*3, piltover*3, arcane*3, ambessa*3, medarda*3, conselheira*2.5, reflexo*3, jayce*2.5, hextech*2
+Milio | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, ixtal*3, fogo*3, fogo-suave*3, jovem*2.5, crianca*2.5, amigavel*2
+Miss Fortune | atirador*3, rota-bot*2.5, distancia, dano-fisico, aguas-de-sentina*3, pirata*3, pistolas*3, cacadora-de-recompensa*2.5, gangplank*3, capita*2.5, vinganca*2.5, twisted fate*1.5
+Mordekaiser | lutador*3, mago*2, rota-topo*2.5, corpo-a-corpo, dano-magico, morto-vivo*3, ferro*3, metal*3, maca*3, lendario*2.5, noxus*2, ilhas-da-sombra*1.5, mundo-dos-mortos*3
+Morgana | mago*3, rota-sup*2.5, rota-meio*2, rota-selva*1.5, distancia, dano-magico, demacia*3, targon*2, kayle*3, anjo-caido*3, correntes*3, escudo-negro*3, escuridao*2.5, prisioneira*2
+# ---- N ----
+Naafiri | assassino*3, rota-meio*2.5, corpo-a-corpo, dano-fisico, shurima*3, darkin*3, cachorros*3, matilha*3, lobo*2, aatrox*2
+Nami | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, vastaya*3, marai*3, mar*3, sereia*3, cajado*2, fizz*3, aguas-de-sentina*1.5
+Nasus | lutador*3, tanque*2, colosso*2, rota-topo*2.5, corpo-a-corpo, dano-magico, shurima*3, ascendido*3, cao-chacal*3, bibliotecario*3, cajado*2.5, azir*3, renekton*3, egipcio*2
+Nautilus | tanque*3, vanguarda*2, rota-sup*2.5, corpo-a-corpo, dano-magico, aguas-de-sentina*3, titan-das-profundezas*3, ancora*3, mergulhador*2, mar*3, gancho*2, pyke*2, nami*1.5
+Neeko | mago*3, rota-meio*2.5, rota-sup*1.5, distancia, dano-magico, ixtal*3, vastaya*3, camaleao*3, mimetismo*3, flores*2.5, planta*2
+Nidalee | assassino*3, mago*1.5, rota-selva*2.5, distancia, corpo-a-corpo, dano-magico, ixtal*3, cacadora*3, onca*3, forma-felina*3, lanca*3, rengar*1.5
+Nilah | atirador*3, lutador*2, rota-bot*2.5, corpo-a-corpo, dano-fisico, shurima*1, chicote*3, alegre*2.5, cacadora-de-abominacao*3, agua*2
+Nocturne | assassino*3, lutador*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, pesadelo*3, sombra*3, demonio*3, eterno-pesadelo*3, fiddlesticks*2
+Nunu | tanque*3, mago*2, rota-selva*2.5, corpo-a-corpo, dano-magico, freljord*3, yeti*3, menino*3, bola-de-neve*3, amizade*3, gelo*2, =willump, =nunuewillump
+# ---- O ----
+Olaf | lutador*3, rota-topo*2.5, rota-selva*1.5, corpo-a-corpo, dano-fisico, freljord*3, berserker*3, viking*3, machados*3, guerreiro*2.5, morte-gloriosa*3
+Orianna | mago*3, rota-meio*2.5, distancia, dano-magico, piltover*3, automato*3, robo*3, esfera*3, relogio*2.5, viktor*2, zaun*1.5
+Ornn | tanque*3, rota-topo*2.5, corpo-a-corpo, dano-magico, freljord*3, semideus*3, ferreiro*3, fogo*1, martelo*3, forja*3, volibear*2.5, anivia*2.5, carneiro*3
+# ---- P ----
+Pantheon | lutador*3, mergulhador*2, rota-topo*2.5, rota-meio*1.5, rota-sup*1.5, corpo-a-corpo, dano-fisico, targon*3, aspecto*3, guerra*3, lanca*3, escudo*3, espartano*2.5, rakkor*3, aatrox*1.5, leona*1.5
+Poppy | tanque*3, lutador*1.2, rota-topo*2.5, corpo-a-corpo, dano-fisico, demacia*3, yordle*3, martelo*3, escudo*2.5, heroi-de-demacia*3, bandle*2
+Pyke | suporte*3, assassino*2, rota-sup*2.5, corpo-a-corpo, dano-fisico, aguas-de-sentina*3, fantasma*3, arpao*3, cacador-de-baleias*2.5, vinganca*3, morto-vivo*2.5, nautilus*2, gangplank*2
+# ---- Q ----
+Qiyana | assassino*3, rota-meio*2.5, rota-selva*1.5, corpo-a-corpo, dano-fisico, ixtal*3, imperatriz*3, elementos*3, anel*2, arrogante*2.5, selva*2
+Quinn | atirador*3, rota-topo*2.5, distancia, dano-fisico, demacia*3, ave*2, batedora*3, valor*3, falcao*2.5, besta*2, elite-demaciana*2.5
+# ---- R ----
+Rakan | suporte*3, encantador*2, rota-sup*2.5, corpo-a-corpo, dano-magico, jonia*3, vastaya*3, xayah*3, penas*3, ave*3, festa*2.5, danca*2.5, rebelde*2
+Rammus | tanque*3, vanguarda*2, rota-selva*2.5, corpo-a-corpo, dano-magico, shurima*3, tatu*3, armadura*3, enrolado*3, misterioso*2.5
+Rek Sai | lutador*3, rota-selva*2.5, corpo-a-corpo, dano-fisico, vazio*3, besta*3, escavador*3, rainha-do-vazio*2.5, devorador*2.5, kha zix*2, shurima*1.5
+Rell | tanque*3, vanguarda*2, rota-sup*2.5, corpo-a-corpo, dano-magico, noxus*3, cavaleira*3, armadura-viva*3, cavalo*2.5, metal*3, experimento-de-noxus*3, rebelde*2
+Renata | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, zaun*3, quimitech*3, baronesa*3, empresaria*3, contratos*3, vinganca*2, =glasc, =renataglasc
+Renekton | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, shurima*3, ascendido*3, crocodilo*3, furia*3, nasus*3, azir*2.5, xerath*2, loucura*2.5
+Rengar | assassino*3, lutador*1.5, rota-selva*2.5, rota-topo*2, corpo-a-corpo, dano-fisico, vastaya*3, ixtal*3, shurima*1, leao*3, cacador*3, trofeus*3, kha zix*3, felino*3, nidalee*1.5
+Riven | lutador*3, duelista*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, noxus*3, jonia*2.5, espada-quebrada*3, exilada*3, arrependida*2.5, runica*2, irelia*1.5
+Rumble | lutador*3, mago*2, rota-topo*2.5, corpo-a-corpo, dano-magico, bandle*3, yordle*3, mecha*3, engenheiro*3, lanca-chamas*3, sucateiro*2.5, tristana*1.5, corki*1.5, heimerdinger*1
+Ryze | mago*3, rota-meio*2.5, rota-topo*2, distancia, dano-magico, mago-arcano*3, runas*3, runeterra*3, guerra-das-runas*3, viajante*2.5, runa-mundo*3
+# ---- S ----
+Samira | atirador*3, rota-bot*2.5, distancia, dano-fisico, noxus*3, shurima*2.5, ousada*3, estilo*3, espada-pistola*3, aventureira*2.5, draven*1.5, lucian*1.5, sivir*1.5
+Sejuani | tanque*3, vanguarda*2, rota-selva*2.5, rota-topo*1.5, corpo-a-corpo, dano-magico, freljord*3, javali*3, garras-do-inverno*3, gelo*3, ashe*3, lissandra*2, braum*1.5, tryndamere*1
+Senna | atirador*3, suporte*2.5, rota-bot*2.5, rota-sup*2.5, distancia, dano-fisico, ilhas-da-sombra*3, sentinela-da-luz*3, lucian*3, lanterna*3, thresh*3, ruina*2, demacia*2
+Seraphine | mago*3, suporte*2.5, rota-bot*2.5, rota-sup*2.5, rota-meio*1.5, distancia, dano-magico, piltover*3, zaun*2.5, cantora*3, estrela-pop*3, musica*3, sona*2.5, fama*2
+Sett | lutador*3, tanque*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, jonia*3, vastaya*3, chefe*3, lutador-de-arena*3, punhos*3
+Shaco | assassino*3, rota-selva*2.5, corpo-a-corpo, dano-fisico, palhaco*3, bobo-da-corte*3, truque*3, caixa-surpresa*3, clones*2.5, fiddlesticks*1.5
+Shen | tanque*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, jonia*3, kinkou*3, olho-do-crepusculo*3, ninja*3, akali*3, kennen*3, zed*3, equilibrio*3, escudo*2
+Shyvana | lutador*3, rota-selva*2.5, corpo-a-corpo, dano-magico, demacia*3, dragao*3, meio-dragao*3, fogo*3, jarvan iv*3, hibrido*3, cacadora*2
+Singed | tanque*3, rota-topo*2.5, corpo-a-corpo, dano-magico, zaun*3, alquimista*3, veneno*3, quimitech*3, cientista-louco*3, dr mundo*2.5, warwick*2.5, heimerdinger*1.5
+Sion | tanque*3, lutador*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, noxus*3, morto-vivo*3, machado*3, general-imortal*3, darius*2.5, swain*2, mordekaiser*1.5
+Sivir | atirador*3, rota-bot*2.5, distancia, dano-fisico, shurima*3, boomerang*3, mercenaria*3, azir*2.5, nasus*1.5, samira*1.5, akshan*1.5, tesouro*2.5
+Skarner | lutador*3, tanque*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, shurima*3, escorpiao*3, cristal*3, brackern*3, tumba*2, nasus*1
+Smolder | atirador*3, rota-bot*2.5, rota-meio*1.5, distancia, dano-fisico, dano-magico, demacia*3, dragao*3, filhote*3, fogo*3, shyvana*3, aurelion sol*1.5
+Sona | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, demacia*3, musica*3, harpa*3, muda*3, lux*2, seraphine*2.5, garen*1
+Soraka | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, targon*3, estrela*3, unicornio*3, celestial*3, cura*3, aspecto*1.5, aurelion sol*1.5, zoe*1.5, taric*1
+Swain | mago*3, mago-batalha*2, rota-sup*2.5, rota-meio*2, rota-topo*1.5, distancia, dano-magico, noxus*3, corvo*3, demonio*3, general*3, estrategista*3, rosa-negra*3, leblanc*3, darius*2.5, ambessa*2, grande-general*3
+Sylas | mago*3, assassino*1.5, rota-meio*2.5, rota-selva*1.5, corpo-a-corpo, dano-magico, demacia*3, correntes*3, mago-rebelde*3, lux*3, galio*2.5, ex-prisioneiro*2.5, roubo-de-habilidades*3, anti-magia*2.5, mageseekers*3
+Syndra | mago*3, rota-meio*2.5, distancia, dano-magico, jonia*3, esferas*3, soberana-escura*3, poder-sombrio*2.5, orianna*1.5
+# ---- T ----
+Tahm Kench | suporte*3, tanque*2, rota-sup*2.5, rota-topo*2, corpo-a-corpo, dano-magico, aguas-de-sentina*3, demonio-do-rio*3, sapo*3, glutao*3, lingua*2.5, cozinheiro*2
+Taliyah | mago*3, rota-meio*2.5, rota-selva*2, distancia, dano-magico, shurima*3, terra*3, pedras*3, tecela*3, nomade*2.5, yasuo*1.5
+Talon | assassino*3, rota-meio*2.5, rota-selva*2, corpo-a-corpo, dano-fisico, noxus*3, du-couteau*3, katarina*3, cassiopeia*2.5, adagas*3, ladrao*2.5, lamina-oculta*3
+Taric | suporte*3, tanque*2, rota-sup*2.5, corpo-a-corpo, dano-magico, targon*3, gemas*3, protetor*3, escudo-de-valoran*3, leona*2.5, soraka*1.5, aspecto*1.5, cristal*2
+Teemo | atirador*3, assassino*1.5, rota-topo*2.5, distancia, dano-magico, bandle*3, yordle*3, escoteiro*3, cogumelo*3, zarabatana*3, veneno*3, tristana*2.5, veigar*2, ziggs*2, kennen*1.5
+Thresh | suporte*3, tanque*2, rota-sup*2.5, distancia, dano-magico, ilhas-da-sombra*3, morto-vivo*3, carcereiro*3, lanterna*3, corrente*3, lucian*3, senna*3, lamina-negra*3, ruina*2, viego*2, yorick*2, karthus*1.5, kalista*1.5
+Tristana | atirador*3, rota-bot*2.5, distancia, dano-fisico, bandle*3, yordle*3, artilheira*3, canhao*3, pulo-de-foguete*3, teemo*2.5, corki*2, rumble*1.5, ziggs*2
+Trundle | lutador*3, tanque*2, rota-selva*2.5, rota-topo*2, corpo-a-corpo, dano-fisico, freljord*3, troll*3, rei-troll*3, clava*3, gelo*2
+Tryndamere | lutador*3, duelista*2, rota-topo*2.5, corpo-a-corpo, dano-fisico, freljord*3, barbaro*3, rei*3, espada*2.5, furia*3, imortal*2, ashe*3, sejuani*1.5, avarosa*2
+Twisted Fate | mago*3, rota-meio*2.5, rota-bot*1, distancia, dano-magico, aguas-de-sentina*3, cartas*3, trapaceiro*3, graves*3, jogador*3, ilusionista*2.5, miss fortune*1.5, gangplank*1.5
+Twitch | atirador*3, assassino*1.5, rota-bot*2.5, distancia, dano-fisico, zaun*3, rato*3, peste*3, veneno*3, esgoto*3, singed*1.5, warwick*1
+# ---- U ----
+Udyr | lutador*3, tanque*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, dano-magico, freljord*3, espiritos-animais*3, monge-tribal*3, urso*3, tigre*3, fenix*3, tartaruga*3, volibear*2, anivia*1.5
+Urgot | lutador*3, tanque*2, rota-topo*2.5, distancia, dano-fisico, zaun*3, noxus*3, ciborgue*3, executor*3, canhoes*3, ex-carrasco*2.5, singed*2, warwick*2
+# ---- V ----
+Varus | atirador*3, mago*2, rota-bot*2.5, rota-meio*1.5, distancia, dano-fisico, dano-magico, jonia*3, darkin*3, arco*3, flecha-corrompida*3, aatrox*2.5, kayn*2, vinganca*2
+Vayne | atirador*3, assassino*1.5, rota-bot*2.5, rota-topo*1.5, distancia, dano-fisico, demacia*3, cacadora-de-monstros*3, besta*3, prata*3, vinganca*3, cacadora-de-vampiros*3, locke*3, lucian*1.5, noite*2
+Veigar | mago*3, rota-meio*2.5, distancia, dano-magico, bandle*3, yordle*3, mago-malvado*3, maldade*3, teemo*2, tristana*2, ziggs*1.5, lulu*1
+Vel Koz | mago*3, rota-meio*2.5, rota-sup*1.5, distancia, dano-magico, vazio*3, olho*3, laser*3, cientista*2.5, cho gath*2.5, kog maw*2.5
+Vex | mago*3, rota-meio*2.5, distancia, dano-magico, ilhas-da-sombra*3, yordle*3, tristeza*3, sombra*3, depressiva*3, veigar*2, bandle*2
+Vi | lutador*3, rota-selva*2.5, corpo-a-corpo, dano-fisico, piltover*3, zaun*3, arcane*3, luvas-hextech*3, jinx*3, caitlyn*3, jayce*1.5, ekko*2.5, policial*3, soco*3
+Viego | lutador*3, assassino*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, ilhas-da-sombra*3, rei*3, morto-vivo*3, ruina*3, rei-arruinado*3, isolde*3, gwen*2, hecarim*2, thresh*2, kalista*2, lamina-negra*3, possessao*3
+Viktor | mago*3, rota-meio*2.5, distancia, dano-magico, zaun*3, piltover*3, arcane*3, hextech*2.5, evolucao-mecanica*3, jayce*3, heimerdinger*2.5, orianna*2.5, cientista*3, ciborgue*3, laser*2
+Vladimir | mago*3, lutador*2, rota-topo*2.5, rota-meio*2.5, corpo-a-corpo, dano-magico, noxus*3, vampiro*3, magia-de-sangue*3, sangue*3, nobre*2.5, briar*2, sion*1, swain*1.5
+Volibear | lutador*3, tanque*2, rota-topo*2.5, rota-selva*2.5, corpo-a-corpo, dano-magico, freljord*3, urso*3, raio*3, tempestade*3, semideus*3, ornn*2.5, anivia*2.5, udyr*2, avarosa*1.5
+# ---- W ----
+Warwick | lutador*3, tanque*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, zaun*3, lobisomem*3, vander*3, sangue*2.5, singed*2.5, dr mundo*2, arcane*3, vi*1.5, experimento*2.5
+Wukong | lutador*3, assassino*1.5, rota-topo*2.5, rota-selva*2, corpo-a-corpo, dano-fisico, jonia*3, vastaya*3, macaco*3, rei-macaco*3, cajado*3, nuvem*3, master yi*3, trapaceiro*2
+# ---- X ----
+Xayah | atirador*3, rota-bot*2.5, distancia, dano-fisico, jonia*3, vastaya*3, ave*3, penas*3, rakan*3, rebelde*3, revolucao-vastaya*2.5
+Xerath | mago*3, rota-meio*2.5, rota-sup*2, distancia, dano-magico, shurima*3, ascendido*3, mago-arcano*3, energia-arcana*3, azir*3, sarcofago*3, nasus*1.5, renekton*1.5
+Xin Zhao | lutador*3, mergulhador*2, rota-selva*2.5, corpo-a-corpo, dano-fisico, demacia*3, lanca*3, senescal*3, jarvan iv*3, zaahen*3, shyvana*1.5, garen*1.5, darkin*2
+# ---- Y ----
+Yasuo | lutador*3, assassino*2, rota-meio*2.5, rota-topo*2, rota-bot*1, corpo-a-corpo, dano-fisico, jonia*3, vento*3, samurai*3, espadachim*3, yone*3, irelia*2, muro-de-vento*3, exilado*3, tempestade*2
+Yone | assassino*3, lutador*2, rota-meio*2.5, rota-topo*2, corpo-a-corpo, dano-fisico, dano-magico, jonia*3, espirito*3, samurai*3, espadachim*3, yasuo*3, katanas*3, mascara*2, cacador-de-demonios*2.5
+Yorick | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, ilhas-da-sombra*3, coveiro*3, pa*3, necromante*3, ghoul*3, donzela-da-bruma*3, lamina-negra*3, morto-vivo*2, viego*1.5, thresh*1.5, karthus*1.5
+Yunara | atirador*3, rota-bot*2.5, distancia, dano-fisico, jonia*3, vastaya*3, raposa*3, kinkou*3, zaahen*3, guerra-darkin*3, flecha-espiritual*3, darkin*2, ahri*1.5
+Yuumi | suporte*3, encantador*2, rota-sup*2.5, distancia, dano-magico, bandle*3, gato*3, gato-magico*3, livro*3, norra*3, yordle*2.5, lulu*2, anexada*3
+# ---- Z ----
+Zaahen | lutador*3, rota-topo*2.5, corpo-a-corpo, dano-fisico, darkin*3, jonia*3, glaive*3, xin zhao*3, aatrox*3, kayn*2, varus*2, naafiri*2, kinkou*2, yunara*3, ressurreicao*3, guerra-darkin*3
+Zac | tanque*3, lutador*2, mergulhador*2, rota-selva*2.5, corpo-a-corpo, dano-magico, zaun*3, gosma*3, slime*3, experimento*3, quimitech*3, singed*1.5, warwick*1.5, mutante*2
+Zed | assassino*3, rota-meio*2.5, rota-selva*1, corpo-a-corpo, dano-fisico, jonia*3, ninja*3, shuriken*3, sombras*3, ordem-das-sombras*3, shen*3, akali*2.5, kennen*1.5, kayn*3, traidor*2
+Zeri | atirador*3, rota-bot*2.5, distancia, dano-fisico, zaun*3, raio*3, eletricidade*3, velocidade*3, garota-eletrica*3, ekko*1.5, jinx*1.5
+Ziggs | mago*3, rota-meio*2.5, rota-bot*2, distancia, dano-magico, bandle*2, yordle*3, zaun*2, bombas*3, explosivos*3, jinx*2.5, rumble*1.5, tristana*2, teemo*2, veigar*1.5
+Zilean | suporte*3, mago*2, rota-sup*2.5, rota-meio*1.5, distancia, dano-magico, icathia*2, tempo*3, bomba-de-tempo*3, cronomante*3, ekko*2.5, bard*1.5, vazio*1
+Zoe | mago*3, rota-meio*2.5, distancia, dano-magico, targon*3, estrela*3, aspecto*3, travessa*3, cosmo*3, soraka*2.5, aurelion sol*2, jovem*2
+Zyra | mago*3, rota-sup*2.5, rota-selva*1.5, distancia, dano-magico, ixtal*3, planta*3, espinhos*3, natureza*3, ivern*2.5, maokai*1.5, neeko*2, malphite*1.5, rainha-das-plantas*3

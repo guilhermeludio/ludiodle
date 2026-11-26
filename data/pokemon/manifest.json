@@ -1,0 +1,24 @@
+{
+ "mode": "pokemon",
+ "mode_name": "Pokémon",
+ "themes": [
+  "Pokémon"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 841,
+ "vocab_sha256": "c487a069bf4d25ffe70a6d3aaa903fbf1a55fc017c3cc35d627979fa0d47e99a",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 2034,
+ "vectors_sha256": "91b6fa5a19700498e2de5473da84d830948955ec396109c621ff69fa7c74a2c4",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 411386867,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 841,
+ "forms_count": 0
+}

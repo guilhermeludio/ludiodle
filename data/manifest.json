@@ -1,0 +1,18 @@
+{
+ "vocab_version": "v1",
+ "vocab_size": 11622,
+ "vocab_sha256": "970e3e6e45f08eda3ae756f2701c9eb81d762d25c2d2b549bb88e22fc07fa518",
+ "embedding_model": "spaCy pt_core_news_lg",
+ "model_version": "3.8.0",
+ "embedding_dim": 300,
+ "vectors_sha256": "0a794c35a58fd313f316308a920115f69a749bee0e5c9e94abd1ccd0926a7da2",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 687195357,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 2200,
+ "forms_count": 68738
+}

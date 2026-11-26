@@ -1,0 +1,195 @@
+# Minecraft: palavra | características (categoria*2.5, habitat/dimensão*2, drops e relações*2, cor, uso). =apelido para sinônimos
+# ---- mobs hostis ----
+Creeper | mob-hostil*3, explosao*3, polvora*3, verde, silencioso*1.5, gato*2, overworld*1.5, icone*2, mobs-classicos*2.5
+Zumbi | mob-hostil*3, morto-vivo*3, aldeao*2.5, carne-podre*2.5, noite*2, overworld*1.5, sol*1.5, verde, mobs-classicos*2.5
+Esqueleto | mob-hostil*3, morto-vivo*3, arco*3, flecha*2.5, osso*2.5, noite*2, sol*1.5, lobo*2, overworld*1.5, mobs-classicos*2.5
+Aranha | mob-hostil*3, fio*2.5, teia*2, olho-de-aranha*2.5, noite*2, escalar*2, overworld*1.5, mobs-classicos*2.5
+Bruxa | mob-hostil*3, pocao*3, pantano*2.5, chapeu*1.5, humanoide*1.5
+Phantom | mob-hostil*3, voador*1.5, membrana*2.5, insonia*3, noite*2.5, overworld*2, ceu*1.5
+Afogado | mob-hostil*3, morto-vivo*3, agua*3, tridente*2.5, zumbi*2.5, oceano*2
+Pillager | mob-hostil*3, saque*2.5, besta*3, patrulha*2.5, aldeao*1.5, humanoide*1.5, =saqueador
+Shulker | mob-hostil*3, end*3, cidade-do-fim*3, caixa*3, levitacao*2.5, roxo
+Guardião | mob-hostil*3, agua*3, monumento*3, laser*2.5, oceano*2, espinhos*2, =guardian
+Warden | mob-hostil*3, chefe*2.5, cidade-antiga*3, profundezas*3, cego*2.5, som*2, sculk*3, escuro*2
+Piglin | mob-neutro*2.5, nether*3, ouro*3, escambo*3, porco*2.5, humanoide*1.5
+Blaze | mob-hostil*3, nether*3, fogo*3, vara-de-blaze*3, fortaleza-do-nether*3, voador*2, amarelo
+Ghast | mob-hostil*3, nether*3, lagrima*3, bola-de-fogo*3, voador*2.5, chora*2, branco
+Slime | mob-hostil*3, pantano*2.5, gosma*3, pula*2.5, verde, cubo*2.5
+Traça | mob-hostil*3, pedra*2.5, fortaleza*2.5, pequeno*1.5, caverna*2, =silverfish
+Wither | chefe*3, nether*3, mob-hostil*2, esqueleto*2.5, caveira*3, estrela-do-nether*3, voador*2, preto
+Ender Dragon | chefe*3, end*3, dragao*3, cristal-do-fim*3, ovo-de-dragao*2.5, voador*2.5, roxo
+Herobrine | lenda*3, mito*3, olhos-brancos*3, creepypasta*3, steve*2.5, assombrado*2, pessoa-do-jogo*3, jogador*2.5
+Enderman | mob-neutro*2.5, end*3, perola-do-fim*3, teletransporte*3, alto*2, roxo, olhar*2.5, bloco*1.5
+Cubo de Magma | mob-hostil*3, nether*3, magma*3, slime*2.5, pula*2, fogo*2
+# ---- mobs passivos e neutros ----
+Vaca | mob-passivo*3, fazenda*3, leite*3, couro*2.5, carne*2.5, balde*1.5, marrom
+Porco | mob-passivo*3, fazenda*3, carne*2.5, sela*2, cenoura*1.5, rosa
+Ovelha | mob-passivo*3, fazenda*3, la*3, tesoura*2.5, tintura*2, branco
+Galinha | mob-passivo*3, fazenda*3, ovo*3, pena*2.5, carne*2, branco, ave*2.5
+Cavalo | mob-passivo*3, montaria*3, sela*3, domar*2.5, planicie*2, velocidade*2
+Burro | mob-passivo*3, montaria*3, bau*3, domar*2, carga*2
+Lhama | mob-neutro*2.5, montaria*2.5, cospe*3, carga*2.5, montanha*2, tapete*2
+Coelho | mob-passivo*3, pequeno*2, cenoura*2.5, pe-de-coelho*3, neve*1, raposa*2.5
+Lobo | mob-neutro*2.5, domar*3, osso*3, cachorro*3, floresta*2, taiga*2, esqueleto*2, canideo*2.5
+Gato | mob-passivo*3, domar*3, peixe*1.5, creeper*3, vila*2, pantano*1.5, felino*2.5
+Jaguatirica | mob-passivo*3, selva*3, peixe*1.5, gato*3, domar*2, =ocelot, felino*2.5
+Papagaio | mob-passivo*3, selva*3, biscoito*2, imita*2.5, ombro*2, voador*2, ave*2.5
+Panda | mob-neutro*2.5, bambu*3, selva*2.5, preto-e-branco*2, preguica*2
+Raposa | mob-passivo*3, taiga*3, frutinha*2.5, noturno*2, laranja, neve*1, coelho*2.5, canideo*2.5
+Abelha | mob-neutro*2.5, mel*3, colmeia*3, flor*3, ferrao*2.5, amarelo, voador*1.5
+Axolote | mob-passivo*3, agua*3, cavernas-exuberantes*3, balde*2, rosa, anfibio*2.5
+Sapo | mob-passivo*3, pantano*3, magma*2.5, lampada-de-sapo*2.5, anfibio*2.5, verde
+Tartaruga | mob-passivo*3, praia*3, ovo*2.5, escudo-de-tartaruga*3, casco*2.5, lento*2, agua*1, verde
+Golfinho | mob-neutro*2.5, oceano*3, agua*3, coracao-do-mar*3, tesouro*2, cinza, nadar*2
+Lula | mob-passivo*3, agua*3, tinta*3, oceano*2.5, escuro*1.5
+Bacalhau | mob-passivo*3, peixe*3, agua*2, oceano*1.5, cru*1.5, comida*1.5, cinza
+Salmão | mob-passivo*3, peixe*3, agua*3, rio*1, rosa
+Baiacu | mob-passivo*3, peixe*3, agua*3, veneno*2.5, inflar*2.5
+Morcego | mob-passivo*3, caverna*3, voador*2.5, escuro*2, pequeno*1.5
+Aldeão | npc*3, vila*3, esmeralda*3, troca*3, cama*1.5, nariz-grande*2.5, trabalho*2
+Golem de Ferro | mob-neutro*2, vila*3, protetor*3, ferro*3, papoula*2, grande*2.5
+# ---- minérios e materiais ----
+Diamante | minerio*3, raro*3, azul-claro*2, profundezas*2, armadura*2, ferramentas*2, valioso*3, gema*2.5
+Esmeralda | minerio*3, verde*2, troca*3, aldeao*3, montanha*2.5, valioso*3, gema*2.5
+Ouro | minerio*3, amarelo*2, nether*2, piglin*2.5, valioso*2.5, maca-dourada*2, brilhante*1.5
+Ferro | minerio*3, cinza*1.5, ferramentas*2.5, golem*2.5, fornalha*2, comum*2
+Carvão | minerio*3, preto*2, combustivel*3, fornalha*2.5, tocha*2.5, comum*2.5
+Cobre | minerio*3, laranja*2, para-raios*2.5, oxidacao*3, comum*2
+Lápis | minerio*3, azul*3, encantamento*3, tintura*2, mesa-de-encantamento*2.5, =lapislazuli, gema*2.5
+Quartzo | minerio*3, nether*3, branco*2, decorativo*2, comparador*2, gema*2.5
+Netherita | minerio*3, nether*3, raro*3, cinza-escuro*2, armadura*2.5, ferramentas*2.5, valioso*3
+Obsidiana | bloco*1.5, lava*2.5, agua*2.5, portal*3, nether*2.5, roxo-escuro*2, resistente*3
+Bedrock | bloco*1.5, indestrutivel*3, fundo-do-mundo*3, preto*1.5, base*2
+Pedra Vermelha | redstone*3, circuito*3, energia*3, vermelho*2.5, pistao*2.5, alavanca*2.5, tecnologia*2.5, =redstone
+Pólvora | material*3, creeper*3, explosao*2.5, tnt*3, cinza, foguete*2
+Osso | material*3, esqueleto*3, lobo*3, domar*2, farinha-de-osso*2.5, branco
+Pena | material*3, galinha*3, flecha*2.5, branco
+Couro | material*3, vaca*3, armadura*2.5, livro*2, marrom
+Linha | material*3, aranha*3, arco*2, teia*2.5, branco, =fio
+# ---- ferramentas, armas e itens ----
+Picareta | ferramenta*3, minerar*3, pedra*2.5, minerio*2.5, madeira*1.5, diamante*2, mao*1.5
+Espada | arma*3, combate*3, dano*2.5, encantar*1.5, diamante*2, mao*1.5
+Machado | ferramenta*3, arma*2, madeira*3, arvore*3, escudo*2, mao*1.5
+Pá | ferramenta*3, terra*3, areia*2.5, cascalho*2.5, neve*2, mao*1.5
+Enxada | ferramenta*3, plantacao*3, terra*2.5, trigo*2, fazenda*2, mao*1.5
+Arco | arma*3, longa-distancia*3, flecha*3, esqueleto*2.5, encantar*1.5
+Flecha | municao*3, arco*3, besta*2.5, pena*2, esqueleto*2
+Besta | arma*3, longa-distancia*3, flecha*2.5, pillager*2.5, municao*2
+Tridente | arma*3, agua*3, afogado*3, arremessar*3, oceano*2, raro*2
+Escudo | defesa*3, bloquear*3, madeira*1.5, machado*2, mao*1.5
+Armadura | defesa*3, capacete*2, peitoral*2, diamante*2, ferro*2
+Elytra | voo*3, asas*3, fim*3, cidade-do-fim*3, foguete*2.5, raro*3, =elitro
+Pérola do Fim | item*3, teletransporte*3, enderman*3, end*2.5, arremessar*2.5, verde-azulado
+Olho do Fim | item*3, end*3, portal*3, fortaleza*3, pérola*2.5, blaze*2.5
+Maçã Dourada | comida*2.5, maca*3, ouro*3, cura*3, absorcao*2.5, rara*2, amarelo
+Poção | item*3, efeito*3, bruxa*2.5, alquimia*3, garrafa*2.5, nether*1.5
+Livro | item*3, encantamento*3, biblioteca*3, papel*2.5, couro*2, estante*2.5
+Balde | item*3, agua*3, lava*3, leite*2.5, vaca*2, ferro*2
+Isqueiro | item*3, fogo*3, nether*2.5, portal*3, ferro*2.5, queimar*2.5
+Bússola | item*3, navegacao*3, spawn*3, ferro*2, redstone*1.5
+Mapa | item*3, navegacao*3, papel*2.5, exploracao*3, bússola*2
+Sela | item*3, montaria*3, cavalo*3, porco*2.5, couro*2
+Vara de Pescar | ferramenta*3, pescar*3, peixe*3, agua*2.5, tesouro*2
+Tocha | item*3, luz*3, carvao*3, graveto*2.5, madeira*2, escuridão*2
+Bote | veiculo*3, agua*3, madeira*2.5, rio*2, tabua*2, =barco
+Vagoneta | veiculo*3, trilho*3, mina*3, ferro*2.5, redstone*2
+Tnt | bloco*2, explosivo*3, explosao*3, polvora*3, creeper*2.5, redstone*2, vermelho
+Cama | bloco*1.5, dormir*3, noite*3, spawn*3, lã*2, vermelho
+Baú | bloco*1.5, armazenamento*3, madeira*2.5, itens*3, ender*1.5, inventario*2.5
+Fornalha | bloco*1.5, fundir*3, carvao*3, minerio*2.5, comida*2, pedra*2
+Bancada | bloco*1.5, craftar*3, madeira*3, receitas*2.5, tabua*2, basico*2, =mesa-de-trabalho
+Bigorna | bloco*1.5, reparar*3, encantamento*2.5, ferro*2.5, nome*2, cai*1.5
+Mesa de Encantamento | bloco*1.5, encantamento*3, lapis*3, livro*3, obsidiana*2.5, diamante*2
+Estande de Poções | bloco*1.5, pocao*3, alquimia*3, blaze*3, nether*2
+# ---- comida e plantas ----
+Pão | comida*3, trigo*3, fazenda*2.5, aldeao*1.5, marrom
+Bife | comida*3, vaca*3, carne*3, fornalha*2.5, cozinhar*2
+Maçã | comida*3, folha*3, arvore*2.5, vermelho*2
+Cenoura | comida*3, plantacao*3, porco*2.5, coelho*2.5, laranja*2
+Batata | comida*3, plantacao*3, fazenda*3, venenosa*2.5, aldeao*1.5
+Melancia | comida*3, plantacao*3, fazenda*2.5, pantano*1.5, verde*2
+Abóbora | bloco*1.5, plantacao*3, halloween*3, golem*2.5, laranja*2
+Bolo | comida*3, bloco*1.5, ovo*2.5, leite*2.5, trigo*2.5, acucar*2.5, festa*2
+Biscoito | comida*3, cacau*3, papagaio*1.5, trigo*2, marrom
+Trigo | planta*3, plantacao*3, fazenda*3, pão*2.5, semente*2.5, dourado
+Semente | planta*3, plantacao*3, trigo*2.5, grama*2.5, farejador*2
+Cacto | planta*3, deserto*3, espinhos*3, verde*2, dano*2
+Bambu | planta*3, panda*3, selva*3, verde*2, andaime*2.5
+Cogumelo | planta*3, escuro*2.5, caverna*2.5, vermelho*2, sopa*2, ilha-de-cogumelo*3
+Alga | planta*3, agua*3, oceano*3, verde*2, secar*1.5
+Teia | bloco*1.5, aranha*3, prender*3, tesoura*2.5, mina*2, branco
+# ---- blocos e materiais de construção ----
+Terra | bloco*3, comum*1, marrom*2, pá*2.5, grama*2.5, plantacao*2
+Grama | bloco*3, verde*3, terra*3, overworld*2, planta*2
+Areia | bloco*3, deserto*3, praia*3, cai*3, amarelo*2, vidro*2.5
+Cascalho | bloco*3, cai*3, pá*2.5, cinza*2, pederneira*2.5
+Pedra | bloco*3, comum*1, cinza*2, caverna*1.5, picareta*1.5, fornalha*1.5
+Pedregulho | bloco*3, comum*1, cinza*2, caverna*2, picareta*2
+Madeira | bloco*3, comum*1, arvore*3, machado*2.5, tabua*3, marrom
+Vidro | bloco*3, areia*3, fornalha*2.5, transparente*3, janela*2.5
+Lã | bloco*3, ovelha*3, tesoura*2.5, cama*2.5, tintura*2
+Tijolo | bloco*3, argila*3, fornalha*2.5, vermelho*2.5, construcao*2.5
+Argila | bloco*3, agua*2.5, rio*1, tijolo*3, cinza*1.5, pá*2
+Neve | bloco*3, frio*3, bioma-gelado*3, pá*2.5, branco*2, golem*2
+Gelo | bloco*3, frio*3, bioma-gelado*3, escorregadio*3, azul-claro*2
+Lava | liquido*3, fogo*3, nether*3, caverna*2.5, perigo*3, balde*2, laranja*2
+Água | liquido*3, balde*3, oceano*3, rio*2.5, azul*2, pescar*2
+Netherrack | bloco*3, nether*3, vermelho*2.5, inflamavel*3, comum*1
+Glowstone | bloco*3, nether*3, luz*3, amarelo*2, brilha*3, lanterna*2
+Endstone | bloco*3, end*3, amarelo-claro*2, comum*1, ilha*2, =pedra-do-fim
+Folha | bloco*3, arvore*3, verde*2, maca*2, tesoura*2, decair*2
+# ---- biomas, dimensões e estruturas ----
+Nether | dimensao*3, lava*3, portal*3, obsidiana*2.5, vermelho*2, perigoso*2.5, ghast*3, blaze*3, =inferno
+End | dimensao*3, ender-dragon*3, enderman*3, ilha*2.5, preto*2, portal*3, final*3, =fim
+Overworld | dimensao*3, spawn*3, grama*2.5, dia*2.5, normal*3, mundo*3, =superficie
+Portal | estrutura*3, dimensao*2.5, nether*3, obsidiana*3, isqueiro*2.5, roxo
+Spawn | local*3, inicio*3, cama*3, mundo*2.5, bússola*2.5
+Vila | estrutura*3, aldeao*3, golem*2.5, cama*2, casa*3, planicie*2
+Deserto | bioma*3, areia*3, cacto*3, templo*2.5, quente*3, amarelo*2
+Selva | bioma*3, bambu*3, jaguatirica*2.5, papagaio*2.5, templo*2.5, verde*2, arvore*2
+Taiga | bioma*3, lobo*2.5, raposa*2.5, neve*2, abeto*2.5, frio*2
+Savana | bioma*3, cavalo*2.5, lhama*2.5, acacia*2.5, quente*3, laranja*2
+Pântano | bioma*3, bruxa*3, slime*2.5, sapo*2.5, agua*2, verde-escuro*2
+Caverna | bioma*3, minerio*3, escuro*3, mina*2.5, morcego*2.5, subterraneo*3
+Floresta | bioma*3, arvore*3, madeira*2.5, lobo*2.5, verde*2
+Oceano | bioma*3, agua*3, peixe*2.5, golfinho*2.5, monumento*3, azul*2
+Montanha | bioma*3, pedra*2.5, neve*2.5, cabra*2.5, esmeralda*3, alto*2.5
+Fortaleza | estrutura*3, portal-do-end*3, olho-do-fim*3, pedra*2.5, subterraneo*2.5
+# ---- jogadores e conceitos ----
+Steve | personagem*3, jogador*3, mascote*3, padrão*2.5, protagonista*2.5, pessoa-do-jogo*3, jogador*2.5
+Alex | personagem*3, jogador*3, laranja*2, ruiva*2.5, protagonista*2.5, pessoa-do-jogo*3, jogador*2.5
+Sobrevivência | modo*3, jogo*3, fome*3, vida*3, craftar*2.5, minerar*2.5
+Criativo | modo*3, jogo*3, voar*3, infinito*3, construcao*3, sem-dano*3
+Hardcore | modo*3, jogo*3, morrer*3, dificil*3, uma-vida*3
+Craftar | acao*3, bancada*3, receita*3, criar*3, itens*2.5, =crafting
+Minerar | acao*3, picareta*3, caverna*3, minerio*3, escavar*3, =mineracao
+Construir | acao*3, blocos*3, criativo*3, casa*2.5, madeira*2, pedra*2
+# ---- ampliação ----
+Cabra | mob-neutro*2.5, montanha*3, pular*3, chifre*3, neve*2, branco
+Golem de Neve | mob-passivo*2, neve*3, abobora*3, bola-de-neve*3, protetor*2.5, branco
+Graveto | material*3, madeira*3, tocha*3, picareta*2, tabua*2
+Tábua | bloco*1.5, madeira*3, bancada*3, graveto*2.5, craftar*2
+Vara de Blaze | material*3, blaze*3, nether*2.5, estande-de-pocoes*3, olho-do-fim*2.5, amarelo
+Ovo de Dragão | item*3, ender-dragon*3, end*3, raro*3, preto*2, portal*2
+Cristal do End | item*3, end*3, ender-dragon*3, explosao*2.5, torre*2.5, roxo, cristal*2
+Porta | bloco*1.5, madeira*2.5, casa*3, zumbi*2.5, redstone*1.5, ferro*2
+Escada | bloco*1.5, subir*3, madeira*2, pedra*2, construcao*2.5
+Cerca | bloco*1.5, madeira*2.5, cavalo*2.5, prender*2.5, construcao*2.5
+Capacete | armadura*3, cabeca*3, defesa*3, ferro*2, diamante*2
+Botas | armadura*3, pes*3, defesa*3, couro*2.5, queda*2.5
+Peitoral | armadura*3, corpo*3, defesa*3, ferro*2, diamante*2
+Noite | tempo*3, monstros*3, escuro*3, cama*3, perigo*2.5, lua*3
+Dia | tempo*3, sol*3, claro*3, seguro*2.5, noite*2.5
+Fome | status*3, comida*3, vida*2.5, sobrevivencia*3, carne*2
+Encantamento | magia*3, mesa-de-encantamento*3, lapis*3, livro*3, nivel*3, brilho*2.5
+Experiência | status*3, orbe*3, nivel*3, encantamento*3, mobs*2.5, verde*2, =xp
+Mel | comida*3, abelha*3, colmeia*3, doce*3, amarelo*2, garrafa*2.5, frasco*1.5
+Flor | planta*3, abelha*2.5, tintura*3, grama*2, cores*2.5, jardim*2.5
+Trilho | bloco*1.5, vagoneta*3, mina*3, ferro*2.5, redstone*2, transporte*3
+# ---- mobs adicionados (conferidos com a lista de mobs) ----
+Esqueleto Wither | mob-hostil*3, morto-vivo*3, esqueleto*3, nether*3, fortaleza-do-nether*3, caveira*2.5, wither*2.5, preto, espada*1.5
+Aranha da Caverna | mob-hostil*3, aranha*3, veneno*3, mina-abandonada*3, caverna*2, teia*1.5, azul, overworld*1.5
+Mula | mob-passivo*3, montaria*3, bau*3, domar*2, carga*2, cavalo*2.5, burro*2.5
+Vacogumelo | mob-passivo*3, vaca*3, cogumelo*3, ilha-de-cogumelo*3, vermelho, sopa*2.5, fazenda*1.5
+Urso Polar | mob-neutro*2.5, neve*3, gelo*3, taiga*2, peixe*2.5, filhote*2, branco, selvagem*1.5
+Ovo | item*3, galinha*3, arremessar*2.5, bolo*2, branco*1.5, comida*1.5

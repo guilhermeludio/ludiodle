@@ -1,0 +1,41 @@
+# NFL: os 32 times. Tags: conferência*2.5, divisão*4, rivais*3, região*2, estado*1.5, mascote*2, cor*1, estádio/clima*1.5, história*1.5-2
+# ---- AFC Leste ----
+Bills | afc*2.5, afc-leste*4, patriots*3, dolphins*3, jets*3, chiefs*2.5, nordeste*2, nova-york*2, bufalo*2.5, frio-neve*2, azul*1, vermelho*1, bills-mafia*2.5, quatro-derrotas-seguidas-sb*2.5, afl*1.5, sem-super-bowl*1.5
+Dolphins | afc*2.5, afc-leste*4, patriots*3, bills*3, jets*3, sul*2, florida*2, golfinho*2.5, aqua*1, laranja*1, temporada-perfeita-1972*3, calor*2, afl*1.5, bicampeao-anos-70*1.5
+Patriots | afc*2.5, afc-leste*4, jets*3, bills*3, dolphins*3, colts*2.5, giants*1.5, nordeste*2, nova-inglaterra*2.5, soldado*2, azul-marinho*1, vermelho*1, dinastia*3, brady*2, belichick*2, frio-neve*1.5, afl*1.5
+Jets | afc*2.5, afc-leste*4, patriots*3, bills*3, dolphins*3, giants*2.5, nordeste*2, nova-york*2.5, nova-jersey*2, aviao*2, verde*1, namath*2, um-titulo-sb-iii*2, afl*1.5
+# ---- AFC Norte ----
+Ravens | afc*2.5, afc-norte*4, steelers*3, browns*2.5, bengals*2.5, nordeste*1.5, baltimore*2.5, ave*2.5, corvo*2, roxo*1.5, preto*1, defesa*2.5, ray-lewis*2, dois-titulos*1.5
+Bengals | afc*2.5, afc-norte*4, steelers*3, browns*3, ravens*2.5, meio-oeste*2, ohio*2.5, felino*2.5, tigre*2, laranja*1.5, preto*1, sem-super-bowl*1.5, afl*1
+Browns | afc*2.5, afc-norte*4, steelers*3, ravens*3, bengals*3, meio-oeste*2, ohio*2.5, capacete-sem-logo*2.5, laranja*1.5, marrom*1.5, dawg-pound*2.5, frio-neve*2, sem-super-bowl*2.5
+Steelers | afc*2.5, afc-norte*4, ravens*3, browns*3, bengals*3, nordeste*2, pensilvania*2.5, aco*2.5, amarelo*1.5, preto*1.5, dinastia*3, cortina-de-aco*2, defesa*2, seis-titulos*2, frio-neve*1.5
+# ---- AFC Sul ----
+Texans | afc*2.5, afc-sul*4, colts*3, titans*3, jaguars*3, cowboys*1.5, sul*2, texas*2.5, touro*2.5, azul-marinho*1, vermelho*1, expansao-2002*2.5, cupula*1.5, sem-super-bowl*1.5
+Colts | afc*2.5, afc-sul*4, titans*3, texans*3, jaguars*3, patriots*2.5, meio-oeste*2, indiana*2.5, cavalo*2.5, azul*1.5, branco*1, mudou-de-cidade*2, manning*2, luck*1.5, cupula*2, dois-titulos*1.5
+Jaguars | afc*2.5, afc-sul*4, titans*3, colts*3, texans*3, sul*2, florida*2.5, felino*2.5, jaguar*2, teal*1.5, expansao-anos-90*2.5, sem-super-bowl*1.5
+Titans | afc*2.5, afc-sul*4, colts*3, texans*3, jaguars*3, sul*2, tennessee*2.5, mitologia*2, azul-claro*1.5, azul-marinho*1, vermelho*1, mudou-de-cidade*2, ex-oilers*2.5, sem-super-bowl*1.5
+# ---- AFC Oeste ----
+Chiefs | afc*2.5, afc-oeste*4, raiders*3, broncos*3, chargers*3, bills*2.5, eagles*1.5, meio-oeste*2, kansas-city*2.5, missouri*2, indigena*2, flecha*2, vermelho*1.5, amarelo*1, dinastia*3, mahomes*2.5, kelce*2, estadio-barulhento*2, quatro-titulos*2, frio-neve*1.5, afl*1.5
+Raiders | afc*2.5, afc-oeste*4, chiefs*3, broncos*3, chargers*3, oeste*2, nevada*2.5, las-vegas*2.5, pirata*2.5, preto*1.5, prata*1.5, raider-nation*2.5, mudou-de-cidade*2.5, tres-titulos*2, afl*1.5
+Chargers | afc*2.5, afc-oeste*4, chiefs*3, raiders*3, broncos*3, oeste*2, california*2, los-angeles*2.5, raio*2.5, azul-claro*1.5, amarelo*1, mudou-de-cidade*2.5, sem-super-bowl*1.5, afl*1.5, rams*1
+Broncos | afc*2.5, afc-oeste*4, chiefs*3, raiders*3, chargers*3, oeste*2, colorado*2.5, cavalo*2.5, laranja*1.5, azul-marinho*1, altitude*2.5, elway*2, tres-titulos*2, frio-neve*1.5, afl*1.5
+# ---- NFC Leste ----
+Cowboys | nfc*2.5, nfc-leste*4, eagles*3, giants*3, commanders*3, 49ers*2.5, packers*1.5, sul*2, texas*2.5, vaqueiro*2.5, estrela*2, azul*1.5, prata*1, time-da-america*3, dinastia*2.5, cupula*1.5, texans*1.5, cinco-titulos*2
+Giants | nfc*2.5, nfc-leste*4, eagles*3, cowboys*3, commanders*3, jets*2.5, patriots*1.5, nordeste*2, nova-york*2.5, nova-jersey*2, gigante*2, azul*1.5, quatro-titulos*2, frio-neve*1
+Eagles | nfc*2.5, nfc-leste*4, cowboys*3, giants*3, commanders*3, chiefs*1.5, nordeste*2, pensilvania*2.5, filadelfia*2.5, ave*2.5, aguia*2, verde*1.5, torcida-intensa*2.5, frio-neve*1
+Commanders | nfc*2.5, nfc-leste*4, cowboys*3, eagles*3, giants*3, nordeste*1.5, washington*2.5, capital*2, vinho*1.5, dourado*1, ex-redskins*2, tres-titulos*2, =washington
+# ---- NFC Norte ----
+Packers | nfc*2.5, nfc-norte*4, bears*3, vikings*3, lions*3, cowboys*2, 49ers*2, meio-oeste*2, wisconsin*2.5, green-bay*2.5, verde*1.5, dourado*1.5, time-do-povo*3, lambeau*2.5, favre*2, rodgers*2, dinastia*2.5, frio-neve*2.5, quatro-titulos*2
+Bears | nfc*2.5, nfc-norte*4, packers*3, vikings*3, lions*3, meio-oeste*2, illinois*2.5, chicago*2.5, urso*2.5, azul-marinho*1.5, laranja*1.5, defesa*2.5, frio-neve*2.5, vento*2, original-nfl*2, um-titulo-moderno*1.5
+Lions | nfc*2.5, nfc-norte*4, packers*3, bears*3, vikings*3, meio-oeste*2, michigan*2.5, detroit*2.5, leao*2.5, felino*2, azul-honolulu*1.5, prata*1, acao-de-gracas*3, cupula*2, sem-super-bowl*2.5
+Vikings | nfc*2.5, nfc-norte*4, packers*3, bears*3, lions*3, meio-oeste*2, minnesota*2.5, viking*2.5, roxo*1.5, dourado*1, cupula*2, quatro-derrotas-sb*2.5, sem-super-bowl*2.5, frio-neve*2
+# ---- NFC Sul ----
+Saints | nfc*2.5, nfc-sul*4, falcons*3, panthers*3, buccaneers*3, sul*2, louisiana*2.5, nova-orleans*2.5, santos*2, flor-de-lis*2, dourado*1.5, preto*1, cupula*2, furacao-katrina*2, brees*2, um-titulo*1.5, calor*1.5
+Falcons | nfc*2.5, nfc-sul*4, saints*3, panthers*3, buccaneers*2.5, sul*2, georgia*2.5, atlanta*2.5, ave*2.5, falcao*2, vermelho*1.5, preto*1, cupula*2, virada-28-3*2.5, sem-super-bowl*1.5
+Panthers | nfc*2.5, nfc-sul*4, saints*3, falcons*3, buccaneers*3, sul*2, carolina*2.5, charlotte*2, felino*2.5, pantera*2, azul-claro*1.5, preto*1, expansao-anos-90*2.5, sem-super-bowl*1.5
+Buccaneers | nfc*2.5, nfc-sul*4, saints*3, falcons*2.5, panthers*3, sul*2, florida*2.5, tampa*2.5, pirata*2.5, vermelho*1.5, peltre*1, brady*1.5, dois-titulos*2, calor*2, expansao-1976*1.5
+# ---- NFC Oeste ----
+49ers | nfc*2.5, nfc-oeste*4, seahawks*3, rams*3, cardinals*2.5, cowboys*3, packers*2.5, chiefs*1.5, oeste*2, california*2.5, sao-francisco*2.5, minerador*2.5, ouro*2, vermelho*1.5, dourado*1.5, montana*2, rice*1.5, dinastia*3, cinco-titulos*2, =niners
+Rams | nfc*2.5, nfc-oeste*4, 49ers*3, seahawks*3, cardinals*2.5, oeste*2, california*2, los-angeles*2.5, carneiro*2.5, azul*1.5, amarelo*1, mudou-de-cidade*2.5, ex-st-louis*2, show-mais-espetacular*2, dois-titulos*1.5, chargers*1
+Seahawks | nfc*2.5, nfc-oeste*4, 49ers*3, rams*3, cardinals*2.5, oeste*2, washington-estado*2, seattle*2.5, ave*2.5, falcao-marinho*2, azul-marinho*1.5, verde-neon*1.5, torcida-barulhenta*2.5, decimo-segundo-homem*2.5, chuva*1.5, um-titulo*1.5
+Cardinals | nfc*2.5, nfc-oeste*4, seahawks*3, rams*3, 49ers*2.5, oeste*2, arizona*2.5, deserto*2, ave*2.5, cardeal*2, vermelho*1.5, cupula*1.5, calor*2, sem-super-bowl*1.5, original-nfl*1.5

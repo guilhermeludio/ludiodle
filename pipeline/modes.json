@@ -1,0 +1,116 @@
+{
+ "start": "2026-10-01",
+ "modes": [
+  {
+   "id": "normal",
+   "name": "Normal",
+   "desc": "Palavras do dia a dia do português"
+  },
+  {
+   "id": "anime",
+   "name": "Anime",
+   "desc": "Personagens famosos dos animes mais conhecidos",
+   "themes": [
+    "Anime",
+    "Bleach",
+    "Pokémon"
+   ],
+   "seed": 128469991,
+   "max_answers": 1500,
+   "en_tolerance": 2.2,
+   "curated": true
+  },
+  {
+   "id": "naruto",
+   "name": "Naruto",
+   "desc": "Personagens e conceitos famosos de Naruto",
+   "themes": [
+    "Naruto"
+   ],
+   "seed": 170070052,
+   "max_answers": 1500,
+   "en_tolerance": 2.2,
+   "curated": true
+  },
+  {
+   "id": "fa",
+   "name": "Futebol Americano",
+   "desc": "Times da NFL, jogadores famosos e jogadas",
+   "themes": [
+    "Futebol Americano"
+   ],
+   "seed": 458273128,
+   "max_answers": 1500,
+   "en_tolerance": 3.6,
+   "curated": true
+  },
+  {
+   "id": "onepiece",
+   "name": "One Piece",
+   "desc": "Personagens e conceitos famosos de One Piece",
+   "themes": [
+    "One Piece"
+   ],
+   "seed": 123883630,
+   "max_answers": 1500,
+   "en_tolerance": 2.2,
+   "curated": true
+  },
+  {
+   "id": "pokemon",
+   "name": "Pokémon",
+   "desc": "Só Pokémon: tipo, aparência, golpes e família",
+   "themes": [
+    "Pokémon"
+   ],
+   "seed": 411386867,
+   "max_answers": 1500,
+   "en_tolerance": 3.6,
+   "curated": true
+  },
+  {
+   "id": "minecraft",
+   "name": "Minecraft",
+   "desc": "Mobs, minérios, itens, blocos e biomas do Minecraft",
+   "themes": [
+    "Minecraft"
+   ],
+   "seed": 367918094,
+   "max_answers": 1500,
+   "en_tolerance": 2.2,
+   "curated": true
+  },
+  {
+   "id": "pokemon1",
+   "name": "Pokémon 1ª Geração",
+   "desc": "Os 151 Pokémon de Kanto",
+   "themes": [
+    "Pokémon"
+   ],
+   "seed": 586528607,
+   "max_answers": 1500,
+   "en_tolerance": 3.6,
+   "curated": true
+  },
+  {
+   "id": "nfl",
+   "name": "NFL Times",
+   "desc": "Os 32 times da NFL: conferência, divisão e rivalidades",
+   "themes": [
+    "NFL"
+   ],
+   "seed": 373894186,
+   "max_answers": 1500,
+   "en_tolerance": 3.6,
+   "curated": true
+  },
+  {
+   "id": "lol",
+   "name": "League of Legends",
+   "desc": "Os 173 campeões: classe, rota, região e história",
+   "seed": 904246358,
+   "curated": true,
+   "themes": []
+  }
+ ]
+}

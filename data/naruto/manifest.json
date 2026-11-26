@@ -1,0 +1,24 @@
+{
+ "mode": "naruto",
+ "mode_name": "Naruto",
+ "themes": [
+  "Naruto"
+ ],
+ "vocab_version": "v2",
+ "vocab_size": 154,
+ "vocab_sha256": "f15345ac1e61f4bd70f23fc180d41896d9c0654641c8ff33b63b6d84623558e9",
+ "embedding_model": "curadoria manual (características)",
+ "model_version": "v2",
+ "embedding_dim": 479,
+ "vectors_sha256": "26e7f915d962df44b537ce2b7ce3e60438a2aef8269c1f8bfc36060b272564e5",
+ "vector_normalization": "L2",
+ "similarity": "cosine",
+ "derived_vectors": 0,
+ "ranking_dtype": "uint16-le",
+ "ties": "estável por índice do vocabulário",
+ "daily_start": "2026-10-01",
+ "daily_seed": 170070052,
+ "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
+ "answers": 154,
+ "forms_count": 13
+}
