@@ -364,7 +364,11 @@ async function submit(raw){
   if(L.err){if(L.unknown)setSuggest(L.unknown);else setMsg(L.err,"err");return;}          // inválida: não registra, não altera progresso, não gasta dica
   const idx=L.idx;
   const dup=cur.rec.guesses.find(x=>x.idx===idx);
-  if(dup){setMsg("Você já tentou “"+G.vocab[idx]+"” (posição "+fmt(dup.rank)+").","err");flash(idx);return;}
+  if(dup){                                                   // repetida: reaparece em "Última tentativa", marcada como já tentada, sem rolar a tela
+    setMsg("","");$("lastBox").classList.remove("hidden");
+    $("last").innerHTML=item(Object.assign({},dup,{repeat:true,mine:false})," last");
+    $("in").value="";return;
+  }
   const rank=cur.r[idx];
   cur.rec.guesses.push({idx,word:G.vocab[idx],rank,t:Date.now()});
   recompute();
@@ -414,7 +418,7 @@ function setMsg(t,c){const m=$("msg");m.textContent=t;m.className=c||""}
 const kls=r=>r===1?"k1":r<=50?"k2":r<=300?"k3":r<=1500?"k4":r<=5000?"k5":"k6";
 const pct=r=>Math.max(3,Math.min(100,100*(1-Math.log10(r)/Math.log10(N+1))));
 function item(g,extra){
-  const tags=(g.mine?'<span class="tag">sua tentativa</span>':"")+(g.hint?'<span class="tag">dica</span>':"")+(g.reveal&&!g.hint?'<span class="tag">revelada</span>':"");
+  const tags=(g.mine?'<span class="tag">sua tentativa</span>':"")+(g.hint?'<span class="tag">dica</span>':"")+(g.reveal&&!g.hint?'<span class="tag">revelada</span>':"")+(g.repeat?'<span class="tag">já tentada</span>':"");
   return '<div class="g '+kls(g.rank)+(extra||"")+'" data-i="'+g.idx+'"><div class="bar" style="width:'+pct(g.rank)+'%"></div><span class="w">'+esc(g.word)+tags+'</span><span class="r">'+(g.rank===1?"★ 1":fmt(g.rank))+'</span></div>';
 }
 function flash(idx){const e=document.querySelector('#list [data-i="'+idx+'"]');if(e){e.scrollIntoView({block:"nearest"});e.animate([{transform:"scale(1.03)"},{transform:"scale(1)"}],{duration:300})}}

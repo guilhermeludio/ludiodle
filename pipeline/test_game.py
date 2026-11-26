@@ -74,11 +74,11 @@ with sync_playwright() as pw:
     row = p.locator('#list .g', has_text=inf)
     check("flexão reconhecida e mapeada ao lema", stats(p)["items"] == n0 + 1 and row.count() == 1 and row.locator(".r").inner_text().replace(".", "").replace(" ", "") == str(rk), f"{form}->{inf} pos {rk}")
     send(p, inf)
-    check("lema após flexão é duplicata (não registra)", stats(p)["items"] == n0 + 1 and "já tentou" in stats(p)["msg"])
+    check("lema após flexão é duplicata (não registra)", stats(p)["items"] == n0 + 1 and "já tentada" in p.inner_text("#last"))
 
     # duplicada
     n1 = stats(p)["items"]; send(p, w300)
-    check("palavra duplicada não é registrada", stats(p)["items"] == n1 and "já tentou" in stats(p)["msg"])
+    check("palavra duplicada não é registrada", stats(p)["items"] == n1 and "já tentada" in p.inner_text("#last"))
 
     # ordenação
     rs = [int(x.replace(".", "").replace(" ", "").replace("★ ", "")) for x in p.locator("#list .g .r").all_inner_texts()]
