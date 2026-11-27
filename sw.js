@@ -1,5 +1,5 @@
 /* Service worker: deixa o jogo funcionar offline depois da primeira visita (https/localhost). */
-const CACHE = "ludiodle-v13";
+const CACHE = "ludiodle-v14";
 const CORE = ["./", "index.html", "data/modes.js"];
 
 self.addEventListener("install", e => {

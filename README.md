@@ -7,7 +7,7 @@ Jogo de adivinhação de palavras por proximidade semântica, inspirado no Conte
 | Normal | Vocabulário geral (≈11,6 mil palavras comuns) |
 | Anime | Personagens famosos de animes |
 | Naruto | Naruto e Shippuden |
-| Futebol Americano | Times da NFL, jogadores e jogadas |
+| Futebol Americano | Os jogadores mais famosos da NFL atual |
 | One Piece | O mundo de One Piece |
 | Pokémon | Só Pokémon |
 
@@ -50,13 +50,13 @@ data/<modo>/meta.js, r/      todos os modos curados
 
 **Normal (modelo de linguagem):** árvores de palavras dos 33 temas, filtradas por `pipeline/03_filter.py` e depois por `05_build_data.py`: só entram palavras com frequência razoável no português (`zipf ≥ 2,6`; nomes próprios só se `≥ 3,6`), sem inglês/jargão, sem risadas ("kkkk") e com vetor no modelo. Respostas do dia: só palavras comuns, minúsculas e coerentes com os temas. Resultado: ≈10 mil palavras e ≈3,5 mil respostas.
 
-**Modos curados (Anime, Naruto, Futebol Americano, One Piece, Pokémon, Minecraft, Pokémon 1ª Geração, NFL Times, League of Legends):** vocabulário e semântica escritos à mão em `curated/<modo>.txt`, uma linha por palavra: `Palavra | característica*peso, ...`. A semelhança é o cosseno entre vetores de características (time, vila, tipo, golpes, posição, relações…), calculado por `pipeline/09_build_curated.py`. Não usa o modelo de linguagem, então nomes próprios têm vizinhos que fazem sentido (Charizard perto de Charmander e dos Pokémon de fogo/voador; Brady perto de Montana e Aikman). Em todos os modos curados, qualquer palavra do vocabulário pode ser a resposta do dia (um `~` antes da palavra a tornaria só-palpite).
+**Modos curados (Anime, Naruto, Futebol Americano, One Piece, Pokémon, Minecraft, Pokémon 1ª Geração, NFL Times, League of Legends):** vocabulário e semântica escritos à mão em `curated/<modo>.txt`, uma linha por palavra: `Palavra | característica*peso, ...`. A semelhança é o cosseno entre vetores de características (time, vila, tipo, golpes, posição, relações…), calculado por `pipeline/09_build_curated.py`. Não usa o modelo de linguagem, então nomes próprios têm vizinhos que fazem sentido (Charizard perto de Charmander e dos Pokémon de fogo/voador; Mahomes perto de Kelce, Rice e dos outros quarterbacks). Em todos os modos curados, qualquer palavra do vocabulário pode ser a resposta do dia (um `~` antes da palavra a tornaria só-palpite).
 
 | Modo | Palavras | Respostas | Conteúdo |
 |---|---|---|---|
 | Anime | 347 | 347 | personagens famosos de Dragon Ball, Naruto, One Piece, Bleach, Demon Slayer, Shingeki, JJK etc. |
 | Naruto | 154 | 154 | personagens conhecidos + conceitos famosos (Konoha, Rasengan, Sharingan, Akatsuki…) |
-| Futebol Americano | 269 | 269 | times da NFL, jogadores e técnicos famosos, jogadas e posições |
+| Futebol Americano | 280 | 280 | só os jogadores atuais mais famosos (QB, RB, WR, TE, LB, CB, S e os principais da linha defensiva); sem times nem jogadas; proximidade por time + posição |
 | One Piece | 181 | 181 | personagens conhecidos + conceitos famosos (Haki, Gomu, Wano, Yonkou…) |
 | Pokémon | 841 | 841 | só Pokémon; vizinhança por tipo, família evolutiva, aparência, golpes, habilidades e número da Pokédex |
 | Minecraft | 184 | 184 | mobs, minérios, itens, ferramentas, blocos, comidas, biomas, estruturas e conceitos famosos do jogo |
@@ -80,7 +80,7 @@ Modelo spaCy `pt_core_news_lg` 3.8.0 (vetores estáticos), 300 dimensões, norma
 
 ## Limitações conhecidas
 
-- **Poucos dias nos modos curados:** a sequência repete depois de 262 (Anime), 181 (One Piece), 154 (Naruto), 264 (Futebol Americano), 822 (Pokémon), 184 (Minecraft), 151 (Pokémon 1ª Geração) 32 (NFL Times) ou 173 dias (League of Legends). É o preço de só aceitar personagens conhecidos; para aumentar, basta acrescentar linhas aos arquivos de `curated/`.
+- **Poucos dias nos modos curados:** a sequência repete depois de 262 (Anime), 181 (One Piece), 154 (Naruto), 280 (Futebol Americano), 822 (Pokémon), 184 (Minecraft), 151 (Pokémon 1ª Geração) 32 (NFL Times) ou 173 dias (League of Legends). É o preço de só aceitar personagens conhecidos; para aumentar, basta acrescentar linhas aos arquivos de `curated/`.
 - **Semântica curada por mim, não aprendida:** as características foram escritas de memória e podem ter erros ou omissões (um personagem esquecido, uma relação fraca). O Normal usa o modelo antigo `pt_core_news_lg`, com vizinhos às vezes estranhos em palavras abstratas.
 - Qualquer pessoa com as ferramentas do navegador pode ver o ranking de um dia e descobrir a resposta. Isso é inerente ao jogo offline.
 - Testado só em Chromium automatizado, não em aparelhos reais nem em Safari/Firefox.

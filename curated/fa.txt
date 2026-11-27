@@ -1,275 +1,314 @@
-# Futebol Americano: palavra | características (time, conferência, divisão, posição, época, papel)
-# --- Times (apelido) ---
-Bills | time*3, afc*2, leste-afc*2.5, buffalo*3, nova-york*1, josh-allen*1.5, neve*1.5, azul-vermelho, bills*3
-Dolphins | time*3, afc*2, leste-afc*2.5, miami*3, florida*1.5, tua*1.5, 1972-invicto*1.5, aqua-laranja, dolphins*3
-Patriots | time*3, afc*2, leste-afc*2.5, boston*3, brady*2.5, belichick*2.5, dinastia*2.5, nova-inglaterra*2, azul-vermelho, patriots*3
-Jets | time*3, afc*2, leste-afc*2.5, nova-york*3, namath*1.5, verde, jets*3
-Ravens | time*3, afc*2, norte-afc*2.5, baltimore*3, lamar-jackson*1.5, roxo, ray-lewis*2, ravens*3
-Bengals | time*3, afc*2, norte-afc*2.5, cincinnati*3, burrow*1.5, tigre*2, laranja, bengals*3
-Browns | time*3, afc*2, norte-afc*2.5, cleveland*3, laranja-marrom, cachorros*1, browns*3
-Steelers | time*3, afc*2, norte-afc*2.5, pittsburgh*3, cortina-de-aco*2, amarelo-preto, seis-aneis*2, terrible-towel*1.5, steelers*3
-Texans | time*3, afc*2, sul-afc*2.5, houston*3, texas*2, stroud*1.5, texans*3
-Colts | time*3, afc*2, sul-afc*2.5, indianapolis*3, peyton*2, azul-branco, cavalo*2, colts*3
-Jaguars | time*3, afc*2, sul-afc*2.5, jacksonville*3, florida*1.5, onca*2, jaguars*3
-Titans | time*3, afc*2, sul-afc*2.5, nashville*3, tennessee*2.5, azul-claro, titans*3
-Chiefs | time*3, afc*2, oeste-afc*2.5, kansas-city*3, mahomes*2.5, kelce*2, reid*2, vermelho, dinastia*2.5, taylor-swift*1, chiefs*3
-Raiders | time*3, afc*2, oeste-afc*2.5, las-vegas*3, preto-prata, pirata*2, oakland*1.5, raiders*3
-Chargers | time*3, afc*2, oeste-afc*2.5, los-angeles*3, raios*2, azul-claro, herbert*1.5, chargers*3
-Broncos | time*3, afc*2, oeste-afc*2.5, denver*3, elway*2, cavalo*2, laranja, broncos*3
-Cowboys | time*3, nfc*2, leste-nfc*2.5, dallas*3, texas*2, america-team*3, estrela*2, azul-prata, aikman*1.5, emmitt*1.5, cowboys*3
-Giants | time*3, nfc*2, leste-nfc*2.5, nova-york*3, azul, eli*1.5, taylor*1, super-bowl*1, giants*3
-Eagles | time*3, nfc*2, leste-nfc*2.5, filadelfia*3, aguia*2, verde, hurts*1.5, rocky*1, eagles*3
-Commanders | time*3, nfc*2, leste-nfc*2.5, washington*3, vinho, commanders*3
-Packers | time*3, nfc*2, norte-nfc*2.5, green-bay*3, lambeau*2.5, favre*2, rodgers*2, verde-amarelo, queijo*2, packers*3
-Bears | time*3, nfc*2, norte-nfc*2.5, chicago*3, urso*2, laranja-azul, ditka*1.5, bears*3
-Lions | time*3, nfc*2, norte-nfc*2.5, detroit*3, leao*2, azul-prata, thanksgiving*2.5, lions*3
-Vikings | time*3, nfc*2, norte-nfc*2.5, minnesota*3, roxo, vikings*1, vikings*3
-Saints | time*3, nfc*2, sul-nfc*2.5, new-orleans*3, brees*2, dourado, katrina*1, saints*3
-Falcons | time*3, nfc*2, sul-nfc*2.5, atlanta*3, vermelho-preto, falcao*2, vick*1.5, falcons*3
-Buccaneers | time*3, nfc*2, sul-nfc*2.5, tampa*3, brady*2, pirata*2, vermelho, florida*1.5, buccaneers*3
-Panthers | time*3, nfc*2, sul-nfc*2.5, carolina*3, pantera*2, azul-claro, cam*1.5, panthers*3
-Rams | time*3, nfc*2, oeste-nfc*2.5, los-angeles*3, azul-amarelo, donald*1.5, stafford*1.5, chifres*1.5, rams*3
-Seahawks | time*3, nfc*2, oeste-nfc*2.5, seattle*3, russell-wilson*2, legion-of-boom*2, verde-azul, 12o-homem*2, seahawks*3
-Cardinals | time*3, nfc*2, oeste-nfc*2.5, arizona*3, vermelho, passaro*2, murray*1.5, cardinals*3
-49ers | time*3, nfc*2, oeste-nfc*2.5, sao-francisco*3, dourado-vermelho, montana*2.5, rice*2.5, dinastia*2.5, mccaffrey*1.5, kittle*1.5, 49ers*3
-# --- Jogadores (por time) ---
-Mahomes | jogador*0.6, qb*2, quarterback*0.8, chiefs*3, kansas-city*2, afc*1, mahomes*3, kelce*2, reid*1.5, super-bowl*2, campeao*2, elite*1, atual*2
-Kelce | jogador*0.6, te*3, tight-end*2, chiefs*3, kansas-city*2, mahomes*2.5, taylor-swift*2, atual*2
-Brady | jogador*0.6, qb*2, quarterback*0.8, patriots*3, buccaneers*2.5, belichick*2, dinastia*2, goat*3, sete-aneis*3, lenda*2, aposentado*1
-Belichick | tecnico*3, patriots*3, brady*2.5, dinastia*2, genio*2, aneis*2
-Rodgers | jogador*0.6, qb*2, quarterback*0.8, packers*3, jets*2, green-bay*2, favre*1.5, mvp*2.5
-Favre | jogador*0.6, qb*2, quarterback*0.8, packers*3, green-bay*2, vikings*1.5, lenda*2
-Manning | jogador*0.6, qb*2, quarterback*0.8, colts*2.5, broncos*2.5, giants*1.5, lenda*2, peyton*3, eli*2
-Brees | jogador*0.6, qb*2, quarterback*0.8, saints*3, new-orleans*2, lenda*2
-Montana | jogador*0.6, qb*2, quarterback*0.8, 49ers*3, sao-francisco*2, lenda*2.5, rice*2.5, dinastia*2, joe-cool*2
-Rice | jogador*0.6, wr*3, wide-receiver*2, 49ers*3, sao-francisco*2, lenda*2.5, montana*2.5, goat*2
-Elway | jogador*0.6, qb*2, quarterback*0.8, broncos*3, denver*2, lenda*2
-Aikman | jogador*0.6, qb*2, quarterback*0.8, cowboys*3, dallas*2, dinastia*2, lenda*1.5, emmitt*2.5
-Emmitt | jogador*0.6, rb*3, running-back*2, cowboys*3, dallas*2, recordista*2, lenda*2, aikman*2
-Sanders | jogador*0.6, cb*3, lenda*2, cowboys*2, deion*2, prime-time*2.5, dancinha*2, beisebol*1
-Taylor | jogador*0.6, lb*3, giants*3, nova-york*2, lenda*2, defesa*2, sacks*2
-Ditka | tecnico*3, bears*3, chicago*2, lenda*2, 85-bears*2
-Lombardi | tecnico*3, packers*3, trofeu*3, super-bowl*2.5, lenda*3, green-bay*2
-Namath | jogador*0.6, qb*2, quarterback*0.8, jets*3, nova-york*2, super-bowl*2, garantia*2, lenda*1.5
-Peyton | jogador*0.6, qb*2, quarterback*0.8, colts*2.5, broncos*2.5, manning*3, lenda*2
-Eli | jogador*0.6, qb*2, quarterback*0.8, giants*3, manning*2.5, super-bowl*2, nova-york*2, azarao*1.5
-Burrow | jogador*0.6, qb*2, quarterback*0.8, bengals*3, cincinnati*2, atual*2, chase*1.5
-Chase | jogador*0.6, wr*3, wide-receiver*2, bengals*3, cincinnati*2, burrow*2.5, atual*2
-Hurts | jogador*0.6, qb*2, quarterback*0.8, eagles*3, filadelfia*2, atual*2, tush-push*2.5
-Lamar | jogador*0.6, qb*2, quarterback*0.8, ravens*3, baltimore*2, mvp*2, corredor*2, atual*2
-Allen | jogador*0.6, qb*2, quarterback*0.8, bills*3, buffalo*2, atual*2, corredor*1.5
-Herbert | jogador*0.6, qb*2, quarterback*0.8, chargers*3, atual*2, braço-forte*2
-Prescott | jogador*0.6, qb*2, quarterback*0.8, cowboys*3, dallas*2, atual*2
-Stafford | jogador*0.6, qb*2, quarterback*0.8, rams*3, los-angeles*2, lions*1.5, atual*2
-Wilson | jogador*0.6, qb*2, quarterback*0.8, seahawks*3, seattle*2, broncos*1.5, steelers*1.5, russell*2
-Newton | jogador*0.6, qb*2, quarterback*0.8, panthers*3, carolina*2, cam*3, superman*1.5
-McCaffrey | jogador*0.6, rb*3, running-back*2, 49ers*3, sao-francisco*2, panthers*1.5, atual*2
-Kittle | jogador*0.6, te*3, tight-end*2, 49ers*3, sao-francisco*2, atual*2, intensidade*2
-Henry | jogador*0.6, rb*3, running-back*2, titans*2.5, nashville*1.5, ravens*1.5, forca*2, atual*2, derrick*3
-Barkley | jogador*0.6, rb*3, running-back*2, giants*2.5, eagles*3, atual*2, saquon*3
-Jefferson | jogador*0.6, wr*3, wide-receiver*2, vikings*3, minnesota*2, atual*2, griddy*2.5
-Hill | jogador*0.6, wr*3, wide-receiver*2, dolphins*3, miami*2, chiefs*2.5, velocidade*3, atual*2, tyreek*3, cheetah*2.5
-Adams | jogador*0.6, wr*3, wide-receiver*2, packers*2, raiders*2, jets*1.5, davante*3
-Donald | jogador*0.6, dt*3, defesa*2.5, rams*3, los-angeles*2, aaron*3, melhor-defensor*2.5, atual*2
-Watt | jogador*0.6, de*3, defensor*2, texans*2.5, steelers*2.5, jj*3, defesa*2.5, sacks*2.5
-Parsons | jogador*0.6, lb*3, edge*2, cowboys*3, dallas*2, defesa*2.5, sacks*2.5, atual*2, micah*3
-Garrett | jogador*0.6, de*3, edge*2, browns*3, cleveland*2, defesa*2.5, sacks*2.5, myles*3
-Bosa | jogador*0.6, de*3, edge*2, 49ers*2.5, chargers*2.5, defesa*2.5, sacks*2.5
-Kupp | jogador*0.6, wr*3, wide-receiver*2, rams*3, los-angeles*2, atual*2, cooper*2.5
-Diggs | jogador*0.6, wr*3, wide-receiver*2, bills*2.5, texans*2, atual*2
-Goff | jogador*0.6, qb*2, quarterback*0.8, lions*3, detroit*2, rams*1.5, atual*2
-Lawrence | jogador*0.6, qb*2, quarterback*0.8, jaguars*3, jacksonville*2, atual*2, clemson*1.5
-Tua | jogador*0.6, qb*2, quarterback*0.8, dolphins*3, miami*2, atual*2, alabama*1.5
-Stroud | jogador*0.6, qb*2, quarterback*0.8, texans*3, houston*2, atual*2
-Tomlin | tecnico*3, steelers*3, pittsburgh*2, atual*2
-Reid | tecnico*3, chiefs*3, kansas-city*2, eagles*1.5, mahomes*2.5, bigode*2
-Kraft | dono*3, patriots*3, boston*2
-Goodell | comissario*3, nfl*3, liga*2, draft*1.5, vaiado*2, superbowl*2, probowl*1, evento*1.5, draft*3
-# --- Termos famosos ---
-Touchdown | pontos*3, jogada*2, zona-final*3, seis-pontos*3, comemoracao*2, ponto-extra*2
-Quarterback | posicao*3, ataque*3, lider*2.5, passador*3, camisa-importante*1.5, mahomes*1, brady*1
-Receiver | posicao*3, ataque*3, passe*2.5, touchdown*1.5, wr*2
-Linebacker | posicao*3, defesa*3, tackle*2, blitz*2
-Kicker | posicao*3, especial*3, field-goal*3, chute*2.5, bola*1
-Punter | posicao*3, especial*3, chute*2.5, punt*3, quarta-descida*1.5
-Blitz | jogada*3, defesa*3, pressao*3, quarterback*0.8, sack*2.5
-Sack | jogada*3, defesa*3, quarterback*0.8, blitz*2.5, derrubada*2.5
-Fumble | jogada*3, bola-solta*3, turnover*2.5, perda*2, defesa*1.5
-Interception | jogada*3, defesa*3, passe*2.5, turnover*2.5, quarterback*0.8, perda*2
-Punt | jogada*3, especial*3, chute*2.5, quarta-descida*2, punter*3
-Snap | jogada*3, inicio*3, centro*2.5, quarterback*0.8, bola*2
-Draft | evento*3, selecao*3, novatos*3, universidades*2, goodell*1.5, abril*1.5
-Playoffs | fase*3, mata-mata*3, pos-temporada*3, wild-card*2, super-bowl*2, temporada*2, overtime*1, superbowl*4, super-bowl*1, final*1.5
-Super Bowl | final*3, jogo*2, campeonato*3, intervalo*2.5, show*2.5, anual*2, comerciais*2, trofeu*2, super-bowl*2, playoffs*2.5
-Halftime | intervalo*3, show*3, superbowl*2, musica*2
-Huddle | jogada*3, estrategia*3, reuniao*3, quarterback*0.8, ataque*2
-Tackle | jogada*3, defesa*3, derrubar*3, linebacker*2
-End Zone | campo*3, zona-final*3, touchdown*3, pontos*2
-Red Zone | campo*3, perto-do-touchdown*3, pontos*2, ataque*2
-Field Goal | pontos*3, kicker*3, chute*3, tres-pontos*3, especial*2
-Safety | pontos*3, dois-pontos*3, defesa*3, zona-final*2, posicao*1.5
-Cornerback | posicao*3, defesa*3, passe*2.5, secundaria*2.5, velocidade*2
-Touchback | jogada*3, kickoff*2.5, zona-final*2, especial*2
-Marino | jogador*0.6, qb*2, quarterback*0.8, dolphins*3, miami*2, lenda*2
-Kaepernick | jogador*0.6, qb*2, quarterback*0.8, 49ers*3, sao-francisco*2, joelho*2, protesto*2
-Gronkowski | jogador*0.6, te*3, tight-end*2, patriots*3, buccaneers*2, brady*2.5, comemoracao*1.5, lenda*2
-Moss | jogador*0.6, wr*3, wide-receiver*2, patriots*2.5, vikings*2, raiders*1, lenda*2, randy*3
-Owens | jogador*0.6, wr*3, wide-receiver*2, 49ers*2, eagles*2, cowboys*2, terrell*3, lenda*1.5
-Peterson | jogador*0.6, rb*3, running-back*2, vikings*3, minnesota*2, adrian*3, lenda*1.5, forca*2
-Lewis | jogador*0.6, lb*3, ravens*3, baltimore*2, ray*3, lenda*2, defesa*2.5
-Polamalu | jogador*0.6, s*3, steelers*3, pittsburgh*2, cabelo*2, lenda*2, defesa*2
-Roethlisberger | jogador*0.6, qb*2, quarterback*0.8, steelers*3, pittsburgh*2, aposentado*1
-Bradshaw | jogador*0.6, qb*2, quarterback*0.8, steelers*3, pittsburgh*2, lenda*2, dinastia*2
-Payton | jogador*0.6, rb*3, running-back*2, bears*3, chicago*2, walter*3, lenda*2
-Butkus | jogador*0.6, lb*3, bears*3, chicago*2, lenda*2, defesa*2.5
-Urlacher | jogador*0.6, lb*3, bears*3, chicago*2, defesa*2.5
-Sapp | jogador*0.6, dt*3, buccaneers*3, tampa*2, defesa*2.5, warren*3
-Barry | jogador*0.6, rb*3, running-back*2, lions*3, detroit*2, lenda*2, sanders*2
-Megatron | jogador*0.6, wr*3, wide-receiver*2, lions*3, detroit*2, calvin*3, lenda*2
-Bettis | jogador*0.6, rb*3, running-back*2, steelers*3, pittsburgh*2, onibus*3
-Faulk | jogador*0.6, rb*3, running-back*2, rams*3, los-angeles*2, greatest-show*2
-Warner | jogador*0.6, qb*2, quarterback*0.8, rams*3, cardinals*2.5, super-bowl*2, mercado*1.5
-Fitzgerald | jogador*0.6, wr*3, wide-receiver*2, cardinals*3, arizona*2, larry*3, lenda*2
-Watson | jogador*0.6, qb*2, quarterback*0.8, texans*2.5, browns*2.5
-Mayfield | jogador*0.6, qb*2, quarterback*0.8, browns*2, buccaneers*2.5, baker*3
-Wentz | jogador*0.6, qb*2, quarterback*0.8, eagles*2.5, colts*1.5
-Murray | jogador*0.6, qb*2, quarterback*0.8, cardinals*3, arizona*2, kyler*3, atual*2
-Fields | jogador*0.6, qb*2, quarterback*0.8, bears*2.5, steelers*1.5, justin*3
-Purdy | jogador*0.6, qb*2, quarterback*0.8, 49ers*3, sao-francisco*2, atual*2, ultimo-escolhido*2
-Cousins | jogador*0.6, qb*2, quarterback*0.8, vikings*2.5, falcons*2, commanders*1.5
-Ryan | jogador*0.6, qb*2, quarterback*0.8, falcons*3, atlanta*2, matt*3, mvp*2
-Luck | jogador*0.6, qb*2, quarterback*0.8, colts*3, indianapolis*2, andrew*3, aposentadoria*2
-Winston | jogador*0.6, qb*2, quarterback*0.8, buccaneers*3, saints*1.5, jameis*3
-Daniels | jogador*0.6, qb*2, quarterback*0.8, commanders*3, washington*2, jayden*3, atual*2
-Maye | jogador*0.6, qb*2, quarterback*0.8, patriots*3, boston*2, drake*3, atual*2
-Williams | jogador*0.6, qb*2, quarterback*0.8, bears*3, chicago*2, caleb*3, atual*2
-Reed | jogador*0.6, s*3, ravens*3, baltimore*2, ed*3, defesa*2, lenda*1.5
-Brown | jogador*0.6, wr*3, wide-receiver*2, steelers*2.5, raiders*1.5, antonio*3, ab*2
-Beckham | jogador*0.6, wr*3, wide-receiver*2, giants*3, nova-york*2, odell*3, catch-impossivel*3
-Gurley | jogador*0.6, rb*3, running-back*2, rams*3, los-angeles*2, falcons*1
-Lynch | jogador*0.6, rb*3, running-back*2, seahawks*3, seattle*2, beast-mode*3, marshawn*3
-Sherman | jogador*0.6, cb*3, seahawks*3, seattle*2, legion-of-boom*3, richard*3, defesa*2
-Thomas | jogador*0.6, s*3, seahawks*3, seattle*2, earl*3, legion-of-boom*3
-Carroll | tecnico*3, seahawks*3, seattle*2, pete*3, usc*1.5
-Shanahan | tecnico*3, 49ers*3, sao-francisco*2, kyle*3, atual*2
-Sirianni | tecnico*3, eagles*3, filadelfia*2, atual*2
-Harbaugh | tecnico*3, ravens*2.5, 49ers*2.5, irmaos*3
-Vrabel | tecnico*3, titans*2, patriots*2.5, mike*3
-# ---- ampliação: mais jogadores por time e jogadas ----
-Kelly | jogador*0.6, qb*2, quarterback*0.8, bills*3, buffalo*2, lenda*2, quatro-super-bowls-perdidos*2
-Thurman | jogador*0.6, rb*3, running-back*2, bills*3, buffalo*2, lenda*2, kelly*2
-Waddle | jogador*0.6, wr*3, wide-receiver*2, dolphins*3, miami*2, tua*2, hill*2.5, velocidade*2
-Revis | jogador*0.6, cb*3, defesa*2.5, jets*3, patriots*2, ilha*2, lenda*1.5
-Edelman | jogador*0.6, wr*3, wide-receiver*2, patriots*3, brady*2.5, boston*2, slot*2
-Hernandez | jogador*0.6, te*3, tight-end*2, patriots*3, brady*2, polemica*2
-Flacco | jogador*0.6, qb*2, quarterback*0.8, ravens*3, baltimore*2, super-bowl*2, mvp-super-bowl*2
-Andrews | jogador*0.6, te*3, tight-end*2, ravens*3, baltimore*2, lamar*2.5
-Higgins | jogador*0.6, wr*3, wide-receiver*2, bengals*3, cincinnati*2, burrow*2, chase*2
-Boyd | jogador*0.6, wr*3, wide-receiver*2, bengals*3, cincinnati*2, burrow*2
-Chubb | jogador*0.6, rb*3, running-back*2, browns*3, cleveland*2, forca*2
-Kosar | jogador*0.6, qb*2, quarterback*0.8, browns*3, cleveland*2, lenda*1.5
-Harrison | jogador*0.6, lb*3, steelers*3, pittsburgh*2, defesa*2.5, sacks*2.5, james*3
-Ward | jogador*0.6, wr*3, wide-receiver*2, steelers*3, pittsburgh*2, hines*3, bloqueios*2
-Swann | jogador*0.6, wr*3, wide-receiver*2, steelers*3, pittsburgh*2, dinastia*2.5, lenda*2, bradshaw*2.5
-Lambert | jogador*0.6, lb*3, steelers*3, pittsburgh*2, dinastia*2.5, cortina-de-aco*3, lenda*2, greene*2.5
-Greene | jogador*0.6, dt*3, steelers*3, pittsburgh*2, dinastia*2.5, cortina-de-aco*3, lenda*2, joe*3
-Hopkins | jogador*0.6, wr*3, wide-receiver*2, texans*3, cardinals*2.5, titans*1.5, mao-macia*2.5, deandre*3
-Foster | jogador*0.6, rb*3, running-back*2, texans*3, houston*2, arian*3
-Johnson | jogador*0.6, wr*3, wide-receiver*2, texans*3, houston*2, andre*3, lenda*1.5
-Wayne | jogador*0.6, wr*3, wide-receiver*2, colts*3, indianapolis*2, peyton*3, reggie*3
-Freeney | jogador*0.6, de*3, edge*2, colts*3, indianapolis*2, sacks*2.5, spin-move*3
-Marvin | jogador*0.6, wr*3, wide-receiver*2, colts*3, indianapolis*2, peyton*2.5, harrison*2.5
-Fournette | jogador*0.6, rb*3, running-back*2, jaguars*3, jacksonville*2, buccaneers*2, leonard*3
-Ramsey | jogador*0.6, cb*3, defesa*2.5, jaguars*3, rams*2.5, dolphins*2, jalen*3
-McNair | jogador*0.6, qb*2, quarterback*0.8, titans*3, nashville*2, steve*3, co-mvp*3
-Tannehill | jogador*0.6, qb*2, quarterback*0.8, titans*3, dolphins*2.5, nashville*2
-Holmes | jogador*0.6, rb*3, running-back*2, chiefs*3, kansas-city*2, priest*3
-Gonzalez | jogador*0.6, te*3, tight-end*2, chiefs*3, falcons*3, lenda*2, tony*3
-Hunt | jogador*0.6, rb*3, running-back*2, chiefs*3, browns*2.5, kareem*3
-Carr | jogador*0.6, qb*2, quarterback*0.8, raiders*3, las-vegas*2, derek*3, saints*1.5
-Gruden | tecnico*3, raiders*3, buccaneers*3, super-bowl*2, comentarista*2.5, chucky*3
-Crosby | jogador*0.6, de*3, edge*2, raiders*3, las-vegas*2, sacks*2.5, maxx*3
-Rivers | jogador*0.6, qb*2, quarterback*0.8, chargers*3, colts*2, philip*3, lenda*1.5
-Tomlinson | jogador*0.6, rb*3, running-back*2, chargers*3, ladainian*3, lenda*2.5
-Gates | jogador*0.6, te*3, tight-end*2, chargers*3, antonio*3, lenda*2
-Fouts | jogador*0.6, qb*2, quarterback*0.8, chargers*3, san-diego*2, lenda*2, passes*2
-Miller | jogador*0.6, lb*3, edge*2, broncos*3, denver*2, von*3, super-bowl-mvp*2.5, sacks*2.5
-Terrell | jogador*0.6, rb*3, running-back*2, broncos*3, denver*2, davis*3, super-bowl-mvp*2.5
-Staubach | jogador*0.6, qb*2, quarterback*0.8, cowboys*3, dallas*2, america-team*2.5, lenda*2.5, capitao-america*3
-Irvin | jogador*0.6, wr*3, wide-receiver*2, cowboys*3, dallas*2, aikman*3, emmitt*2.5, playmaker*3
-Romo | jogador*0.6, qb*2, quarterback*0.8, cowboys*3, dallas*2, comentarista*2.5, undrafted*2.5
-Witten | jogador*0.6, te*3, tight-end*2, cowboys*3, dallas*2, romo*3, comentarista*1.5
-Lamb | jogador*0.6, wr*3, wide-receiver*2, cowboys*3, dallas*2, ceedee*3, prescott*2.5
-Bryant | jogador*0.6, wr*3, wide-receiver*2, cowboys*3, dallas*2, dez*3, garra*2
-Strahan | jogador*0.6, de*3, edge*2, giants*3, nova-york*2, sacks*2.5, recordista*2.5, super-bowl*2
-Parcells | tecnico*3, giants*3, patriots*2.5, cowboys*2, jets*2, super-bowl*2, tuna*3
-Burress | jogador*0.6, wr*3, wide-receiver*2, giants*3, super-bowl-xlii*3, eli*3, nova-york*2
-McNabb | jogador*0.6, qb*2, quarterback*0.8, eagles*3, filadelfia*2, donovan*3, super-bowl*1.5
-Foles | jogador*0.6, qb*2, quarterback*0.8, eagles*3, super-bowl*3, mvp*2.5, filadelfia*2, philly-special*3
-Vick | jogador*0.6, qb*2, quarterback*0.8, falcons*3, eagles*3, mobilidade*3, corredor*2.5, atlanta*2
-Dawkins | jogador*0.6, s*3, defesa*2.5, eagles*3, filadelfia*2, brian*3, lenda*1.5
-Theismann | jogador*0.6, qb*2, quarterback*0.8, commanders*3, washington*2, joe*3, lesao*3
-Riggins | jogador*0.6, rb*3, running-back*2, commanders*3, washington*2, super-bowl*2, john*3
-Griffin | jogador*0.6, qb*2, quarterback*0.8, commanders*3, washington*2, rg3*3, novato*2.5
-Starr | jogador*0.6, qb*2, quarterback*0.8, packers*3, green-bay*2, lombardi*3, super-bowl*3, bart*3
-Nitschke | jogador*0.6, lb*3, packers*3, green-bay*2, lombardi*3, lenda*2, defesa*2.5
-Love | jogador*0.6, qb*2, quarterback*0.8, packers*3, green-bay*2, rodgers*3, jordan*3
-Nelson | jogador*0.6, wr*3, wide-receiver*2, packers*3, green-bay*2, rodgers*3, jordy*3
-Matthews | jogador*0.6, lb*3, edge*2, packers*3, green-bay*2, clay*3, sacks*2.5
-Singletary | jogador*0.6, lb*3, bears*3, chicago*2, 85-bears*3, mike*3, defesa*2.5, olhos-arregalados*3
-McMahon | jogador*0.6, qb*2, quarterback*0.8, bears*3, chicago*2, 85-bears*3, jim*3, bandana*3
-Cutler | jogador*0.6, qb*2, quarterback*0.8, bears*3, chicago*2, jay*3, broncos*1
-Hester | jogador*0.6, wr*3, retornador*3, bears*3, chicago*2, devin*3, especial*2.5, retornos*3, kickoff*2.5, punt*2.5, touchback*1.5
-Peppers | jogador*0.6, de*3, edge*2, panthers*2.5, bears*2.5, packers*2, julius*3, sacks*2.5
-Hutchinson | jogador*0.6, de*3, edge*2, lions*3, detroit*2, aidan*3, defesa*2.5, atual*2
-Gibbs | jogador*0.6, rb*3, running-back*2, lions*3, detroit*2, jahmyr*3, atual*2
-Campbell | tecnico*3, lions*3, detroit*2, dan*3, atual*2, motivacao*3, mordida*3
-Tarkenton | jogador*0.6, qb*2, quarterback*0.8, vikings*3, minnesota*2, fran*3, lenda*2
-Culpepper | jogador*0.6, qb*2, quarterback*0.8, vikings*3, minnesota*2, daunte*3, moss*3
-Kamara | jogador*0.6, rb*3, running-back*2, saints*3, new-orleans*2, alvin*3, atual*2
-Graham | jogador*0.6, te*3, tight-end*2, saints*3, new-orleans*2, jimmy*3, bola*1.5
-Julio | jogador*0.6, wr*3, wide-receiver*2, falcons*3, atlanta*2, jones*3, catches*2.5
-Bijan | jogador*0.6, rb*3, running-back*2, falcons*3, atlanta*2, robinson*3, atual*2
-Evans | jogador*0.6, wr*3, wide-receiver*2, buccaneers*3, tampa*2, mike*3, brady*2, mil-jardas*2.5
-Brooks | jogador*0.6, lb*3, buccaneers*3, tampa*2, derrick*3, defesa*2.5, lenda*2
-Kuechly | jogador*0.6, lb*3, panthers*3, carolina*2, luke*3, defesa*2.5, cam*1.5, concussao*2
-Bryce | jogador*0.6, qb*2, quarterback*0.8, panthers*3, carolina*2, young*3, atual*2
-Dickerson | jogador*0.6, rb*3, running-back*2, rams*3, eric*3, recordista*3, lenda*2, oculos*3
-Metcalf | jogador*0.6, wr*3, wide-receiver*2, seahawks*3, seattle*2, dk*3, atual*2
-Largent | jogador*0.6, wr*3, wide-receiver*2, seahawks*3, seattle*2, steve*3, lenda*2
-Tillman | jogador*0.6, s*3, defesa*2, cardinals*3, arizona*2, pat*3, heroi*3, exercito*3
-Lott | jogador*0.6, s*3, defesa*2.5, 49ers*3, sao-francisco*2, ronnie*3, lenda*2, dinastia*2
-Young | jogador*0.6, qb*2, quarterback*0.8, 49ers*3, sao-francisco*2, steve*3, canhoto*3, lenda*2
-Walsh | tecnico*3, 49ers*3, sao-francisco*2, bill*3, west-coast*3, montana*3, lenda*2.5, dinastia*2
-Garoppolo | jogador*0.6, qb*2, quarterback*0.8, 49ers*3, patriots*2, raiders*2, jimmy*3
-Hail Mary | jogada*3, passe*3, longo*3, desespero*3, final-do-jogo*3, quarterback*0.8, touchdown*2, milagre*3
-Audible | jogada*3, quarterback*0.8, mudanca*3, linha-de-scrimmage*2.5, ataque*2.5, grito*2
-Shotgun | formacao*3, quarterback*0.8, ataque*3, passe*2.5, afastado*2
-Play Action | jogada*3, finta*3, quarterback*0.8, passe*2.5, corrida*2.5, ataque*2.5
-Screen | jogada*3, passe*3, curto*3, ataque*3, enganar-defesa*2.5, running-back*2
-Sneak | jogada*3, quarterback*0.8, corrida*3, curta-distancia*3, tush-push*3, ataque*2.5
-Onside | jogada*3, chute*3, especial*3, recuperar-bola*3, desespero*2.5, kickoff*3
-Kickoff | jogada*3, chute*3, especial*3, inicio*3, retorno*2.5, touchback*3
-Penalty | regra*3, flag*3, jardas*3, arbitro*3, falta*3, jogada*1.5
-Flag | regra*3, penalty*3, arbitro*3, amarela*3, falta*3
-Holding | regra*3, penalty*3, falta*3, linha*3, flag*3
-Offside | regra*3, penalty*3, falta*3, flag*3, defesa*3
-Timeout | regra*3, pausa*3, tempo*3, treinador*3, estrategia*3
-Overtime | regra*3, prorrogacao*3, desempate*3, jogo*2.5, sudden-death*2.5
-Scrimmage | linha*3, campo*3, jogada*3, snap*3, ataque*2, defesa*2
-Lineman | posicao*3, linha*3, protecao*3, forca*3, quarterback*0.8, ataque*2
-Fullback | posicao*3, ataque*3, bloqueio*3, running-back*3, forca*2
-Halfback | posicao*3, ataque*3, corrida*3, running-back*3
-Running Back | posicao*3, ataque*3, corrida*3, halfback*3, jardas*2.5
-Tight End | posicao*3, ataque*3, receiver*3, bloqueio*3, kelce*2, gronkowski*2
-Center | posicao*3, ataque*3, linha*3, snap*3, quarterback*0.8, bola*2.5
-Guard | posicao*3, ataque*3, linha*3, protecao*3, forca*2
-Coordinator | funcao*3, tecnico*3, ataque*2.5, defesa*2.5, estrategia*3
-Pro Bowl | evento*3, estrelas*3, jogo*3, fim-da-temporada*3, selecao*3, honra*3
-Coach | funcao*3, tecnico*3, estrategia*3, treinador*3, belichick*2, reid*2, tomlin*2
-
-Philly Special | foles*3, eagles*3, super-bowl*3, jogada*3, trick*2.5, touchdown*2, patriots*2, filadelfia*2, trick-play*2
-Pick Six | interception*3.5, touchdown*3, defesa*2.5, jogada*2, cornerback*1.5, retorno*2
-Fourth Down | quarta-descida*3, descida*2.5, punt*2.5, field-goal*2, risco*2.5, tentativa*1.5, jogada*1.5
-Wild Card | playoffs*3.5, mata-mata*2.5, fase*2, classificacao*2.5, super-bowl*1
-Fair Catch | retorno*3, punt*3, kickoff*2, especial*2.5, receptor*1.5
+# Futebol Americano: jogadores atuais da NFL (QB, RB, WR, TE, LB, CB, S) | tags: time, posição, divisão, conferência
+# Fontes: depth charts Footballguys (nov/2026), ESPN e Bleacher Report (projeções 2026), sites oficiais de Colts e Commanders. Nomes sem pontuação.
+# --- ARI ---
+Carson Beck | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-ari-ataque*1.4, passe-ari*1.0, =beck
+Jeremiyah Love | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-ari-ataque*1.4, calouro-2026*0.7
+Michael Wilson | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-ari-ataque*1.4, passe-ari*1.0
+Trey McBride | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-ari-ataque*1.4, passe-ari*1.0, top100-nfl*0.35, =mcbride
+Budda Baker | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-ari-defesa*1.4, strong-safety*0.7, top100-nfl*0.35, =baker
+Josh Sweat | time-ari*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-ari-defesa*1.4, edge*0.8, top100-nfl*0.35
+# --- ATL ---
+Michael Penix | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-atl-ataque*1.4, passe-atl*1.0, =penix
+Tua Tagovailoa | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-atl-ataque*1.4, passe-atl*1.0, =tagovailoa
+Bijan Robinson | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-atl-ataque*1.4, top100-nfl*0.35, =robinson
+Drake London | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-atl-ataque*1.4, passe-atl*1.0, top100-nfl*0.35, =london
+Kyle Pitts | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-atl-ataque*1.4, passe-atl*1.0, =pitts
+AJ Terrell | time-atl*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-atl-defesa*1.4, =terrell
+# --- BAL ---
+Lamar Jackson | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-bal-ataque*1.4, passe-bal*1.0, top100-nfl*0.35, =jackson
+Jacoby Brissett | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-bal-ataque*1.4, passe-bal*1.0, =brissett
+Derrick Henry | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-bal-ataque*1.4, top100-nfl*0.35
+Zay Flowers | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-bal-ataque*1.4, passe-bal*1.0, top100-nfl*0.35, =flowers
+Rashod Bateman | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-bal-ataque*1.4, passe-bal*1.0, =bateman
+Mark Andrews | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-bal-ataque*1.4, passe-bal*1.0, =andrews
+Roquan Smith | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-bal-defesa*1.4, lb-interno*0.8, top100-nfl*0.35
+Nate Wiggins | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-bal-defesa*1.4, =wiggins
+Marlon Humphrey | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-bal-defesa*1.4, =humphrey
+Kyle Hamilton | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-bal-defesa*1.4, strong-safety*0.7, top100-nfl*0.35, =hamilton
+Malaki Starks | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, unidade-bal-defesa*1.4, free-safety*0.7, =starks
+Trey Hendrickson | time-bal*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-bal-defesa*1.4, edge*0.8, =hendrickson
+# --- BUF ---
+Josh Allen | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-buf-ataque*1.4, passe-buf*1.0, top100-nfl*0.35
+James Cook | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-buf-ataque*1.4, top100-nfl*0.35, =cook
+DJ Moore | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-buf-ataque*1.4, passe-buf*1.0, =moore
+Khalil Shakir | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-buf-ataque*1.4, passe-buf*1.0, =shakir
+Keon Coleman | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-buf-ataque*1.4, passe-buf*1.0, =coleman
+Dalton Kincaid | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-buf-ataque*1.4, passe-buf*1.0, =kincaid
+Damar Hamlin | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-buf-defesa*1.4, strong-safety*0.7, =hamlin
+Greg Rousseau | time-buf*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-buf-defesa*1.4, edge*0.8, =rousseau
+# --- CAR ---
+Bryce Young | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-car-ataque*1.4, passe-car*1.0, top100-nfl*0.35
+Chuba Hubbard | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-car-ataque*1.4, =hubbard
+Tetairoa McMillan | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-car-ataque*1.4, passe-car*1.0, top100-nfl*0.35, =mcmillan
+Jalen Coker | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-car-ataque*1.4, passe-car*1.0, =coker
+Darren Waller | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-car-ataque*1.4, passe-car*1.0, =waller
+Devin Lloyd | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-car-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, =lloyd
+Jaycee Horn | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-car-defesa*1.4, top100-nfl*0.35, =horn
+Derrick Brown | time-car*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-car-defesa*1.4, interior*0.8, top100-nfl*0.35
+# --- CHI ---
+Caleb Williams | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-chi-ataque*1.4, passe-chi*1.0, top100-nfl*0.35
+DAndre Swift | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-chi-ataque*1.4, =swift
+Rome Odunze | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-chi-ataque*1.4, passe-chi*1.0, =odunze
+Luther Burden | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-chi-ataque*1.4, passe-chi*1.0, =burden
+Colston Loveland | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-chi-ataque*1.4, passe-chi*1.0, =loveland
+Jaylon Johnson | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-chi-defesa*1.4
+Kyler Gordon | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-chi-defesa*1.4, =gordon
+Montez Sweat | time-chi*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-chi-defesa*1.4, edge*0.8, top100-nfl*0.35
+# --- CIN ---
+Joe Burrow | time-cin*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-cin-ataque*1.4, passe-cin*1.0, top100-nfl*0.35, regiao-oh*0.5, =burrow
+Chase Brown | time-cin*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-cin-ataque*1.4, regiao-oh*0.5
+JaMarr Chase | time-cin*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-cin-ataque*1.4, passe-cin*1.0, top100-nfl*0.35, regiao-oh*0.5, =chase
+Tee Higgins | time-cin*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-cin-ataque*1.4, passe-cin*1.0, regiao-oh*0.5
+Dexter Lawrence | time-cin*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-cin-defesa*1.4, interior*0.8, regiao-oh*0.5
+# --- CLE ---
+Deshaun Watson | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-cle-ataque*1.4, passe-cle*1.0, regiao-oh*0.5
+Shedeur Sanders | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-cle-ataque*1.4, passe-cle*1.0, regiao-oh*0.5, =sanders
+Quinshon Judkins | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-cle-ataque*1.4, regiao-oh*0.5, =judkins
+Jerry Jeudy | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-cle-ataque*1.4, passe-cle*1.0, regiao-oh*0.5, =jeudy
+Denzel Boston | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-cle-ataque*1.4, passe-cle*1.0, calouro-2026*0.7, regiao-oh*0.5, =boston
+KC Concepcion | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-cle-ataque*1.4, passe-cle*1.0, calouro-2026*0.7, regiao-oh*0.5, =concepcion
+Harold Fannin | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-cle-ataque*1.4, passe-cle*1.0, regiao-oh*0.5, =fannin
+Carson Schwesinger | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-cle-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-oh*0.5, =schwesinger
+Jeremiah Owusu Koramoah | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, unidade-cle-defesa*1.4, lb-interno*0.8, regiao-oh*0.5, =koramoah, =jok
+Denzel Ward | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-cle-defesa*1.4, regiao-oh*0.5
+Tyson Campbell | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-cle-defesa*1.4, regiao-oh*0.5
+Jared Verse | time-cle*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-cle-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-oh*0.5, =verse
+# --- DAL ---
+Dak Prescott | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-dal-ataque*1.4, passe-dal*1.0, top100-nfl*0.35, regiao-tx*0.5, =prescott
+Javonte Williams | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-dal-ataque*1.4, regiao-tx*0.5
+CeeDee Lamb | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-dal-ataque*1.4, passe-dal*1.0, top100-nfl*0.35, regiao-tx*0.5, =lamb
+George Pickens | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-dal-ataque*1.4, passe-dal*1.0, top100-nfl*0.35, regiao-tx*0.5, =pickens
+Jake Ferguson | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-dal-ataque*1.4, passe-dal*1.0, regiao-tx*0.5, =ferguson
+DeMarvion Overshown | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-dal-defesa*1.4, lb-interno*0.8, regiao-tx*0.5, =overshown
+Joey Porter | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-dal-defesa*1.4, regiao-tx*0.5, =porter
+DaRon Bland | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-dal-defesa*1.4, regiao-tx*0.5, =bland
+Caleb Downs | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-dal-defesa*1.4, strong-safety*0.7, calouro-2026*0.7, regiao-tx*0.5
+Quinnen Williams | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-dal-defesa*1.4, interior*0.8, regiao-tx*0.5
+Rashan Gary | time-dal*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-dal-defesa*1.4, edge*0.8, regiao-tx*0.5, =gary
+# --- DEN ---
+Bo Nix | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-den-ataque*1.4, passe-den*1.0, top100-nfl*0.35, =nix
+JK Dobbins | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-den-ataque*1.4, =dobbins
+Jaylen Waddle | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-den-ataque*1.4, passe-den*1.0, =waddle
+Courtland Sutton | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-den-ataque*1.4, passe-den*1.0, top100-nfl*0.35, =sutton
+Evan Engram | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-den-ataque*1.4, passe-den*1.0, =engram
+Patrick Surtain | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-den-defesa*1.4, top100-nfl*0.35, =surtain
+Talanoa Hufanga | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-den-defesa*1.4, strong-safety*0.7, =hufanga
+Nik Bonitto | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-den-defesa*1.4, edge*0.8, top100-nfl*0.35, =bonitto
+Zach Allen | time-den*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-den-defesa*1.4, interior*0.8, top100-nfl*0.35
+# --- DET ---
+Jared Goff | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-det-ataque*1.4, passe-det*1.0, top100-nfl*0.35, =goff
+Jahmyr Gibbs | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-det-ataque*1.4, top100-nfl*0.35, =gibbs
+Isiah Pacheco | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-det-ataque*1.4, =pacheco
+Amon Ra St Brown | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-det-ataque*1.4, passe-det*1.0, top100-nfl*0.35, =stbrown, =amonra
+Jameson Williams | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-det-ataque*1.4, passe-det*1.0
+Sam LaPorta | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-det-ataque*1.4, passe-det*1.0, =laporta
+Jack Campbell | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-det-defesa*1.4, lb-interno*0.8, top100-nfl*0.35
+Kerby Joseph | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-det-defesa*1.4, free-safety*0.7, =joseph
+Brian Branch | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, unidade-det-defesa*1.4, strong-safety*0.7, =branch
+Aidan Hutchinson | time-det*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-det-defesa*1.4, edge*0.8, top100-nfl*0.35, =hutchinson
+# --- GB ---
+Jordan Love | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-gb-ataque*1.4, passe-gb*1.0, top100-nfl*0.35
+Josh Jacobs | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-gb-ataque*1.4, top100-nfl*0.35, =jacobs
+Christian Watson | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-gb-ataque*1.4, passe-gb*1.0
+Matthew Golden | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-gb-ataque*1.4, passe-gb*1.0, =golden
+Jayden Reed | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-gb-ataque*1.4, passe-gb*1.0, =reed
+Tucker Kraft | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-gb-ataque*1.4, passe-gb*1.0, =kraft
+Micah Parsons | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-gb-defesa*1.4, edge*1.2, top100-nfl*0.35, =parsons
+Xavier McKinney | time-gb*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-gb-defesa*1.4, free-safety*0.7, top100-nfl*0.35, =mckinney
+# --- HOU ---
+CJ Stroud | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-hou-ataque*1.4, passe-hou*1.0, regiao-tx*0.5, =stroud
+David Montgomery | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-hou-ataque*1.4, regiao-tx*0.5, =montgomery
+Nico Collins | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-hou-ataque*1.4, passe-hou*1.0, top100-nfl*0.35, regiao-tx*0.5, =collins
+Marvin Harrison | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-hou-ataque*1.4, passe-hou*1.0, regiao-tx*0.5, =harrison
+Tank Dell | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-hou-ataque*1.4, passe-hou*1.0, regiao-tx*0.5, =dell
+Jayden Higgins | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-hou-ataque*1.4, passe-hou*1.0, regiao-tx*0.5
+Dalton Schultz | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-hou-ataque*1.4, passe-hou*1.0, regiao-tx*0.5, =schultz
+Azeez Al Shaair | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-hou-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-tx*0.5, =alshaair, =shaair
+Derek Stingley | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-hou-defesa*1.4, top100-nfl*0.35, regiao-tx*0.5, =stingley
+Will Anderson | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-hou-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-tx*0.5, =anderson
+Danielle Hunter | time-hou*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-hou-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-tx*0.5
+# --- IND ---
+Daniel Jones | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-ind-ataque*1.4, passe-ind*1.0
+Anthony Richardson | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-ind-ataque*1.4, passe-ind*1.0, =richardson
+Jonathan Taylor | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-ind-ataque*1.4, top100-nfl*0.35
+Alec Pierce | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-ind-ataque*1.4, passe-ind*1.0, =pierce
+Tyler Warren | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-ind-ataque*1.4, passe-ind*1.0
+Sauce Gardner | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-ind-defesa*1.4, =sauce, =gardner
+Charvarius Ward | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-ind-defesa*1.4
+Cam Bynum | time-ind*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-ind-defesa*1.4, free-safety*0.7, =bynum
+# --- JAX ---
+Trevor Lawrence | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-jax-ataque*1.4, passe-jax*1.0, top100-nfl*0.35, regiao-fl*0.5
+Bhayshul Tuten | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-jax-ataque*1.4, regiao-fl*0.5, =tuten
+Brian Thomas | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-jax-ataque*1.4, passe-jax*1.0, regiao-fl*0.5, =thomas
+Jakobi Meyers | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-jax-ataque*1.4, passe-jax*1.0, regiao-fl*0.5, =meyers
+Travis Hunter | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*2.0, recepcao*1.5, skill*0.8, ataque*1.6, pos-cb*2.0, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-jax-ataque*1.4, passe-jax*1.0, dois-sentidos*2, regiao-fl*0.5
+Foyesade Oluokun | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-jax-defesa*1.4, lb-interno*0.8, regiao-fl*0.5, =oluokun
+Jessie Bates | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-jax-defesa*1.4, strong-safety*0.7, regiao-fl*0.5, =bates
+Josh Hines Allen | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-jax-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-fl*0.5
+Travon Walker | time-jax*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-jax-defesa*1.4, edge*0.8, regiao-fl*0.5
+# --- KC ---
+Patrick Mahomes | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-kc-ataque*1.4, passe-kc*1.0, top100-nfl*0.35, =mahomes
+Justin Fields | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-kc-ataque*1.4, passe-kc*1.0, =fields
+Kenneth Walker | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-kc-ataque*1.4
+Emmett Johnson | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-kc-ataque*1.4
+Rashee Rice | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-kc-ataque*1.4, passe-kc*1.0, =rice
+Xavier Worthy | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-kc-ataque*1.4, passe-kc*1.0, =worthy
+Josh Downs | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-kc-ataque*1.4, passe-kc*1.0
+Travis Kelce | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-kc-ataque*1.4, passe-kc*1.0, top100-nfl*0.35, =kelce
+Nick Bolton | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-kc-defesa*1.4, lb-interno*0.8, =bolton
+Mansoor Delane | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-kc-defesa*1.4, calouro-2026*0.7, =delane
+Chris Jones | time-kc*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-kc-defesa*1.4, interior*0.8, top100-nfl*0.35
+# --- LV ---
+Fernando Mendoza | time-lv*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-lv-ataque*1.4, passe-lv*1.0, calouro-2026*0.7, =mendoza
+Ashton Jeanty | time-lv*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-lv-ataque*1.4, =jeanty
+Brock Bowers | time-lv*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-lv-ataque*1.4, passe-lv*1.0, top100-nfl*0.35, =bowers
+Maxx Crosby | time-lv*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-lv-defesa*1.4, edge*1.2, top100-nfl*0.35, =crosby
+# --- LAC ---
+Justin Herbert | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-lac-ataque*1.4, passe-lac*1.0, top100-nfl*0.35, regiao-la*0.5, =herbert
+Omarion Hampton | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-lac-ataque*1.4, regiao-la*0.5, =hampton
+Ladd McConkey | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-lac-ataque*1.4, passe-lac*1.0, regiao-la*0.5, =mcconkey
+Quentin Johnston | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-lac-ataque*1.4, passe-lac*1.0, regiao-la*0.5, =johnston
+Oronde Gadsden | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-lac-ataque*1.4, passe-lac*1.0, regiao-la*0.5, =gadsden
+David Njoku | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, unidade-lac-ataque*1.4, passe-lac*1.0, regiao-la*0.5, =njoku
+Khalil Mack | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-lac-defesa*1.4, edge*1.2, regiao-la*0.5, =mack
+Derwin James | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-lac-defesa*1.4, strong-safety*0.7, top100-nfl*0.35, regiao-la*0.5, =james
+Tuli Tuipulotu | time-lac*3.0, div-afc-oeste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-lac-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-la*0.5, =tuipulotu
+# --- LAR ---
+Matthew Stafford | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-lar-ataque*1.4, passe-lar*1.0, top100-nfl*0.35, regiao-la*0.5, =stafford
+Kyren Williams | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-lar-ataque*1.4, top100-nfl*0.35, regiao-la*0.5
+Puka Nacua | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-lar-ataque*1.4, passe-lar*1.0, top100-nfl*0.35, regiao-la*0.5, =nacua
+Davante Adams | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-lar-ataque*1.4, passe-lar*1.0, top100-nfl*0.35, regiao-la*0.5, =adams
+Tyler Higbee | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-lar-ataque*1.4, passe-lar*1.0, regiao-la*0.5, =higbee
+Myles Garrett | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-lar-defesa*1.4, edge*1.2, top100-nfl*0.35, regiao-la*0.5, =garrett
+Byron Young | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, unidade-lar-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-la*0.5
+Trent McDuffie | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-lar-defesa*1.4, regiao-la*0.5, =mcduffie
+Aaron Donald | time-lar*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-lar-defesa*1.4, interior*0.8, regiao-la*0.5, =donald
+# --- MIA ---
+Malik Willis | time-mia*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-mia-ataque*1.4, passe-mia*1.0, regiao-fl*0.5, =willis
+Kyle McCord | time-mia*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-mia-ataque*1.4, passe-mia*1.0, regiao-fl*0.5, =mccord
+DeVon Achane | time-mia*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-mia-ataque*1.4, top100-nfl*0.35, regiao-fl*0.5, =achane
+Jordyn Brooks | time-mia*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-mia-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-fl*0.5, =brooks
+# --- MIN ---
+Kyler Murray | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-min-ataque*1.4, passe-min*1.0, =murray
+Kirk Cousins | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-min-ataque*1.4, passe-min*1.0, =cousins
+Carson Wentz | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-min-ataque*1.4, passe-min*1.0, =wentz
+Aaron Jones | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-min-ataque*1.4
+Justin Jefferson | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-min-ataque*1.4, passe-min*1.0, top100-nfl*0.35, =jefferson
+Jordan Addison | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-min-ataque*1.4, passe-min*1.0, =addison
+Jauan Jennings | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-min-ataque*1.4, passe-min*1.0, =jennings
+TJ Hockenson | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-min-ataque*1.4, passe-min*1.0, =hockenson
+Harrison Smith | time-min*3.0, div-nfc-norte*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-min-defesa*1.4, free-safety*0.7
+# --- NE ---
+Drake Maye | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-ne-ataque*1.4, passe-ne*1.0, top100-nfl*0.35, =maye
+Tommy DeVito | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-ne-ataque*1.4, passe-ne*1.0, =devito
+Rhamondre Stevenson | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-ne-ataque*1.4, =stevenson
+TreVeyon Henderson | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-ne-ataque*1.4, =henderson
+AJ Brown | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-ne-ataque*1.4, passe-ne*1.0, top100-nfl*0.35
+Romeo Doubs | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-ne-ataque*1.4, passe-ne*1.0, =doubs
+Hunter Henry | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-ne-ataque*1.4, passe-ne*1.0
+Christian Gonzalez | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-ne-defesa*1.4, top100-nfl*0.35, =gonzalez
+Kevin Byard | time-ne*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-ne-defesa*1.4, free-safety*0.7, top100-nfl*0.35, =byard
+# --- NO ---
+Tyler Shough | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-no-ataque*1.4, passe-no*1.0, =shough
+Travis Etienne | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-no-ataque*1.4, top100-nfl*0.35, =etienne
+Alvin Kamara | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-no-ataque*1.4, =kamara
+Chris Olave | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-no-ataque*1.4, passe-no*1.0, top100-nfl*0.35, =olave
+Jordyn Tyson | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-no-ataque*1.4, passe-no*1.0, calouro-2026*0.7, =tyson
+Kool Aid McKinstry | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-no-defesa*1.4, =mckinstry
+Cameron Jordan | time-no*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-no-defesa*1.4, edge*0.8, top100-nfl*0.35, =jordan
+# --- NYG ---
+Jaxson Dart | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =dart
+JJ McCarthy | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =jj, =mccarthy
+Jameis Winston | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =winston
+Cam Skattebo | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-nyg-ataque*1.4, regiao-ny*0.5, =skattebo
+Malik Nabers | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =nabers
+Darnell Mooney | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =mooney
+Isaiah Likely | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-nyg-ataque*1.4, passe-nyg*1.0, regiao-ny*0.5, =likely
+Arvell Reese | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-nyg-defesa*1.4, lb-interno*0.8, calouro-2026*0.7, regiao-ny*0.5, =reese
+Paulson Adebo | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-nyg-defesa*1.4, regiao-ny*0.5, =adebo
+Jevon Holland | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-nyg-defesa*1.4, free-safety*0.7, regiao-ny*0.5, =holland
+Brian Burns | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-nyg-defesa*1.4, edge*0.8, top100-nfl*0.35, regiao-ny*0.5, =burns
+Abdul Carter | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-nyg-defesa*1.4, edge*0.8, regiao-ny*0.5
+Kayvon Thibodeaux | time-nyg*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-nyg-defesa*1.4, edge*0.8, regiao-ny*0.5, =thibodeaux
+# --- NYJ ---
+Geno Smith | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-nyj-ataque*1.4, passe-nyj*1.0, regiao-ny*0.5
+Breece Hall | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-nyj-ataque*1.4, regiao-ny*0.5, =hall
+Garrett Wilson | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-nyj-ataque*1.4, passe-nyj*1.0, regiao-ny*0.5
+Mason Taylor | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-nyj-ataque*1.4, passe-nyj*1.0, regiao-ny*0.5
+Kenyon Sadiq | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, unidade-nyj-ataque*1.4, passe-nyj*1.0, calouro-2026*0.7, regiao-ny*0.5, =sadiq
+Demario Davis | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-nyj-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-ny*0.5, =davis
+Minkah Fitzpatrick | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-nyj-defesa*1.4, free-safety*0.7, regiao-ny*0.5, =fitzpatrick
+David Bailey | time-nyj*3.0, div-afc-leste*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-nyj-defesa*1.4, edge*0.8, calouro-2026*0.7, regiao-ny*0.5, =bailey
+# --- PHI ---
+Jalen Hurts | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-phi-ataque*1.4, passe-phi*1.0, top100-nfl*0.35, regiao-pa*0.5, =hurts
+Joe Milton | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-phi-ataque*1.4, passe-phi*1.0, regiao-pa*0.5, =milton
+Saquon Barkley | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-phi-ataque*1.4, top100-nfl*0.35, regiao-pa*0.5, =barkley
+DeVonta Smith | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-phi-ataque*1.4, passe-phi*1.0, regiao-pa*0.5
+Makai Lemon | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-phi-ataque*1.4, passe-phi*1.0, calouro-2026*0.7, regiao-pa*0.5, =lemon
+Dallas Goedert | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-phi-ataque*1.4, passe-phi*1.0, regiao-pa*0.5, =goedert
+Zack Baun | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-phi-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-pa*0.5, =baun
+Quinyon Mitchell | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-phi-defesa*1.4, top100-nfl*0.35, regiao-pa*0.5, =mitchell
+Riq Woolen | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-phi-defesa*1.4, regiao-pa*0.5, =woolen
+Cooper DeJean | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-phi-defesa*1.4, top100-nfl*0.35, regiao-pa*0.5, =dejean
+Jalen Carter | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-phi-defesa*1.4, interior*0.8, top100-nfl*0.35, regiao-pa*0.5
+Jonathan Greenard | time-phi*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-phi-defesa*1.4, edge*0.8, regiao-pa*0.5, =greenard
+# --- PIT ---
+Aaron Rodgers | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-pit-ataque*1.4, passe-pit*1.0, regiao-pa*0.5, =rodgers
+Mason Rudolph | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-pit-ataque*1.4, passe-pit*1.0, regiao-pa*0.5, =rudolph
+Jaylen Warren | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-pit-ataque*1.4, regiao-pa*0.5
+Rico Dowdle | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-pit-ataque*1.4, regiao-pa*0.5, =dowdle
+DK Metcalf | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-pit-ataque*1.4, passe-pit*1.0, regiao-pa*0.5, =metcalf
+Michael Pittman | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-pit-ataque*1.4, passe-pit*1.0, regiao-pa*0.5, =pittman
+Pat Freiermuth | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-pit-ataque*1.4, passe-pit*1.0, regiao-pa*0.5, =freiermuth
+Patrick Queen | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-pit-defesa*1.4, lb-interno*0.8, regiao-pa*0.5, =queen
+TJ Watt | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, unidade-pit-defesa*1.4, edge*1.2, top100-nfl*0.35, regiao-pa*0.5, =watt
+Jamel Dean | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-pit-defesa*1.4, regiao-pa*0.5, =dean
+Jalen Ramsey | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-pit-defesa*1.4, top100-nfl*0.35, regiao-pa*0.5, =ramsey
+Jaquan Brisker | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-pit-defesa*1.4, free-safety*0.7, regiao-pa*0.5, =brisker
+Cameron Heyward | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-pit-defesa*1.4, interior*0.8, regiao-pa*0.5, =heyward
+Alex Highsmith | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-pit-defesa*1.4, edge*0.8, regiao-pa*0.5, =highsmith
+Nick Herbig | time-pit*3.0, div-afc-norte*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-pit-defesa*1.4, edge*0.8, regiao-pa*0.5, =herbig
+# --- SF ---
+Brock Purdy | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-sf-ataque*1.4, passe-sf*1.0, top100-nfl*0.35, regiao-ca*0.5, =purdy
+Christian McCaffrey | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-sf-ataque*1.4, top100-nfl*0.35, regiao-ca*0.5, =mccaffrey
+Mike Evans | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-sf-ataque*1.4, passe-sf*1.0, regiao-ca*0.5, =evans
+Deebo Samuel | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-sf-ataque*1.4, passe-sf*1.0, regiao-ca*0.5, =samuel
+Keenan Allen | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-sf-ataque*1.4, passe-sf*1.0, regiao-ca*0.5
+George Kittle | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-te*3.4, recepcao*1.5, skill*0.5, bloqueio*0.5, ataque*1.6, titular-te*0.9, unidade-sf-ataque*1.4, passe-sf*1.0, top100-nfl*0.35, regiao-ca*0.5, =kittle
+Fred Warner | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-sf-defesa*1.4, lb-interno*0.8, top100-nfl*0.35, regiao-ca*0.5, =warner
+Dre Greenlaw | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, unidade-sf-defesa*1.4, lb-interno*0.8, regiao-ca*0.5, =greenlaw
+Nick Bosa | time-sf*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-sf-defesa*1.4, edge*0.8, regiao-ca*0.5, =bosa
+# --- SEA ---
+Sam Darnold | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-sea-ataque*1.4, passe-sea*1.0, top100-nfl*0.35, =darnold
+Drew Lock | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-sea-ataque*1.4, passe-sea*1.0, =lock
+Zach Charbonnet | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-sea-ataque*1.4, =charbonnet
+Jadarian Price | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, unidade-sea-ataque*1.4, calouro-2026*0.7, =price
+Jaxon Smith Njigba | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-sea-ataque*1.4, passe-sea*1.0, top100-nfl*0.35, =njigba, =jsn
+Rashid Shaheed | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-sea-ataque*1.4, passe-sea*1.0, =shaheed
+Cooper Kupp | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-sea-ataque*1.4, passe-sea*1.0, =kupp
+Ernest Jones | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-sea-defesa*1.4, lb-interno*0.8, top100-nfl*0.35
+Devon Witherspoon | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, titular-cb*0.9, unidade-sea-defesa*1.4, =witherspoon
+Trevon Diggs | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-cb*3.4, secundaria*1.5, cobertura*0.8, defesa*1.6, unidade-sea-defesa*1.4
+Julian Love | time-sea*3.0, div-nfc-oeste*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-sea-defesa*1.4, free-safety*0.7
+# --- TB ---
+Baker Mayfield | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-tb-ataque*1.4, passe-tb*1.0, top100-nfl*0.35, regiao-fl*0.5, =mayfield
+Bucky Irving | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-tb-ataque*1.4, regiao-fl*0.5, =irving
+Emeka Egbuka | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-tb-ataque*1.4, passe-tb*1.0, regiao-fl*0.5, =egbuka
+Chris Godwin | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-tb-ataque*1.4, passe-tb*1.0, regiao-fl*0.5, =godwin
+Antoine Winfield | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-s*3.4, secundaria*1.5, cobertura*0.5, defesa*1.6, titular-s*0.9, unidade-tb-defesa*1.4, free-safety*0.7, regiao-fl*0.5, =winfield
+Vita Vea | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-tb-defesa*1.4, interior*0.8, regiao-fl*0.5, =vea
+Rueben Bain | time-tb*3.0, div-nfc-sul*1.2, conf-nfc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, unidade-tb-defesa*1.4, edge*0.8, calouro-2026*0.7, regiao-fl*0.5, =bain
+# --- TEN ---
+Cam Ward | time-ten*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-ten-ataque*1.4, passe-ten*1.0
+Tony Pollard | time-ten*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-ten-ataque*1.4, =pollard
+Carnell Tate | time-ten*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-ten-ataque*1.4, passe-ten*1.0, calouro-2026*0.7, =tate
+Calvin Ridley | time-ten*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-ten-ataque*1.4, passe-ten*1.0, =ridley
+Jeffery Simmons | time-ten*3.0, div-afc-sul*1.2, conf-afc*0.6, pos-dl*3.4, front7*1.0, linha-defensiva*0.9, defesa*1.6, titular-dl*0.9, unidade-ten-defesa*1.4, interior*0.8, top100-nfl*0.35, =simmons
+# --- WAS ---
+Jayden Daniels | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, titular-qb*0.9, unidade-was-ataque*1.4, passe-was*1.0, =daniels
+Marcus Mariota | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-qb*3.4, passe*1.2, ataque*1.6, unidade-was-ataque*1.4, passe-was*1.0, =mariota
+Jacory Croskey Merritt | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-rb*3.4, corrida*1.2, skill*0.8, ataque*1.6, titular-rb*0.9, unidade-was-ataque*1.4, =merritt, =croskeymerritt
+Terry McLaurin | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, titular-wr*0.9, unidade-was-ataque*1.4, passe-was*1.0, =mclaurin
+Stefon Diggs | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-wr*3.4, recepcao*1.5, skill*0.8, ataque*1.6, unidade-was-ataque*1.4, passe-was*1.0
+Frankie Luvu | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, titular-lb*0.9, unidade-was-defesa*1.4, lb-interno*0.8, =luvu
+Sonny Styles | time-was*3.0, div-nfc-leste*1.2, conf-nfc*0.6, pos-lb*3.4, front7*1.2, defesa*1.6, unidade-was-defesa*1.4, lb-interno*0.8, calouro-2026*0.7, =styles
