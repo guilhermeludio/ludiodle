@@ -17,7 +17,7 @@
  "ranking_dtype": "uint16-le",
  "ties": "estável por índice do vocabulário",
  "daily_start": "2026-10-01",
- "daily_seed": 458273128,
+ "daily_seed": 878101153,
  "daily_shuffle": "Fisher-Yates (random.Random, seed fixa)",
  "answers": 280,
  "forms_count": 229
